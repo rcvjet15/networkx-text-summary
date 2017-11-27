@@ -58,7 +58,8 @@ class TextProcess:
         return "\n".join(chunk for chunk in chunks if chunk)        
     
     def __get_sentences(self, text):
-        return re.split(r"(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s", text)
+        # split by: (where word character is not before)(where big or small letter is not before)(where . or ? or ! is before)empty space character(where small letter is not after)
+        return re.split(r"(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)\s(?![a-z])", text)
         
     def __get_filtered_sentence(self, sentence):  
         # returns only alphanumeric characters or space
