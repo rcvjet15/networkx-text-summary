@@ -3,10 +3,13 @@ from bs4 import BeautifulSoup
 import re
 
 class TextProcess:
-  
+        
     def __init__(self, url = None, filename = None, content_selector_dict = None):
+        # url from where html will be fetched
         self._url = url
+        # filename of file in which text will be stored
         self._filename = filename
+        # html selector (id, class or data-...) which contains main content
         self._content_selector_dict = content_selector_dict
         self._text = None
         self._sentences = None        
@@ -27,7 +30,8 @@ class TextProcess:
     def start_process(self):
         text = self.__get_text_from_html()
         sentences = self.__get_sentences(text)
-        return (list(self.__get_filtered_sentence(sentence) for sentence in sentences if sentence))
+        filtered_list = list(self.__get_filtered_sentence(sentence) for sentence in sentences if sentence)
+        return filtered_list
         
     def __get_text_from_html(self):
         html = urllib.request.urlopen(self._url).read()
@@ -61,7 +65,7 @@ class TextProcess:
         # split by: (where word character is not before)(where big or small letter is not before)(where . or ? or ! is before)empty space character(where small letter is not after)
         return re.split(r"(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)\s(?![a-z])", text)
         
-    def __get_filtered_sentence(self, sentence):  
+    def __get_filtered_sentence(self, sentence): 
         # returns only alphanumeric characters or space
         return "".join(c for c in sentence if c.isalnum() or c.isspace())
             
