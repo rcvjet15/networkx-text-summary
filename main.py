@@ -26,7 +26,9 @@ filtered_sentences = tp.get_filtered_sentences()
 
 wt = WordTypes(word_marks_path=articles[2]["word_marks_path"])
 
-wt.get_marked_words_dict(filtered_sentences, [WordTypes.NOUN])
-#
+wt.get_marked_words_list(filtered_sentences, [WordTypes.NOUN])
+
+
+
 #for sentence in filtered_sentences:
 #    print("-----------------------------------------------------\n{}".format(sentence))

@@ -717,16 +717,17 @@
 38	Europske	Agpfsgy	europski	286	293
 39	unije	Ncfsg	unija	295	299
 40	.	Z	.	300	300
-41	„	Z	„	302	302
-42	Realizacija	Ncfsn	realizacija	303	313
-43	cijelog	Agpmsgy	cijel	315	321
-44	projekta	Ncmsg	projekt	323	330
-45	odvijat	Vmn	odvijati	332	338
-46	će	Var3s	htjeti	340	341
-47	se	Px--sa	sebe	343	344
-48	u	Sl	u	346	346
-49	etepama	Ncmpl	etepa	348	354
-50	.	Z	.	355	355
+
+1	„	Z	„	302	302
+2	Realizacija	Ncfsn	realizacija	303	313
+3	cijelog	Agpmsgy	cijel	315	321
+4	projekta	Ncmsg	projekt	323	330
+5	odvijat	Vmn	odvijati	332	338
+6	će	Var3s	htjeti	340	341
+7	se	Px--sa	sebe	343	344
+8	u	Sl	u	346	346
+9	etepama	Ncmpl	etepa	348	354
+10	.	Z	.	355	355
 
 1	Prva	Mlofsn	prvi	357	360
 2	etapa	Ncfsn	etapa	362	366
