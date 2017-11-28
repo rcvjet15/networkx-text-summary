@@ -27,11 +27,11 @@ class TextProcess:
         return self._filename
     
     # method that start text processing process
-    def start_process(self):
+    def get_filtered_sentences(self):
         text = self.__get_text_from_html()
         sentences = self.__get_sentences(text)
-        filtered_list = list(self.__get_filtered_sentence(sentence) for sentence in sentences if sentence)
-        return filtered_list
+        filtered_sentences = list(self.__get_filtered_sentence(sentence) for sentence in sentences if sentence)
+        return filtered_sentences
         
     def __get_text_from_html(self):
         html = urllib.request.urlopen(self._url).read()
@@ -66,9 +66,9 @@ class TextProcess:
         return re.split(r"(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)\s(?![a-z])", text)
         
     def __get_filtered_sentence(self, sentence): 
-        # returns only alphanumeric characters or space
+        # leaves only alphanumeric characters or space
         return "".join(c for c in sentence if c.isalnum() or c.isspace())
-            
-        
+           
+    
         
     

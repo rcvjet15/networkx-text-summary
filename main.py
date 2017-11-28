@@ -20,5 +20,7 @@ articles = [
 
 tp = TextProcess(url=articles[2]["url"], filename=articles[2]["name"], content_selector_dict=articles[2]["content-selector"])
 
+# Get filtered senteces in list
+filtered_sentences = tp.get_filtered_sentences()
 for sentence in tp.start_process():
     print("-----------------------------------------------------\n{}".format(sentence))
