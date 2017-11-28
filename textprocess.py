@@ -41,7 +41,11 @@ class TextProcess:
         for script in soup(["script", "text"]):
             script.extract() 
         
+        # Get title
+        content_title = soup.find("h1").get_text()
+        
         main_text = None
+        
         if self._content_selector_dict:
             # get text from main div element that is marked by specfic selector (class or id)
             main_text = soup.find('div', self._content_selector_dict).get_text()
@@ -57,7 +61,10 @@ class TextProcess:
         for line in lines:
             for phrase in line.split("  "):
                 chunks.append(phrase.strip())                
-                
+         
+        # insert title at the beginning of text lines. Add '.' (dot) at the end to mark it as sentence
+        chunks.insert(0, content_title.strip() + ".")
+        
 #        # remove blank lines
         return "\n".join(chunk for chunk in chunks if chunk)        
     
