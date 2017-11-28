@@ -24,8 +24,22 @@ class WordTypes:
 
     # sentences from which words will be compared in word_mark_path file.
     # wanted word types that will be extracted (nouns, verbs etc) and will contain array of this class's contants
-    def get_marked_words_list(self, sentences_list, word_types):        
-        with open(self._word_marks_path, "r") as f:
-           for line in f:
-               print(line)
+    def get_marked_words_list(self, sentences_list, word_types):
         
+        # will contain lines from self._word_marks_path that contain word that is wanted type in word_types
+        filtered_word_marks = list()
+        with open(self._word_marks_path, "r") as f:
+            for line in f:                
+                columns = line.split()                
+                # check if cell has content. First letter in cell marks word type
+                if len(columns) > 0 and columns[self._word_type_idx] and columns[self._word_type_idx][0] in word_types:
+                    filtered_word_marks.append(line)
+                    print(line)
+        
+                   
+           
+    # filters given line by splitting                
+    # def __filter_line_by_types(self, word_types):
+        
+           
+    # def get_words_linked(self, )
