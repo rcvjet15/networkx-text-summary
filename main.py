@@ -1,5 +1,5 @@
 from textprocess import TextProcess
-from wordtypes import WordTypes
+from dictionary import Dictionary
 
 articles = [
         { "url" : "http://pogledaj.to/art/veliki-paket-zraka/",
@@ -24,9 +24,9 @@ tp = TextProcess(url=articles[2]["url"], filename=articles[2]["name"], content_s
 # Get filtered senteces in list
 filtered_sentences = tp.get_filtered_sentences()
 
-wt = WordTypes(word_marks_path=articles[2]["word_marks_path"])
+wt = Dictionary(dictionary_path=articles[2]["word_marks_path"])
 
-wt.get_marked_words_list(filtered_sentences, [WordTypes.NOUN])
+print(wt.get_marked_words_list(filtered_sentences, [Dictionary.NOUN]))
 
 
 
