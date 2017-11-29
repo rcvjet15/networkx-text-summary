@@ -12,6 +12,14 @@ class Dictionary:
     ABBRECIATION = "Y"
     RESIDUAL = "X"
     PUNCTUATION = "Z"
+    
+    @property
+    def node_list(self):
+        return self._node_list
+        
+    @property
+    def edge_list(self):
+        return self._edge_list
         
     # dictionary_path specifies relative path of file where marked words are 
     def __init__(self, dictionary_path=None):
@@ -21,62 +29,57 @@ class Dictionary:
         self._word_original_idx = 1 # original word column index
         self._word_type_idx = 2 # word type column index
         self._word_nominative_idx = 3 # word as nominative column index
-
+        self._node_list = []
+        self._edge_list = []
+    
     # sentences from which words will be compared in dictionary file.
-    # wanted word types that will be extracted (nouns, verbs etc) and will contain array of this class's contants
-    def get_marked_words_list(self, sentences_list, word_types):
+    # wanted word types contains array of wanted types that will be extracted (nouns, verbs etc)
+    def set_words_as_node_and_egde_list(self, sentences_list, word_types):
         words_link_dictionary = []
-        # current sentence index
-        sentence_idx = 0
-        # current sentence from text
-        current_sentence = sentences_list[sentence_idx]
-        # last word position in sentence that is read in dictionary
-        last_word_pos = -1
-        valid_words = []  
-        with open(self._dictionary_path, "r") as f:
-            # loop thourgh lines in dictionary
-            for line in f:
-                # split line into columns
-                columns = line.split()
-                # if column contains anything                                 
-                if len(columns) > 0:
-                    # current words position that is read from dictionary
-                    current_word_pos = int(columns[self._word_pos_idx])
+        
+        # it will be 2d array where each element will contain array of words for sentence
+        filtered_sentences = []
+        
+        dictionary_lines = None
+        with open(self._dictionary_path, "r", encoding="utf-8", errors = "ignore") as f:
+            # read all dictionary
+            dictionary_lines = f.readlines()
+        
+        # loop through sentences in text
+        for sentence in sentences_list:
+            # list that will store words that are found in dictionary and are valid type
+            valid_words = []
+            # loop thourhg each word in sentence text
+            for word in sentence.split():
+                # search for word in dictionary by looping through each line                    
+                for dict_line in dictionary_lines:
                     
-                    # if current word is after last word that is read
-                    if current_word_pos > last_word_pos:
-                        # last word read is current word
-                        last_word_pos = current_word_pos
-                        
+                    # split dictionary line into columns
+                    columns = dict_line.split()
+                    
+                    # if column contains anything                                 
+                    if len(columns) > 0:
                         # check if dictionary word has valid type and sentence contains word from dictionary
-                        if self.__is_valid_type(columns, word_types) and self.__sentence_contains(current_sentence, columns):
-                            # if word is valid, get it as nominative
-                            valid_words.append(columns[self._word_nominative_idx])
-                    # if next word is from next sentence in dictionary is reached 
-                    else:   
-                        # link words between each other where preceeding word is key and word next to it is value
-                        # and return dictionary
-                        words_link_dictionary.append(self.__get_linked_words(valid_words))
-                        
-                        last_word_pos = -1
-                        # go to next sentence in text
-                        sentence_idx += 1
-                        
-                        if sentence_idx > len(sentences_list) - 1:
-                            break
-                        
-                        # get current sentence in text
-                        current_sentence = sentences_list[sentence_idx]
-                        # since line is read, check if it word in dictionary is valid type and is in sentence
-                        if self.__is_valid_type(columns, word_types) and self.__sentence_contains(current_sentence, columns):
-                            valid_words = [columns[self._word_nominative_idx]]
-                        else:
-                            valid_words = []
-                            
+                        if self.__is_valid_type(columns, word_types) and word == columns[self._word_original_idx]:
+                            # if word is valid, get it as nominative from dictionary
+                            valid_words.append(columns[self._word_nominative_idx])   
+                            break            
+            # add to 2d array of valid words         
+            filtered_sentences.append(valid_words)
+        
+        # looop through each filtered sentence
+        for filtered_sentence in filtered_sentences:
+            # if sentence contains only one valid word, add it to node list
+            if (len(filtered_sentence) == 1):
+                self._node_list.append(filtered_sentence[0])
+            # sentence contains more than one one valid word, add it to edge list
+            else:
+                # gets edge list as dictionary where preceding word is key and every word after is value
+                for linked_words in self.__get_edge_list_for_sentence(filtered_sentence):
+                    self._edge_list.append(linked_words)
+                    
         return words_link_dictionary
-                
-                        
-                
+                          
        
     def __is_valid_type(self, dictionary_column, wanted_word_types):
         # check if cell has content and check that first letter in cell marks wanted word type
@@ -85,11 +88,12 @@ class Dictionary:
     def __sentence_contains(self, sentence, dictionary_column):
         return (dictionary_column[self._word_original_idx] in sentence.split())
         
-    def __get_linked_words(self, words):
-        words_dict = []
+    def __get_edge_list_for_sentence(self, words):
+        edge_dict = []
         
         for i in range(0, len(words) - 2):
             for j in range(i + 1, len(words) - 1):
-                words_dict.append((words[i], words[j]))
-        return words_dict
+                edge_dict.append((words[i], words[j]))
+                
+        return edge_dict
             

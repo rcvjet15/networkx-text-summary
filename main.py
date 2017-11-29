@@ -1,14 +1,15 @@
 from textprocess import TextProcess
 from dictionary import Dictionary
+import networkx as nx
 
 articles = [
         { "url" : "http://pogledaj.to/art/veliki-paket-zraka/",
           "name" : "Veliki paket zraka",
           "word_marks_path" : "./Oznake vrsta rijeci/GRUPA1/3-oznake.txt",
           "content-selector" : { "class" : "main the-content"}},
-        { "url" : "http://pogledaj.to/art/pogreske-su-pozeljne/",
-          "name" : "Pogreske su pozeljne",
-          "word_marks_path" : "./Oznake vrsta rijeci/GRUPA1/3-oznake.txt",
+        { "url" : "http://pogledaj.to/art/magija-i-folklor-u-velegradu/",
+          "name" : "Magija i folklor u velegradu",
+          "word_marks_path" : "./Oznake vrsta rijeci/GRUPA1/14-oznake.txt",
           "content-selector" : { "class" : "main the-content"}},
         { "url" : "http://pogledaj.to/arhitektura/vukovar-ceka-svoju-atrakciju/",
           "name" : "Vukovar ceka svoju atrakciju",
@@ -19,16 +20,19 @@ articles = [
           "word_marks_path" : "./Oznake vrsta rijeci/GRUPA1/6-oznake.txt",
           "content-selector" : { "class" : "main the-content"}}]
 
-tp = TextProcess(url=articles[2]["url"], filename=articles[2]["name"], content_selector_dict=articles[2]["content-selector"])
-
-# Get filtered senteces in list
-filtered_sentences = tp.get_filtered_sentences()
-
-wt = Dictionary(dictionary_path=articles[2]["word_marks_path"])
-
-print(wt.get_marked_words_list(filtered_sentences, [Dictionary.NOUN]))
-
-
+for article in articles:
+    tp = TextProcess(url=article["url"], filename=article["name"], content_selector_dict=article["content-selector"])
+    
+    # Get filtered senteces in list
+    filtered_sentences = tp.get_filtered_sentences()
+    
+    wt = Dictionary(dictionary_path=article["word_marks_path"])
+    
+    wt.set_words_as_node_and_egde_list(filtered_sentences, [Dictionary.NOUN])
+    g = nx.Graph()
+    g.add_nodes_from(wt.node_list)
+    g.add_edges_from(wt.edge_list)
+    nx.draw(g, with_labels = True)
 
 #for sentence in filtered_sentences:
 #    print("-----------------------------------------------------\n{}".format(sentence))
