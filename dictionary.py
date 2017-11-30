@@ -35,11 +35,6 @@ class Dictionary:
     # sentences from which words will be compared in dictionary file.
     # wanted word types contains array of wanted types that will be extracted (nouns, verbs etc)
     def set_words_as_node_and_egde_list(self, sentences_list, word_types):
-        words_link_dictionary = []
-        
-        # it will be 2d array where each element will contain array of words for sentence
-        filtered_sentences = []
-        
         dictionary_lines = None
         with open(self._dictionary_path, "r", encoding="utf-8", errors = "ignore") as f:
             # read all dictionary
@@ -63,22 +58,16 @@ class Dictionary:
                         if self.__is_valid_type(columns, word_types) and word == columns[self._word_original_idx]:
                             # if word is valid, get it as nominative from dictionary
                             valid_words.append(columns[self._word_nominative_idx])   
-                            break            
-            # add to 2d array of valid words         
-            filtered_sentences.append(valid_words)
-        
-        # looop through each filtered sentence
-        for filtered_sentence in filtered_sentences:
+                            break  
+                        
             # if sentence contains only one valid word, add it to node list
-            if (len(filtered_sentence) == 1):
-                self._node_list.append(filtered_sentence[0])
+            if len(valid_words) == 1:
+                self._node_list.append(valid_words[0])
             # sentence contains more than one one valid word, add it to edge list
-            else:
-                # gets edge list as dictionary where preceding word is key and every word after is value
-                for linked_words in self.__get_edge_list_for_sentence(filtered_sentence):
+            else:    
+                 # gets edge list as dictionary where preceding word is key and every word after is value
+                for linked_words in self.__get_edge_list_for_sentence(valid_words):
                     self._edge_list.append(linked_words)
-                    
-        return words_link_dictionary
                           
        
     def __is_valid_type(self, dictionary_column, wanted_word_types):
