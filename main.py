@@ -1,6 +1,7 @@
+import networkx as nx
 from textprocess import TextProcess
 from dictionary import Dictionary
-import networkx as nx
+from localgridanalysis import LocalGridAnalysis
 
 articles = [
         { "url" : "http://pogledaj.to/art/veliki-paket-zraka/",
@@ -36,6 +37,11 @@ g = nx.Graph()
 g.add_nodes_from(wt.node_list)
 g.add_weighted_edges_from(wt.edge_list)
 nx.draw(g, with_labels = True)
+
+lga = LocalGridAnalysis(graph = g)
+print(lga.get_degree_centrality_top_nodes(top = 5))
+print(lga.get_betweenness_centrality_top_nodes(top = 5))
+print(lga.get_pagerank_top_nodes(top = 5))
 
 #for sentence in filtered_sentences:
 #    print("-----------------------------------------------------\n{}".format(sentence))

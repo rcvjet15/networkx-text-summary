@@ -70,6 +70,9 @@ class Dictionary:
                     # if key and value doesn't have same value then add it to edge list. SAmoe word cannot be linked to itself
                     if linked_words[0] != linked_words[1]:
                         self._edge_list.append(linked_words)
+                    else:
+                        # if key/value are same then add it as node
+                        self._node_list.append(linked_words[0])
 
     # add weights do node list where every time same pair words appear, their weight is incremented by 1.0
     def set_edge_list_as_weighted_edges(self, weight_value = 1.0):
