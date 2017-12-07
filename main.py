@@ -37,23 +37,23 @@ for article in articles[0:1]:
     g = nx.DiGraph()
     g.add_nodes_from(wt.node_list)
     g.add_weighted_edges_from(wt.edge_list)
-    nx.draw(g, with_labels = True)
     
     lga = LocalGridAnalysis(graph = g)
-    lga.get_degree_centrality_top_nodes()
-    lga.get_betweenness_centrality_top_nodes()
-    lga.get_pagerank_top_nodes()
-    
-    gv = GraphVisualisation(graph = g)
-    
     
     concat_article_name = "_".join(article["name"].split())
     export_directories_path = "./GraphExports/{}/".format(concat_article_name)
     
     if not os.path.exists(export_directories_path):
         os.makedirs(export_directories_path)
+        
+    gv = GraphVisualisation(graph = g, save_dir_path = export_directories_path)    
+    gv.visualize_graph_centrality(centrality_nodes = lga.get_degree_centrality_nodes(), title = 'Degree Centrality')
+    gv.visualize_graph_centrality(centrality_nodes = lga.get_betweenness_centrality_nodes(), title = 'Betweenness Centrality')
+    gv.visualize_graph_centrality(centrality_nodes = lga.get_pagerank_nodes(), title = 'Pagerank')
     
-    nx.write_gexf(g, "{}/{}.gexf".format(export_directories_path, concat_article_name))
+    
+#    
+#    nx.write_gexf(g, "{}/{}.gexf".format(export_directories_path, concat_article_name))
 
 #for sentence in filtered_sentences:
 #    print("-----------------------------------------------------\n{}".format(sentence))
