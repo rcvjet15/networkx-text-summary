@@ -101,7 +101,6 @@ class Dictionary:
                 tmp_weight_list.append((edge[0], edge[1], weight_value))
                 
         self._edge_list = tmp_weight_list
-        print(self._edge_list)
     
     def __is_valid_type(self, dictionary_column, wanted_word_types):
         # check if cell has content and check that first letter in cell marks wanted word type

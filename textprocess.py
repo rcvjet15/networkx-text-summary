@@ -73,9 +73,23 @@ class TextProcess:
         return re.split(r"(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)\s(?![a-z])", text)
         
     def __get_filtered_sentence(self, sentence): 
-        # leaves only alphanumeric characters or space
-        return "".join(c for c in sentence if c.isalnum() or c.isspace())
-           
-    
+       # filters sentence so that only alphanumeric characters are left with few exceptions like year (1900.) or 2,5 or 125.000
+       new_sentence = []
+       for word in sentence.split():
+           # if word is not alphanumeric or isn't year or isn't measure (has decimal or thousand separator sign) then filter it
+           if not word.isalnum() and not re.match("^[0-9]+\.", word) and not re.match("^[0-9]+[\.,]{1}[0-9]+$", word): 
+               # take all alphanumeric characters and dashes '-' where two words are connected e..g. Jean-Claude
+               word = "".join(char for char in word if char.isalnum() or char == "-")
+           # If mistake is in text where year is writen without space separator ('1900.godine' instead of '1900. godine')               
+           if re.match("^[0-9]+\.god.*", word):
+               # Split word by dot and join by dot and space
+               word = ". ".join(word.split("."))  
+           # if word exists add it
+           if word:
+               new_sentence.append(word)
+       # join each word in list with space to make it as filtered sentence    
+       return " ".join(new_sentence)
         
+
+           
     
