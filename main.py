@@ -3,6 +3,7 @@ from textprocess import TextProcess
 from dictionary import Dictionary
 from localgridanalysis import LocalGridAnalysis
 from graphvisualisation import GraphVisualisation
+import os
 
 articles = [
         { "url" : "http://pogledaj.to/art/veliki-paket-zraka/",
@@ -22,29 +23,37 @@ articles = [
           "word_marks_path" : "./Oznake vrsta rijeci/GRUPA1/6-oznake.txt",
           "content-selector" : { "class" : "main the-content"}}]
 
-article = articles[0]
-
-tp = TextProcess(url=article["url"], filename=article["name"], content_selector_dict=article["content-selector"])
-
-# Get filtered senteces in list
-filtered_sentences = tp.get_filtered_sentences()
-
-wt = Dictionary(dictionary_path=article["word_marks_path"])
-
-wt.set_words_as_node_and_egde_list(filtered_sentences, [Dictionary.NOUN])
-wt.set_edge_list_as_weighted_edges()
-
-g = nx.DiGraph()
-g.add_nodes_from(wt.node_list)
-g.add_weighted_edges_from(wt.edge_list)
-nx.draw(g, with_labels = True)
-
-lga = LocalGridAnalysis(graph = g)
-print(lga.get_degree_centrality_top_nodes(top = 5))
-print(lga.get_betweenness_centrality_top_nodes(top = 5))
-print(lga.get_pagerank_top_nodes(top = 5))
-
-gv = GraphVisualisation(graph = g)
+for article in articles[0:1]:
+    tp = TextProcess(url=article["url"], filename=article["name"], content_selector_dict=article["content-selector"])
+    
+    # Get filtered senteces in list
+    filtered_sentences = tp.get_filtered_sentences()
+    
+    wt = Dictionary(dictionary_path=article["word_marks_path"])
+    
+    wt.set_words_as_node_and_egde_list(filtered_sentences, [Dictionary.NOUN])
+    wt.set_edge_list_as_weighted_edges()
+    
+    g = nx.DiGraph()
+    g.add_nodes_from(wt.node_list)
+    g.add_weighted_edges_from(wt.edge_list)
+    nx.draw(g, with_labels = True)
+    
+    lga = LocalGridAnalysis(graph = g)
+    lga.get_degree_centrality_top_nodes()
+    lga.get_betweenness_centrality_top_nodes()
+    lga.get_pagerank_top_nodes()
+    
+    gv = GraphVisualisation(graph = g)
+    
+    
+    concat_article_name = "_".join(article["name"].split())
+    export_directories_path = "./GraphExports/{}/".format(concat_article_name)
+    
+    if not os.path.exists(export_directories_path):
+        os.makedirs(export_directories_path)
+    
+    nx.write_gexf(g, "{}/{}.gexf".format(export_directories_path, concat_article_name))
 
 #for sentence in filtered_sentences:
 #    print("-----------------------------------------------------\n{}".format(sentence))
