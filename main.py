@@ -3,28 +3,30 @@ from textprocess import TextProcess
 from dictionary import Dictionary
 from localgridanalysis import LocalGridAnalysis
 from graphvisualisation import GraphVisualisation
-from operator import itemgetter
 import os
 
-articles = [
-        { "url" : "http://pogledaj.to/art/magija-i-folklor-u-velegradu/",
-          "name" : "Magija i folklor u velegradu",
-          "dictionary_path" : "./Oznake vrsta rijeci/GRUPA1/14-oznake.txt",
-          "content-selector" : { "class" : "main the-content"}},
-        { "url" : "http://pogledaj.to/art/veliki-paket-zraka/",
-          "name" : "Veliki paket zraka",
-          "dictionary_path" : "./Oznake vrsta rijeci/GRUPA1/3-oznake.txt",
-          "content-selector" : { "class" : "main the-content"}},        
-        { "url" : "http://pogledaj.to/arhitektura/vukovar-ceka-svoju-atrakciju/",
-          "name" : "Vukovar ceka svoju atrakciju",
-          "dictionary_path" : "./Oznake vrsta rijeci/GRUPA1/2-oznake.txt",
-          "content-selector" : { "class" : "main the-content"}},
-        { "url" : "http://pogledaj.to/art/zivot-je-cupav-i-dlakav/",
-          "name" : "Zivot je cupav i dlakav",
-          "dictionary_path" : "./Oznake vrsta rijeci/GRUPA1/6-oznake.txt",
-          "content-selector" : { "class" : "main the-content"}},]
 
-# 
+MAIN_EXPORT_PATH = "./GraphExports"
+
+articles = [
+    { "url" : "http://pogledaj.to/art/magija-i-folklor-u-velegradu/",
+      "name" : "Magija i folklor u velegradu",
+      "dictionary_path" : "./Oznake vrsta rijeci/GRUPA1/14-oznake.txt",
+      "content-selector" : { "class" : "main the-content"}},
+    { "url" : "http://pogledaj.to/art/veliki-paket-zraka/",
+      "name" : "Veliki paket zraka",
+      "dictionary_path" : "./Oznake vrsta rijeci/GRUPA1/3-oznake.txt",
+      "content-selector" : { "class" : "main the-content"}},        
+    { "url" : "http://pogledaj.to/arhitektura/vukovar-ceka-svoju-atrakciju/",
+      "name" : "Vukovar ceka svoju atrakciju",
+      "dictionary_path" : "./Oznake vrsta rijeci/GRUPA1/2-oznake.txt",
+      "content-selector" : { "class" : "main the-content"}},
+    { "url" : "http://pogledaj.to/art/zivot-je-cupav-i-dlakav/",
+      "name" : "Zivot je cupav i dlakav",
+      "dictionary_path" : "./Oznake vrsta rijeci/GRUPA1/6-oznake.txt",
+      "content-selector" : { "class" : "main the-content"}},]          
+
+    
 for article in articles:
     ###
     # Text processing
@@ -53,18 +55,18 @@ for article in articles:
     # Graph creation
     ###
     # Create directed graph
-    g = nx.DiGraph() 
+    graph = nx.DiGraph() 
     # Adds edges to graph. Passed parameter consists of dictionary where each element
     # is tuple that consists of: (node1, node2, weight)
-    g.add_weighted_edges_from(wt.edge_list)
+    graph.add_weighted_edges_from(wt.edge_list)
     # Adds nodes list. Words that are not connected are stored as nodes list
-    g.add_nodes_from(wt.node_list)
+    graph.add_nodes_from(wt.node_list)
     
     ###
     # Centralities calculation
     ###
     # Create instance of LocalGridAnalysis that contains methods for calculation centralities
-    lga = LocalGridAnalysis(graph = g)
+    lga = LocalGridAnalysis(graph = graph)
     degree_centrality_nodes = lga.get_degree_centrality_nodes()
     betweenness_centrality_nodes = lga.get_betweenness_centrality_nodes()
     pagerank_nodes = lga.get_pagerank_nodes()
@@ -80,7 +82,7 @@ for article in articles:
     # Takes article name and replaces specases with underscores '_'
     concat_article_name = "_".join(article["name"].split())
     # Directory where visualised and gephi graph will be exported
-    export_directories_path = "./GraphExports/{}/".format(concat_article_name)
+    export_directories_path = "{}/{}/".format(MAIN_EXPORT_PATH, concat_article_name)
     
     # Create export directory if doesn't exist
     if not os.path.exists(export_directories_path):
@@ -91,15 +93,16 @@ for article in articles:
     ###
     # Create instance of GraphVisualisation class and its constructor
     # takes graph and ande path where cisualised items will be stored
-    gv = GraphVisualisation(graph = g, save_dir_path = export_directories_path)    
+    gv = GraphVisualisation(graph = graph, save_dir_path = export_directories_path)    
     # Visualize degree centrality
-    gv.visualize_graph_centrality(centrality_nodes = degree_centrality_nodes, title = 'Degree Centrality')
+    gv.visualize_graph_centrality(centrality_nodes = degree_centrality_nodes, window_title = article['name'], plot_title = 'Degree Centrality')
     # Visualize betweenness centrality
-    gv.visualize_graph_centrality(centrality_nodes = betweenness_centrality_nodes, title = 'Betweenness Centrality')
+    gv.visualize_graph_centrality(centrality_nodes = betweenness_centrality_nodes, window_title = article['name'], plot_title = 'Betweenness Centrality')
     # Visualize pagerank
-    gv.visualize_graph_centrality(centrality_nodes = pagerank_nodes, title = 'Pagerank')  
+    gv.visualize_graph_centrality(centrality_nodes = pagerank_nodes, window_title = article['name'], plot_title = 'Pagerank')  
     
     ###
     # Gephi export
     ###
-    nx.write_gexf(g, "{}/{}.gexf".format(export_directories_path, concat_article_name))
+    nx.write_gexf(graph, "{}/{}.gexf".format(export_directories_path, concat_article_name))
+    

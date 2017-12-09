@@ -2,206 +2,206 @@
 <gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
   <graph defaultedgetype="directed" mode="static">
     <nodes>
-      <node id="instalacija" label="instalacija" />
-      <node id="svjetlost" label="svjetlost" />
-      <node id="Obergausen" label="Obergausen" />
-      <node id="skulptura" label="skulptura" />
-      <node id="Kassel" label="Kassel" />
-      <node id="Jeanna" label="Jeanna" />
-      <node id="omatanje" label="omatanje" />
-      <node id="tona" label="tona" />
-      <node id="gorivo" label="gorivo" />
-      <node id="dio" label="dio" />
-      <node id="unutrašnjost" label="unutrašnjost" />
-      <node id="godina" label="godina" />
-      <node id="ozračje" label="ozračje" />
-      <node id="šutnja" label="šutnja" />
-      <node id="volumen" label="volumen" />
-      <node id="Clauda" label="Clauda" />
-      <node id="plin" label="plin" />
-      <node id="tišina" label="tišina" />
-      <node id="Volz" label="Volz" />
-      <node id="Christo" label="Christo" />
+      <node id="partnerica" label="partnerica" />
+      <node id="pritisak" label="pritisak" />
       <node id="supruga" label="supruga" />
-      <node id="ovojnica" label="ovojnica" />
-      <node id="umjetnik" label="umjetnik" />
-      <node id="put" label="put" />
+      <node id="ozračje" label="ozračje" />
+      <node id="prozor" label="prozor" />
+      <node id="Obergausen" label="Obergausen" />
+      <node id="Clauda" label="Clauda" />
+      <node id="Gasometer" label="Gasometer" />
+      <node id="Reichsti" label="Reichsti" />
+      <node id="grad" label="grad" />
+      <node id="fotografija" label="fotografija" />
+      <node id="Jeanna" label="Jeanna" />
+      <node id="prolaz" label="prolaz" />
+      <node id="ventilator" label="ventilator" />
+      <node id="tema" label="tema" />
+      <node id="Kassel" label="Kassel" />
+      <node id="šutnja" label="šutnja" />
       <node id="obod" label="obod" />
-      <node id="Njemačka" label="Njemačka" />
+      <node id="unutrašnjost" label="unutrašnjost" />
       <node id="projekt" label="projekt" />
-      <node id="metar" label="metar" />
       <node id="serija" label="serija" />
+      <node id="skulptura" label="skulptura" />
+      <node id="Christo" label="Christo" />
+      <node id="paket" label="paket" />
+      <node id="gorivo" label="gorivo" />
+      <node id="poliester" label="poliester" />
+      <node id="tišina" label="tišina" />
+      <node id="navrat" label="navrat" />
+      <node id="volumen" label="volumen" />
+      <node id="ovojnica" label="ovojnica" />
+      <node id="boravak" label="boravak" />
+      <node id="Volz" label="Volz" />
+      <node id="plin" label="plin" />
+      <node id="dio" label="dio" />
+      <node id="doživljaj" label="doživljaj" />
       <node id="posjetitelj" label="posjetitelj" />
       <node id="osvjetljenje" label="osvjetljenje" />
       <node id="Gasometr" label="Gasometr" />
-      <node id="ventilator" label="ventilator" />
-      <node id="pritisak" label="pritisak" />
-      <node id="boravak" label="boravak" />
-      <node id="partnerica" label="partnerica" />
-      <node id="grad" label="grad" />
-      <node id="spremnik" label="spremnik" />
-      <node id="zid" label="zid" />
-      <node id="zrak" label="zrak" />
-      <node id="Reichsti" label="Reichsti" />
-      <node id="paket" label="paket" />
-      <node id="doživljaj" label="doživljaj" />
-      <node id="prozor" label="prozor" />
-      <node id="navrat" label="navrat" />
-      <node id="prolaz" label="prolaz" />
-      <node id="Gasometer" label="Gasometer" />
-      <node id="poliester" label="poliester" />
-      <node id="tema" label="tema" />
       <node id="dokument" label="dokument" />
+      <node id="umjetnik" label="umjetnik" />
+      <node id="spremnik" label="spremnik" />
+      <node id="metar" label="metar" />
+      <node id="godina" label="godina" />
+      <node id="omatanje" label="omatanje" />
+      <node id="put" label="put" />
+      <node id="zrak" label="zrak" />
+      <node id="instalacija" label="instalacija" />
       <node id="rad" label="rad" />
+      <node id="Njemačka" label="Njemačka" />
+      <node id="zid" label="zid" />
       <node id="Wolfgang" label="Wolfgang" />
-      <node id="fotografija" label="fotografija" />
+      <node id="tona" label="tona" />
+      <node id="svjetlost" label="svjetlost" />
     </nodes>
     <edges>
-      <edge id="0" source="instalacija" target="Christo" weight="1.0" />
-      <edge id="1" source="instalacija" target="Njemačka" weight="1.0" />
-      <edge id="2" source="instalacija" target="zid" weight="1.0" />
-      <edge id="3" source="svjetlost" target="prozor" weight="1.0" />
-      <edge id="4" source="svjetlost" target="osvjetljenje" weight="1.0" />
-      <edge id="5" source="svjetlost" target="paket" weight="1.0" />
-      <edge id="6" source="svjetlost" target="unutrašnjost" weight="1.0" />
-      <edge id="7" source="Obergausen" target="Gasometer" weight="1.0" />
-      <edge id="8" source="skulptura" target="godina" weight="1.0" />
-      <edge id="9" source="skulptura" target="grad" weight="1.0" />
-      <edge id="10" source="skulptura" target="spremnik" weight="1.0" />
-      <edge id="11" source="skulptura" target="posjetitelj" weight="1.0" />
-      <edge id="12" source="skulptura" target="gorivo" weight="1.0" />
-      <edge id="13" source="skulptura" target="prolaz" weight="1.0" />
-      <edge id="14" source="skulptura" target="obod" weight="1.0" />
-      <edge id="15" source="skulptura" target="unutrašnjost" weight="1.0" />
-      <edge id="16" source="Jeanna" target="navrat" weight="1.0" />
-      <edge id="17" source="Jeanna" target="Clauda" weight="1.0" />
-      <edge id="18" source="Jeanna" target="zrak" weight="1.0" />
-      <edge id="19" source="Jeanna" target="tema" weight="1.0" />
-      <edge id="20" source="omatanje" target="godina" weight="1.0" />
-      <edge id="21" source="omatanje" target="instalacija" weight="1.0" />
-      <edge id="22" source="omatanje" target="Christo" weight="1.0" />
-      <edge id="23" source="omatanje" target="zid" weight="1.0" />
-      <edge id="24" source="omatanje" target="Reichsti" weight="1.0" />
-      <edge id="25" source="omatanje" target="Njemačka" weight="1.0" />
-      <edge id="26" source="tona" target="volumen" weight="1.0" />
-      <edge id="27" source="gorivo" target="prolaz" weight="1.0" />
-      <edge id="28" source="gorivo" target="posjetitelj" weight="1.0" />
-      <edge id="29" source="gorivo" target="obod" weight="1.0" />
-      <edge id="30" source="dio" target="šutnja" weight="1.0" />
-      <edge id="31" source="dio" target="ozračje" weight="1.0" />
-      <edge id="32" source="dio" target="tišina" weight="1.0" />
-      <edge id="33" source="unutrašnjost" target="prozor" weight="1.0" />
-      <edge id="34" source="unutrašnjost" target="spremnik" weight="1.0" />
-      <edge id="35" source="unutrašnjost" target="paket" weight="1.0" />
-      <edge id="36" source="unutrašnjost" target="posjetitelj" weight="1.0" />
-      <edge id="37" source="unutrašnjost" target="osvjetljenje" weight="1.0" />
-      <edge id="38" source="unutrašnjost" target="gorivo" weight="1.0" />
-      <edge id="39" source="unutrašnjost" target="prolaz" weight="1.0" />
-      <edge id="40" source="unutrašnjost" target="obod" weight="1.0" />
-      <edge id="41" source="godina" target="projekt" weight="1.0" />
-      <edge id="42" source="godina" target="supruga" weight="1.0" />
-      <edge id="43" source="godina" target="instalacija" weight="2.0" />
-      <edge id="44" source="godina" target="partnerica" weight="1.0" />
-      <edge id="45" source="godina" target="omatanje" weight="1.0" />
-      <edge id="46" source="godina" target="Christo" weight="2.0" />
-      <edge id="47" source="godina" target="umjetnik" weight="1.0" />
-      <edge id="48" source="godina" target="grad" weight="1.0" />
-      <edge id="49" source="godina" target="zid" weight="2.0" />
-      <edge id="50" source="godina" target="Reichsti" weight="1.0" />
-      <edge id="51" source="godina" target="Njemačka" weight="2.0" />
-      <edge id="52" source="ozračje" target="tišina" weight="1.0" />
-      <edge id="53" source="ozračje" target="šutnja" weight="1.0" />
-      <edge id="54" source="šutnja" target="tišina" weight="1.0" />
-      <edge id="55" source="Clauda" target="navrat" weight="1.0" />
-      <edge id="56" source="Clauda" target="tema" weight="1.0" />
-      <edge id="57" source="Clauda" target="zrak" weight="1.0" />
-      <edge id="58" source="plin" target="godina" weight="1.0" />
-      <edge id="59" source="Volz" target="Christo" weight="1.0" />
-      <edge id="60" source="Christo" target="godina" weight="1.0" />
-      <edge id="61" source="Christo" target="Clauda" weight="1.0" />
-      <edge id="62" source="Christo" target="doživljaj" weight="1.0" />
-      <edge id="63" source="Christo" target="navrat" weight="1.0" />
-      <edge id="64" source="Christo" target="skulptura" weight="1.0" />
-      <edge id="65" source="Christo" target="boravak" weight="1.0" />
-      <edge id="66" source="Christo" target="plin" weight="1.0" />
-      <edge id="67" source="Christo" target="Gasometr" weight="1.0" />
-      <edge id="68" source="Christo" target="tema" weight="1.0" />
-      <edge id="69" source="Christo" target="Jeanna" weight="1.0" />
-      <edge id="70" source="Christo" target="spremnik" weight="1.0" />
-      <edge id="71" source="Christo" target="zrak" weight="1.0" />
-      <edge id="72" source="Christo" target="Njemačka" weight="1.0" />
-      <edge id="73" source="supruga" target="partnerica" weight="1.0" />
+      <edge id="0" source="pritisak" target="zrak" weight="1.0" />
+      <edge id="1" source="supruga" target="partnerica" weight="1.0" />
+      <edge id="2" source="ozračje" target="šutnja" weight="1.0" />
+      <edge id="3" source="ozračje" target="tišina" weight="1.0" />
+      <edge id="4" source="Obergausen" target="Gasometer" weight="1.0" />
+      <edge id="5" source="Clauda" target="tema" weight="1.0" />
+      <edge id="6" source="Clauda" target="zrak" weight="1.0" />
+      <edge id="7" source="Clauda" target="navrat" weight="1.0" />
+      <edge id="8" source="Reichsti" target="Njemačka" weight="1.0" />
+      <edge id="9" source="Reichsti" target="godina" weight="1.0" />
+      <edge id="10" source="Reichsti" target="instalacija" weight="1.0" />
+      <edge id="11" source="Reichsti" target="Christo" weight="1.0" />
+      <edge id="12" source="Reichsti" target="zid" weight="1.0" />
+      <edge id="13" source="fotografija" target="Christo" weight="1.0" />
+      <edge id="14" source="fotografija" target="Wolfgang" weight="1.0" />
+      <edge id="15" source="fotografija" target="Volz" weight="1.0" />
+      <edge id="16" source="Jeanna" target="tema" weight="1.0" />
+      <edge id="17" source="Jeanna" target="zrak" weight="1.0" />
+      <edge id="18" source="Jeanna" target="Clauda" weight="1.0" />
+      <edge id="19" source="Jeanna" target="navrat" weight="1.0" />
+      <edge id="20" source="prolaz" target="obod" weight="1.0" />
+      <edge id="21" source="prolaz" target="posjetitelj" weight="1.0" />
+      <edge id="22" source="ventilator" target="pritisak" weight="1.0" />
+      <edge id="23" source="ventilator" target="zrak" weight="1.0" />
+      <edge id="24" source="tema" target="zrak" weight="1.0" />
+      <edge id="25" source="šutnja" target="tišina" weight="1.0" />
+      <edge id="26" source="obod" target="posjetitelj" weight="1.0" />
+      <edge id="27" source="unutrašnjost" target="gorivo" weight="1.0" />
+      <edge id="28" source="unutrašnjost" target="prolaz" weight="1.0" />
+      <edge id="29" source="unutrašnjost" target="obod" weight="1.0" />
+      <edge id="30" source="unutrašnjost" target="spremnik" weight="1.0" />
+      <edge id="31" source="unutrašnjost" target="posjetitelj" weight="1.0" />
+      <edge id="32" source="unutrašnjost" target="paket" weight="1.0" />
+      <edge id="33" source="unutrašnjost" target="osvjetljenje" weight="1.0" />
+      <edge id="34" source="unutrašnjost" target="prozor" weight="1.0" />
+      <edge id="35" source="projekt" target="plin" weight="1.0" />
+      <edge id="36" source="projekt" target="supruga" weight="1.0" />
+      <edge id="37" source="projekt" target="umjetnik" weight="2.0" />
+      <edge id="38" source="projekt" target="spremnik" weight="1.0" />
+      <edge id="39" source="projekt" target="partnerica" weight="1.0" />
+      <edge id="40" source="projekt" target="godina" weight="1.0" />
+      <edge id="41" source="projekt" target="Gasometr" weight="1.0" />
+      <edge id="42" source="projekt" target="Christo" weight="1.0" />
+      <edge id="43" source="serija" target="Kassel" weight="1.0" />
+      <edge id="44" source="serija" target="dokument" weight="1.0" />
+      <edge id="45" source="skulptura" target="grad" weight="1.0" />
+      <edge id="46" source="skulptura" target="unutrašnjost" weight="1.0" />
+      <edge id="47" source="skulptura" target="prolaz" weight="1.0" />
+      <edge id="48" source="skulptura" target="obod" weight="1.0" />
+      <edge id="49" source="skulptura" target="spremnik" weight="1.0" />
+      <edge id="50" source="skulptura" target="gorivo" weight="1.0" />
+      <edge id="51" source="skulptura" target="godina" weight="1.0" />
+      <edge id="52" source="skulptura" target="posjetitelj" weight="1.0" />
+      <edge id="53" source="Christo" target="plin" weight="1.0" />
+      <edge id="54" source="Christo" target="spremnik" weight="1.0" />
+      <edge id="55" source="Christo" target="doživljaj" weight="1.0" />
+      <edge id="56" source="Christo" target="skulptura" weight="1.0" />
+      <edge id="57" source="Christo" target="Gasometr" weight="1.0" />
+      <edge id="58" source="Christo" target="Clauda" weight="1.0" />
+      <edge id="59" source="Christo" target="Njemačka" weight="1.0" />
+      <edge id="60" source="Christo" target="Jeanna" weight="1.0" />
+      <edge id="61" source="Christo" target="navrat" weight="1.0" />
+      <edge id="62" source="Christo" target="godina" weight="1.0" />
+      <edge id="63" source="Christo" target="boravak" weight="1.0" />
+      <edge id="64" source="Christo" target="zrak" weight="1.0" />
+      <edge id="65" source="Christo" target="tema" weight="1.0" />
+      <edge id="66" source="paket" target="osvjetljenje" weight="1.0" />
+      <edge id="67" source="paket" target="prozor" weight="1.0" />
+      <edge id="68" source="gorivo" target="prolaz" weight="1.0" />
+      <edge id="69" source="gorivo" target="obod" weight="1.0" />
+      <edge id="70" source="gorivo" target="posjetitelj" weight="1.0" />
+      <edge id="71" source="poliester" target="metar" weight="1.0" />
+      <edge id="72" source="navrat" target="zrak" weight="1.0" />
+      <edge id="73" source="navrat" target="tema" weight="1.0" />
       <edge id="74" source="ovojnica" target="metar" weight="1.0" />
-      <edge id="75" source="umjetnik" target="godina" weight="1.0" />
-      <edge id="76" source="umjetnik" target="supruga" weight="1.0" />
-      <edge id="77" source="umjetnik" target="spremnik" weight="1.0" />
-      <edge id="78" source="umjetnik" target="Christo" weight="1.0" />
-      <edge id="79" source="umjetnik" target="Gasometr" weight="1.0" />
-      <edge id="80" source="umjetnik" target="Obergausen" weight="1.0" />
-      <edge id="81" source="umjetnik" target="partnerica" weight="1.0" />
-      <edge id="82" source="umjetnik" target="Gasometer" weight="1.0" />
-      <edge id="83" source="umjetnik" target="plin" weight="1.0" />
-      <edge id="84" source="put" target="Obergausen" weight="1.0" />
-      <edge id="85" source="put" target="Gasometer" weight="1.0" />
-      <edge id="86" source="put" target="umjetnik" weight="1.0" />
-      <edge id="87" source="obod" target="posjetitelj" weight="1.0" />
-      <edge id="88" source="projekt" target="godina" weight="1.0" />
-      <edge id="89" source="projekt" target="supruga" weight="1.0" />
-      <edge id="90" source="projekt" target="spremnik" weight="1.0" />
-      <edge id="91" source="projekt" target="Christo" weight="1.0" />
-      <edge id="92" source="projekt" target="Gasometr" weight="1.0" />
-      <edge id="93" source="projekt" target="partnerica" weight="1.0" />
-      <edge id="94" source="projekt" target="plin" weight="1.0" />
-      <edge id="95" source="projekt" target="umjetnik" weight="2.0" />
-      <edge id="96" source="metar" target="poliester" weight="1.0" />
-      <edge id="97" source="serija" target="dokument" weight="1.0" />
-      <edge id="98" source="serija" target="Kassel" weight="1.0" />
-      <edge id="99" source="osvjetljenje" target="prozor" weight="1.0" />
-      <edge id="100" source="Gasometr" target="godina" weight="1.0" />
-      <edge id="101" source="Gasometr" target="spremnik" weight="1.0" />
-      <edge id="102" source="Gasometr" target="plin" weight="1.0" />
-      <edge id="103" source="ventilator" target="zrak" weight="1.0" />
-      <edge id="104" source="ventilator" target="pritisak" weight="1.0" />
-      <edge id="105" source="pritisak" target="zrak" weight="1.0" />
-      <edge id="106" source="boravak" target="skulptura" weight="1.0" />
-      <edge id="107" source="spremnik" target="godina" weight="1.0" />
-      <edge id="108" source="spremnik" target="posjetitelj" weight="1.0" />
-      <edge id="109" source="spremnik" target="gorivo" weight="1.0" />
-      <edge id="110" source="spremnik" target="prolaz" weight="1.0" />
-      <edge id="111" source="spremnik" target="plin" weight="1.0" />
-      <edge id="112" source="spremnik" target="obod" weight="1.0" />
-      <edge id="113" source="zid" target="Njemačka" weight="1.0" />
-      <edge id="114" source="zid" target="Christo" weight="1.0" />
-      <edge id="115" source="Reichsti" target="godina" weight="1.0" />
-      <edge id="116" source="Reichsti" target="instalacija" weight="1.0" />
-      <edge id="117" source="Reichsti" target="Christo" weight="1.0" />
-      <edge id="118" source="Reichsti" target="Njemačka" weight="1.0" />
-      <edge id="119" source="Reichsti" target="zid" weight="1.0" />
-      <edge id="120" source="paket" target="prozor" weight="1.0" />
-      <edge id="121" source="paket" target="osvjetljenje" weight="1.0" />
-      <edge id="122" source="doživljaj" target="skulptura" weight="1.0" />
-      <edge id="123" source="doživljaj" target="boravak" weight="1.0" />
-      <edge id="124" source="navrat" target="tema" weight="1.0" />
-      <edge id="125" source="navrat" target="zrak" weight="1.0" />
-      <edge id="126" source="prolaz" target="posjetitelj" weight="1.0" />
-      <edge id="127" source="prolaz" target="obod" weight="1.0" />
-      <edge id="128" source="poliester" target="metar" weight="1.0" />
-      <edge id="129" source="tema" target="zrak" weight="1.0" />
-      <edge id="130" source="dokument" target="Kassel" weight="1.0" />
-      <edge id="131" source="rad" target="godina" weight="1.0" />
-      <edge id="132" source="rad" target="projekt" weight="1.0" />
-      <edge id="133" source="rad" target="dokument" weight="1.0" />
-      <edge id="134" source="rad" target="serija" weight="1.0" />
-      <edge id="135" source="rad" target="supruga" weight="1.0" />
-      <edge id="136" source="rad" target="partnerica" weight="1.0" />
-      <edge id="137" source="rad" target="Kassel" weight="1.0" />
-      <edge id="138" source="rad" target="skulptura" weight="1.0" />
-      <edge id="139" source="rad" target="umjetnik" weight="1.0" />
-      <edge id="140" source="Wolfgang" target="Volz" weight="1.0" />
-      <edge id="141" source="Wolfgang" target="Christo" weight="1.0" />
-      <edge id="142" source="fotografija" target="Christo" weight="1.0" />
-      <edge id="143" source="fotografija" target="Volz" weight="1.0" />
-      <edge id="144" source="fotografija" target="Wolfgang" weight="1.0" />
+      <edge id="75" source="boravak" target="skulptura" weight="1.0" />
+      <edge id="76" source="Volz" target="Christo" weight="1.0" />
+      <edge id="77" source="plin" target="godina" weight="1.0" />
+      <edge id="78" source="dio" target="šutnja" weight="1.0" />
+      <edge id="79" source="dio" target="ozračje" weight="1.0" />
+      <edge id="80" source="dio" target="tišina" weight="1.0" />
+      <edge id="81" source="doživljaj" target="boravak" weight="1.0" />
+      <edge id="82" source="doživljaj" target="skulptura" weight="1.0" />
+      <edge id="83" source="osvjetljenje" target="prozor" weight="1.0" />
+      <edge id="84" source="Gasometr" target="plin" weight="1.0" />
+      <edge id="85" source="Gasometr" target="spremnik" weight="1.0" />
+      <edge id="86" source="Gasometr" target="godina" weight="1.0" />
+      <edge id="87" source="dokument" target="Kassel" weight="1.0" />
+      <edge id="88" source="umjetnik" target="plin" weight="1.0" />
+      <edge id="89" source="umjetnik" target="supruga" weight="1.0" />
+      <edge id="90" source="umjetnik" target="spremnik" weight="1.0" />
+      <edge id="91" source="umjetnik" target="partnerica" weight="1.0" />
+      <edge id="92" source="umjetnik" target="Obergausen" weight="1.0" />
+      <edge id="93" source="umjetnik" target="godina" weight="1.0" />
+      <edge id="94" source="umjetnik" target="Gasometr" weight="1.0" />
+      <edge id="95" source="umjetnik" target="Gasometer" weight="1.0" />
+      <edge id="96" source="umjetnik" target="Christo" weight="1.0" />
+      <edge id="97" source="spremnik" target="plin" weight="1.0" />
+      <edge id="98" source="spremnik" target="prolaz" weight="1.0" />
+      <edge id="99" source="spremnik" target="obod" weight="1.0" />
+      <edge id="100" source="spremnik" target="gorivo" weight="1.0" />
+      <edge id="101" source="spremnik" target="godina" weight="1.0" />
+      <edge id="102" source="spremnik" target="posjetitelj" weight="1.0" />
+      <edge id="103" source="metar" target="poliester" weight="1.0" />
+      <edge id="104" source="godina" target="omatanje" weight="1.0" />
+      <edge id="105" source="godina" target="zid" weight="2.0" />
+      <edge id="106" source="godina" target="Reichsti" weight="1.0" />
+      <edge id="107" source="godina" target="supruga" weight="1.0" />
+      <edge id="108" source="godina" target="umjetnik" weight="1.0" />
+      <edge id="109" source="godina" target="partnerica" weight="1.0" />
+      <edge id="110" source="godina" target="projekt" weight="1.0" />
+      <edge id="111" source="godina" target="Njemačka" weight="2.0" />
+      <edge id="112" source="godina" target="instalacija" weight="2.0" />
+      <edge id="113" source="godina" target="grad" weight="1.0" />
+      <edge id="114" source="godina" target="Christo" weight="2.0" />
+      <edge id="115" source="omatanje" target="Reichsti" weight="1.0" />
+      <edge id="116" source="omatanje" target="zid" weight="1.0" />
+      <edge id="117" source="omatanje" target="Njemačka" weight="1.0" />
+      <edge id="118" source="omatanje" target="godina" weight="1.0" />
+      <edge id="119" source="omatanje" target="instalacija" weight="1.0" />
+      <edge id="120" source="omatanje" target="Christo" weight="1.0" />
+      <edge id="121" source="put" target="Obergausen" weight="1.0" />
+      <edge id="122" source="put" target="umjetnik" weight="1.0" />
+      <edge id="123" source="put" target="Gasometer" weight="1.0" />
+      <edge id="124" source="instalacija" target="Njemačka" weight="1.0" />
+      <edge id="125" source="instalacija" target="zid" weight="1.0" />
+      <edge id="126" source="instalacija" target="Christo" weight="1.0" />
+      <edge id="127" source="rad" target="Kassel" weight="1.0" />
+      <edge id="128" source="rad" target="partnerica" weight="1.0" />
+      <edge id="129" source="rad" target="supruga" weight="1.0" />
+      <edge id="130" source="rad" target="umjetnik" weight="1.0" />
+      <edge id="131" source="rad" target="serija" weight="1.0" />
+      <edge id="132" source="rad" target="skulptura" weight="1.0" />
+      <edge id="133" source="rad" target="projekt" weight="1.0" />
+      <edge id="134" source="rad" target="godina" weight="1.0" />
+      <edge id="135" source="rad" target="dokument" weight="1.0" />
+      <edge id="136" source="zid" target="Njemačka" weight="1.0" />
+      <edge id="137" source="zid" target="Christo" weight="1.0" />
+      <edge id="138" source="Wolfgang" target="Christo" weight="1.0" />
+      <edge id="139" source="Wolfgang" target="Volz" weight="1.0" />
+      <edge id="140" source="tona" target="volumen" weight="1.0" />
+      <edge id="141" source="svjetlost" target="paket" weight="1.0" />
+      <edge id="142" source="svjetlost" target="unutrašnjost" weight="1.0" />
+      <edge id="143" source="svjetlost" target="osvjetljenje" weight="1.0" />
+      <edge id="144" source="svjetlost" target="prozor" weight="1.0" />
     </edges>
   </graph>
 </gexf>

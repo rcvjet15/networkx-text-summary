@@ -1,6 +1,7 @@
 import networkx as nx
 import matplotlib as py
 import matplotlib.pyplot as plt
+import math
 
 class GraphVisualisation:
     
@@ -14,9 +15,10 @@ class GraphVisualisation:
         self._graph = graph
         self._save_dir_path = save_dir_path
         
-    def visualize_graph_centrality(self, centrality_nodes, title, top = 5):
-        plt.figure()
-        plt.title(title)
+    def visualize_graph_centrality(self, centrality_nodes, window_title, plot_title, top = 5):
+        fig = plt.figure()
+        fig.canvas.set_window_title(window_title)
+        plt.title(plot_title)
         pos = nx.spring_layout(self._graph)
         
         # Draw smaller nodes and mark them in yellow color
@@ -33,13 +35,15 @@ class GraphVisualisation:
             linewidth -= 0.5
             edgewidth -= 0.2
         
-        plt.show()
-        plt.savefig("{}/{}_matplot.png".format(self._save_dir_path, title))
+        plt.savefig("{}/{}_matplot.png".format(self._save_dir_path, plot_title))
      
-     def visualize_images_as_subplots(self, image_paths = []):
-         if len(images) == 0:
-             return
-             
+    def visualize_images_as_subplots(self, image_paths = []):
+        if len(image_paths) == 0:
+            return
+        
+        rows = math.floor(len(image_paths) / 2)
+        cols = math.ceil(len(image_paths) / 2)
+ 
          
 #     fig, ax = plt.subplots(figsize=(15, 10))
 #    plt.bar(degrees, counts, width = 0.7, color = 'b')
