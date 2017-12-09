@@ -35,7 +35,12 @@ class GraphVisualisation:
         
         plt.show()
         plt.savefig("{}/{}_matplot.png".format(self._save_dir_path, title))
-       
+     
+     def visualize_images_as_subplots(self, image_paths = []):
+         if len(images) == 0:
+             return
+             
+         
 #     fig, ax = plt.subplots(figsize=(15, 10))
 #    plt.bar(degrees, counts, width = 0.7, color = 'b')
 #    

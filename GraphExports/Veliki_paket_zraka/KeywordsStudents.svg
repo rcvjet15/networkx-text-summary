@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="734.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-362.000000 -359.000000 734.000000 724.000000" height="724.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.8"
+              d="M 191.308411,156.619217 L 99.579697,4.851309"
+              class="id_instalacija id_Christo" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 183.851624,168.993256 L 111.842651,164.845718"
+              class="id_instalacija id_Njemačka" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 183.877014,171.141418 L 12.090919,185.117340"
+              class="id_instalacija id_zid" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 246.098114,-227.724594 L 125.624817,-318.393677"
+              class="id_svjetlost id_prozor" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 249.712204,-231.184021 L 215.630295,-280.847595"
+              class="id_svjetlost id_osvjetljenje" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 243.089111,-220.217880 L 171.632568,-228.638184"
+              class="id_svjetlost id_paket" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 244.417984,-211.889633 L 20.327389,-108.097496"
+              class="id_svjetlost id_unutrašnjost" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 317.239044,-129.982330 L 286.102509,-75.967743"
+              class="id_Obergausen id_Gasometer" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -63.269562,-0.520128 L 40.214870,78.836266"
+              class="id_skulptura id_godina" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -112.381462,-36.680931 L -215.894989,-109.824661"
+              class="id_skulptura id_grad" stroke-opacity="1.0" stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -76.535278,9.391533 L -56.645378,61.168491"
+              class="id_skulptura id_spremnik" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -117.666885,-14.773207 L -228.495941,1.034910"
+              class="id_skulptura id_posjetitelj" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -110.664391,0.728743 L -216.096695,90.780876"
+              class="id_skulptura id_gorivo" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -94.301208,10.645733 L -118.930344,117.857399"
+              class="id_skulptura id_prolaz" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -109.823097,1.673328 L -146.784271,35.993053"
+              class="id_skulptura id_obod" stroke-opacity="1.0" stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -64.847908,-39.534286 L -14.470409,-85.079262"
+              class="id_skulptura id_unutrašnjost" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -5.634654,-333.835846 L -142.401550,-223.618042"
+              class="id_Jeanna id_navrat" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -9.038392,-342.639038 L -65.787140,-339.254517"
+              class="id_Jeanna id_Clauda" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -4.759030,-332.839722 L -59.700382,-280.210480"
+              class="id_Jeanna id_zrak" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 10.434099,-328.586853 L 23.807985,-278.518219"
+              class="id_Jeanna id_tema" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 47.193130,239.956711 L 55.571945,112.730431"
+              class="id_omatanje id_godina" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 59.706898,247.865067 L 180.904510,180.173355"
+              class="id_omatanje id_instalacija" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 48.596172,240.113541 L 85.368919,7.634258"
+              class="id_omatanje id_Christo" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 36.466206,243.340240 L 4.276269,203.276733"
+              class="id_omatanje id_zid" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 61.485912,253.012390 L 119.745529,243.839249"
+              class="id_omatanje id_Reichsti" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 52.948883,241.481964 L 81.555725,182.610519"
+              class="id_omatanje id_Njemačka" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 228.197891,280.759308 L 149.449463,328.599670"
+              class="id_tona id_volumen" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -217.347855,109.112244 L -143.792145,132.122208"
+              class="id_gorivo id_prolaz" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -234.762848,89.207985 L -245.815338,24.810293"
+              class="id_gorivo id_posjetitelj" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -219.886627,94.993462 L -178.928177,63.270485"
+              class="id_gorivo id_obod" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -163.132874,304.054749 L -104.224304,265.951752"
+              class="id_dio id_šutnja" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -188.421356,303.006866 L -245.321686,259.122589"
+              class="id_dio id_ozračje" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -161.557449,317.705109 L -101.397049,339.279083"
+              class="id_dio id_tišina" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 7.705529,-113.289665 L 99.884636,-311.941986"
+              class="id_unutrašnjost id_prozor" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -2.985135,-84.300102 L -43.407185,60.541779"
+              class="id_unutrašnjost id_spremnik" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 12.805016,-109.483414 L 134.854370,-217.149078"
+              class="id_unutrašnjost id_paket" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -13.149755,-93.324577 L -229.875732,-4.024111"
+              class="id_unutrašnjost id_posjetitelj" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 12.236473,-110.093971 L 188.641998,-283.455444"
+              class="id_unutrašnjost id_osvjetljenje" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -10.494561,-89.035347 L -216.246628,90.607262"
+              class="id_unutrašnjost id_gorivo" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -6.026691,-85.507584 L -113.842232,119.742081"
+              class="id_unutrašnjost id_prolaz" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -10.252515,-88.764587 L -146.681686,36.104332"
+              class="id_unutrašnjost id_obod" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -198.433395,204.559814 L -298.299896,163.260361"
+              class="id_metar id_poliester" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -248.476822,253.757721 L -99.985001,336.163086"
+              class="id_ozračje id_tišina" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -246.546875,246.964767 L -107.584106,253.500839"
+              class="id_ozračje id_šutnja" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -85.670151,269.969543 L -82.675278,325.332397"
+              class="id_šutnja id_tišina" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -94.464394,-324.497742 L -148.464859,-228.756409"
+              class="id_Clauda id_navrat" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -74.079361,-329.213806 L 11.868967,-270.091217"
+              class="id_Clauda id_tema" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -86.647438,-322.499664 L -86.240692,-291.335266"
+              class="id_Clauda id_zrak" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 183.665939,13.019960 L 74.885300,80.547653"
+              class="id_plin id_godina" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 250.949493,71.787125 L 107.357079,-3.417186"
+              class="id_Volz id_Christo" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 84.180153,1.630213 L 63.064335,71.478783"
+              class="id_Christo id_godina" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 81.296501,-26.842926 L -76.818428,-319.435394"
+              class="id_Christo id_Clauda" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 88.556450,-28.706251 L 87.727364,-146.587097"
+              class="id_Christo id_doživljaj" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 76.542297,-22.864735 L -142.327499,-197.230667"
+              class="id_Christo id_navrat" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 73.174072,-13.723198 L -51.392544,-17.876896"
+              class="id_Christo id_skulptura" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 99.510674,-24.280533 L 188.057739,-114.694695"
+              class="id_Christo id_boravak" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 103.954025,-10.655222 L 176.022705,1.371865"
+              class="id_Christo id_plin" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 96.925735,-0.091079 L 137.136917,63.755665"
+              class="id_Christo id_Gasometr" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 85.011551,-28.269800 L 34.227154,-237.627563"
+              class="id_Christo id_tema" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 84.921478,-28.247665 L 11.530764,-323.086609"
+              class="id_Christo id_Jeanna" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 75.865646,-4.465075 L -31.654722,68.965378"
+              class="id_Christo id_spremnik" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 79.602844,-25.781174 L -64.662460,-225.951843"
+              class="id_Christo id_zrak" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 88.850571,2.292259 L 90.525574,142.533936"
+              class="id_Christo id_Njemačka" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -39.092571,-167.819382 L -88.733429,-134.606705"
+              class="id_supruga id_partnerica" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 2.008020,340.261292 L -166.802094,222.551804"
+              class="id_ovojnica id_metar" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 115.172173,-49.556145 L 64.999352,72.168213"
+              class="id_umjetnik id_godina" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 101.163879,-94.286087 L -8.478239,-165.002075"
+              class="id_umjetnik id_supruga" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 104.146027,-57.327545 L -33.410240,66.733635"
+              class="id_umjetnik id_spremnik" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 111.282623,-51.494209 L 99.397079,-31.373703"
+              class="id_umjetnik id_Christo" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 130.889084,-47.530670 L 145.549362,60.700684"
+              class="id_umjetnik id_Gasometr" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 155.747711,-87.346306 L 304.950470,-136.775452"
+              class="id_umjetnik id_Obergausen" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 96.851089,-83.551491 L -85.554901,-118.863228"
+              class="id_umjetnik id_partnerica" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 157.021408,-73.677513 L 254.654251,-60.508045"
+              class="id_umjetnik id_Gasometer" stroke-opacity="1.0"
+              stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 146.520615,-54.491898 L 183.188751,-11.248179"
+              class="id_umjetnik id_plin" stroke-opacity="1.0" stroke="#ff2008"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 351.904114,-48.338989 L 330.729309,-123.109383"
+              class="id_put id_Obergausen" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 341.286011,-37.895130 L 295.768585,-51.602989"
+              class="id_put id_Gasometer" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 340.909302,-36.367142 L 162.239075,-70.903473"
+              class="id_put id_umjetnik" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -175.931946,43.072990 L -230.754669,13.920841"
+              class="id_obod id_posjetitelj" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 9.211555,1.665596 L 47.070839,73.036209"
+              class="id_projekt id_godina" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -0.668447,-27.304733 L -22.648178,-155.641373"
+              class="id_projekt id_supruga" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -5.514502,1.558105 L -38.920235,62.371670"
+              class="id_projekt id_spremnik" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 17.446650,-12.237974 L 67.567413,-12.919676"
+              class="id_projekt id_Christo" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 15.006548,-3.676935 L 130.605194,70.242645"
+              class="id_projekt id_Gasometr" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -8.879814,-23.118011 L -91.530396,-107.775650"
+              class="id_projekt id_partnerica" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 17.390320,-10.690269 L 175.813522,3.025161"
+              class="id_projekt id_plin" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="1.6"
+              d="M 15.663476,-19.247837 L 89.896317,-58.328754"
+              class="id_projekt id_umjetnik" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 49.695061,77.983269 L 11.835776,6.612660"
+              class="id_godina id_projekt" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 52.366333,76.871933 L -19.958714,-156.285873"
+              class="id_godina id_supruga" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="1.6"
+              d="M 70.543648,99.138924 L 175.924515,157.029114"
+              class="id_godina id_instalacija" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 47.573505,79.340271 L -93.494553,-106.080933"
+              class="id_godina id_partnerica" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 55.939949,107.142532 L 47.561134,234.368805"
+              class="id_godina id_omatanje" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="1.6"
+              d="M 61.443840,76.839195 L 80.939163,12.351030"
+              class="id_godina id_Christo" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 62.865292,77.345650 L 113.038116,-44.378712"
+              class="id_godina id_umjetnik" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 44.478725,82.483414 L -216.138443,-109.487221"
+              class="id_godina id_grad" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="1.6"
+              d="M 48.133652,104.418549 L 6.261971,164.878311"
+              class="id_godina id_zid" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 64.549614,105.189941 L 130.255081,222.161087"
+              class="id_godina id_Reichsti" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="1.6"
+              d="M 63.551559,105.703941 L 79.420555,139.468231"
+              class="id_godina id_Njemačka" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -346.465546,-26.128668 L -346.336761,30.283613"
+              class="id_serija id_dokument" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -343.536957,-56.842598 L -333.149658,-110.160278"
+              class="id_serija id_Kassel" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 189.042908,-303.312195 L 128.706573,-324.183868"
+              class="id_osvjetljenje id_prozor" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 132.974670,83.306145 L 77.931786,89.366745"
+              class="id_Gasometr id_godina" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 132.881668,81.551292 L -27.979128,80.944740"
+              class="id_Gasometr id_spremnik" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 156.654831,68.502380 L 185.572556,22.688004"
+              class="id_Gasometr id_plin" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -256.006958,-228.006271 L -121.416374,-249.536102"
+              class="id_ventilator id_zrak" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -260.833527,-236.979126 L -214.521866,-287.455505"
+              class="id_ventilator id_pritisak" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -185.952148,-297.034973 L -119.086288,-269.138245"
+              class="id_pritisak id_zrak" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 188.338348,-124.247139 L -53.741402,-31.941711"
+              class="id_boravak id_skulptura" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -33.658913,82.437302 L 35.967346,89.535919"
+              class="id_spremnik id_godina" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -63.550426,75.312950 L -229.684677,11.572554"
+              class="id_spremnik id_posjetitelj" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -64.451553,82.848618 L -211.214401,101.784592"
+              class="id_spremnik id_gorivo" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -61.349464,90.335411 L -106.950783,125.530022"
+              class="id_spremnik id_prolaz" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -34.270416,76.287369 L 176.676132,11.076817"
+              class="id_spremnik id_plin" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -64.044472,76.829834 L -141.874130,55.843552"
+              class="id_spremnik id_obod" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 6.157331,183.316513 L 70.226257,168.413010"
+              class="id_zid id_Njemačka" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -2.142511,172.898132 L 79.412651,5.756371"
+              class="id_zid id_Christo" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 132.997665,227.043533 L 67.292198,110.072388"
+              class="id_Reichsti id_godina" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 150.495987,228.637009 L 185.839355,186.111710"
+              class="id_Reichsti id_instalacija" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 137.481628,225.372055 L 92.895149,7.465078"
+              class="id_Reichsti id_Christo" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 132.164032,227.546890 L 102.246040,181.343567"
+              class="id_Reichsti id_Njemačka" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 126.001854,235.316010 L 10.917399,193.963409"
+              class="id_Reichsti id_zid" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 144.684875,-245.402161 L 116.923706,-311.622589"
+              class="id_paket id_prozor" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 160.283203,-243.272247 L 190.615173,-281.685211"
+              class="id_paket id_osvjetljenje" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 75.762672,-157.655350 L -59.951965,-42.443008"
+              class="id_doživljaj id_skulptura" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 102.302490,-162.842224 L 182.778229,-136.364044"
+              class="id_doživljaj id_boravak" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -143.807327,-214.192581 L 8.802029,-252.940338"
+              class="id_navrat id_tema" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -145.621841,-218.488480 L -116.533302,-236.349121"
+              class="id_navrat id_zrak" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -134.243149,127.102295 L -234.970261,19.423422"
+              class="id_prolaz id_posjetitelj" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -129.875381,124.224915 L -153.778046,69.676285"
+              class="id_prolaz id_obod" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -303.474823,161.120285 L -203.608353,202.419739"
+              class="id_poliester id_metar" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 13.758031,-257.742981 L -49.681004,-256.146515"
+              class="id_tema id_zrak" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -344.834473,35.951920 L -331.094299,-109.863968"
+              class="id_dokument id_Kassel" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -161.708252,-49.131462 L 39.218384,80.252510"
+              class="id_rad id_godina" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -159.729736,-53.658089 L -18.485394,-17.288652"
+              class="id_rad id_projekt" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -187.825851,-49.215733 L -328.475098,40.074745"
+              class="id_rad id_dokument" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -190.174164,-56.094906 L -325.490692,-43.572887"
+              class="id_rad id_serija" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -162.640274,-67.210464 L -42.681423,-163.251328"
+              class="id_rad id_supruga" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -163.527512,-68.224915 L -121.533905,-108.305298"
+              class="id_rad id_partnerica" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -188.740219,-64.174995 L -310.056641,-121.815819"
+              class="id_rad id_Kassel" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -160.555450,-51.274525 L -120.509018,-33.633255"
+              class="id_rad id_skulptura" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -159.274887,-58.560795 L 90.776138,-75.337967"
+              class="id_rad id_umjetnik" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 332.596649,72.841606 L 285.694672,77.079597"
+              class="id_Wolfgang id_Volz" stroke-opacity="1.0" stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 333.298737,66.637474 L 108.724106,-6.659835"
+              class="id_Wolfgang id_Christo" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 291.849701,162.854355 L 104.611740,0.610967"
+              class="id_fotografija id_Christo" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 297.640442,158.681183 L 272.743683,98.476936"
+              class="id_fotografija id_Volz" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+        <path fill="none" stroke-width="0.8"
+              d="M 309.780975,158.806259 L 339.570343,90.774971"
+              class="id_fotografija id_Wolfgang" stroke-opacity="1.0"
+              stroke="#ffc738"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_instalacija id_Christo"
+                  points="96.683029,0.058679 101.976013,3.402973 97.183380,6.299644"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_instalacija id_Njemačka"
+                  points="106.251923,164.523712 112.003654,162.050354 111.681648,167.641083"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_instalacija id_zid"
+                  points="6.509358,185.571442 11.863871,182.326553 12.317966,187.908127"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_svjetlost id_prozor"
+                  points="121.150421,-321.761139 127.308548,-320.630859 123.941086,-316.156494"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_svjetlost id_osvjetljenje"
+                  points="212.461639,-285.464935 217.938950,-282.431915 213.321640,-279.263275"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_svjetlost id_paket"
+                  points="166.071045,-229.293549 171.960251,-231.418945 171.304886,-225.857422"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_svjetlost id_unutrašnjost"
+                  points="15.245975,-105.743935 19.150608,-110.638199 21.504169,-105.556793"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Obergausen id_Gasometer"
+                  points="283.305786,-71.116104 283.676697,-77.366096 288.528320,-74.569389"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_skulptura id_godina"
+                  points="44.658688,82.243980 38.511013,81.058174 41.918728,76.614357"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0" class="id_skulptura id_grad"
+                  points="-220.468430,-113.056313 -214.279160,-112.111389 -217.510818,-107.537933"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_skulptura id_spremnik"
+                  points="-54.637234,66.396049 -59.259155,62.172562 -54.031601,60.164421"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_skulptura id_posjetitelj"
+                  points="-234.039825,1.825664 -228.891312,-1.737035 -228.100571,3.806855"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_skulptura id_gorivo"
+                  points="-220.354889,94.417892 -217.915207,88.651787 -214.278183,92.909966"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_skulptura id_prolaz"
+                  points="-120.184135,123.315239 -121.659264,117.230499 -116.201424,118.484299"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0" class="id_skulptura id_obod"
+                  points="-150.888000,39.803497 -148.689499,33.941193 -144.879044,38.044914"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_skulptura id_unutrašnjost"
+                  points="-10.316388,-88.834808 -12.592638,-83.002251 -16.348181,-87.156273"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Jeanna id_navrat"
+                  points="-146.761871,-220.104126 -144.158508,-225.798203 -140.644592,-221.437881"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Jeanna id_Clauda"
+                  points="-71.377213,-338.921143 -65.953835,-342.049561 -65.620445,-336.459473"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Jeanna id_zrak"
+                  points="-63.744354,-276.336700 -61.637280,-282.232452 -57.763485,-278.188507"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Jeanna id_tema"
+                  points="25.253141,-273.107880 21.102827,-277.795654 26.513144,-279.240784"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_omatanje id_godina"
+                  points="55.939949,107.142532 58.365894,112.914436 52.777996,112.546425"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_omatanje id_instalacija"
+                  points="185.793625,177.442673 182.269852,182.617905 179.539169,177.728806"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_omatanje id_Christo"
+                  points="86.243828,2.103025 88.134537,8.071713 82.603302,7.196803"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_omatanje id_zid"
+                  points="0.768740,198.911270 6.458999,201.522964 2.093539,205.030502"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_omatanje id_Reichsti"
+                  points="125.277374,242.968246 120.181030,246.605179 119.310028,241.073318"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_omatanje id_Njemačka"
+                  points="84.003227,177.573669 84.074142,183.834274 79.037308,181.386765"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_tona id_volumen"
+                  points="144.663437,331.507233 147.995682,326.206665 150.903244,330.992676"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_gorivo id_prolaz"
+                  points="-138.447556,133.794128 -144.628098,134.794510 -142.956192,129.449905"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_gorivo id_posjetitelj"
+                  points="-246.762604,19.290991 -243.055695,24.336658 -248.574982,25.283928"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_gorivo id_obod"
+                  points="-174.500809,59.841423 -177.213638,65.484169 -180.642715,61.056805"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_dio id_šutnja"
+                  points="-99.522186,262.910339 -102.703606,268.302795 -105.745003,263.600708"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_dio id_ozračje"
+                  points="-249.756058,255.702606 -243.611694,256.905396 -247.031677,261.339783"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_dio id_tišina"
+                  points="-96.125748,341.169403 -102.342216,341.914734 -100.451881,336.643433"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_unutrašnjost id_prozor"
+                  points="102.241760,-317.021729 102.424515,-310.763428 97.344757,-313.120544"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_unutrašnjost id_spremnik"
+                  points="-44.912495,65.935669 -46.104130,59.789124 -40.710239,61.294434"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_unutrašnjost id_paket"
+                  points="139.053879,-220.853683 136.706665,-215.049316 133.002075,-219.248840"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_unutrašnjost id_posjetitelj"
+                  points="-235.053421,-1.890679 -230.942444,-6.612956 -228.809021,-1.435266"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_unutrašnjost id_osvjetljenje"
+                  points="192.636108,-287.380646 190.604599,-281.458405 186.679398,-285.452484"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_unutrašnjost id_gorivo"
+                  points="-220.465012,94.290352 -218.088165,88.498062 -214.405090,92.716461"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_unutrašnjost id_prolaz"
+                  points="-116.446426,124.699722 -116.321053,118.439980 -111.363411,121.044182"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_unutrašnjost id_obod"
+                  points="-150.812637,39.885242 -148.572144,34.038860 -144.791229,38.169804"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_metar id_poliester"
+                  points="-303.474823,161.120285 -297.229858,160.672882 -299.369934,165.847839"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_ozračje id_tišina"
+                  points="-95.088455,338.880402 -101.343666,338.611359 -98.626335,333.714813"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_ozračje id_šutnja"
+                  points="-101.990295,253.763947 -107.715660,256.297760 -107.452553,250.703934"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_šutnja id_tišina"
+                  points="-82.372787,330.924225 -85.471191,325.483643 -79.879364,325.181152"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Clauda id_navrat"
+                  points="-151.215958,-223.878754 -150.903687,-230.131958 -146.026031,-227.380859"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Clauda id_tema"
+                  points="16.482773,-266.917450 10.282083,-267.784302 13.455852,-272.398132"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Clauda id_zrak"
+                  points="-86.167610,-285.735748 -89.040451,-291.298737 -83.440933,-291.371796"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_plin id_godina"
+                  points="70.127487,83.501160 73.408546,78.168747 76.362053,82.926559"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Volz id_Christo"
+                  points="102.396271,-6.015333 108.656151,-5.897591 106.058006,-0.936781"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Christo id_godina"
+                  points="61.443840,76.839195 60.384132,70.668533 65.744537,72.289032"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Christo id_Clauda"
+                  points="-79.480759,-324.362061 -74.355095,-320.766571 -79.281761,-318.104218"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Christo id_doživljaj"
+                  points="87.687973,-152.186951 90.527298,-146.606796 84.927429,-146.567398"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Christo id_navrat"
+                  points="-146.707474,-200.720047 -140.582809,-199.420654 -144.072189,-195.040680"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Christo id_skulptura"
+                  points="-56.989433,-18.063524 -51.299229,-20.675341 -51.485859,-15.078451"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Christo id_boravak"
+                  points="191.976013,-118.695587 190.058182,-112.735558 186.057297,-116.653831"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Christo id_plin"
+                  points="181.546310,2.293666 175.561798,4.133671 176.483612,-1.389941"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Christo id_Gasometr"
+                  points="140.121277,68.494186 134.767654,65.247841 139.506180,62.263485"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Christo id_tema"
+                  points="32.907032,-243.069733 36.948242,-238.287628 31.506065,-236.967499"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Christo id_Jeanna"
+                  points="10.178099,-328.520813 14.247853,-323.762939 8.813674,-322.410278"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Christo id_spremnik"
+                  points="-36.279171,72.123619 -33.233841,66.653152 -30.075602,71.277603"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Christo id_zrak"
+                  points="-67.936691,-230.494904 -62.390930,-227.588959 -66.933990,-224.314728"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Christo id_Njemačka"
+                  points="90.592453,148.133530 87.725777,142.567383 93.325371,142.500488"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_supruga id_partnerica"
+                  points="-93.387764,-131.492676 -90.290443,-136.933868 -87.176414,-132.279541"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_ovojnica id_metar"
+                  points="-171.395630,219.348785 -165.200577,220.255035 -168.403610,224.848572"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_umjetnik id_godina"
+                  points="62.865292,77.345642 62.410637,71.101189 67.588066,73.235237"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_umjetnik id_supruga"
+                  points="-13.184309,-168.037354 -6.960600,-167.355103 -9.995878,-162.649048"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_umjetnik id_spremnik"
+                  points="-37.568768,70.484192 -35.285515,64.654373 -31.534964,68.812897"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_umjetnik id_Christo"
+                  points="96.548874,-26.552113 96.986282,-32.797806 101.807877,-29.949602"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_umjetnik id_Gasometr"
+                  points="146.301041,66.250008 142.774704,61.076519 148.324020,60.324848"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_umjetnik id_Obergausen"
+                  points="310.266357,-138.536545 305.831024,-134.117508 304.069916,-139.433395"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_umjetnik id_partnerica"
+                  points="-91.052826,-119.927567 -85.022736,-121.612190 -86.087067,-116.114265"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0"
+                  class="id_umjetnik id_Gasometer"
+                  points="260.203979,-59.759453 254.279953,-57.733177 255.028549,-63.282913"
+                  stroke="none"/>
+        <polyline fill="#ff2008" fill-opacity="1.0" class="id_umjetnik id_plin"
+                  points="186.810471,-6.976982 181.053146,-9.437318 185.324356,-13.059041"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_put id_Obergausen"
+                  points="329.203430,-128.497482 333.423370,-123.872330 328.035248,-122.346436"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_put id_Gasometer"
+                  points="290.406464,-53.217823 296.575989,-54.284050 294.961182,-48.921928"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_put id_umjetnik"
+                  points="156.740845,-71.966263 162.770462,-73.652588 161.707687,-68.154358"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_obod id_posjetitelj"
+                  points="-235.699081,11.291632 -229.440063,11.448633 -232.069275,16.393049"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_projekt id_godina"
+                  points="49.695061,77.983269 44.597305,74.348320 49.544373,71.724098"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_projekt id_supruga"
+                  points="-23.593506,-161.161011 -19.888361,-156.114029 -25.407995,-155.168716"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_projekt id_spremnik"
+                  points="-41.616394,67.279900 -41.374352,61.023590 -36.466118,63.719749"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_projekt id_Christo"
+                  points="73.166893,-12.995835 67.605492,-10.119935 67.529335,-15.719417"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_projekt id_Gasometr"
+                  points="135.323090,73.259506 129.096771,72.601593 132.113617,67.883698"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_projekt id_partnerica"
+                  points="-95.442406,-111.782661 -89.526886,-109.731659 -93.533905,-105.819641"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_projekt id_plin"
+                  points="181.392654,3.508173 175.572021,5.814727 176.055023,0.235596"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_projekt id_umjetnik"
+                  points="99.806793,-63.546265 92.505074,-53.373516 87.287560,-63.283993"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_godina id_projekt"
+                  points="9.211555,1.665595 14.309309,5.300550 9.362244,7.924771"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_godina id_supruga"
+                  points="-21.617832,-161.634460 -17.284424,-157.115433 -22.633003,-155.456314"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_godina id_instalacija"
+                  points="185.740860,162.421661 173.228241,161.937286 178.620789,152.120941"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_godina id_partnerica"
+                  points="-96.885277,-110.537727 -91.266159,-107.776291 -95.722946,-104.385574"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_godina id_omatanje"
+                  points="47.193130,239.956711 44.767185,234.184799 50.355083,234.552811"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_godina id_Christo"
+                  points="84.180153,1.630212 86.299576,13.971527 75.578751,10.730534"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_godina id_umjetnik"
+                  points="115.172173,-49.556145 115.626831,-43.311684 110.449402,-45.445740"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_godina id_grad"
+                  points="-220.647278,-112.808426 -214.477844,-111.741638 -217.799042,-107.232803"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_godina id_zid"
+                  points="-0.114718,174.085800 1.658226,161.689972 10.865715,168.066650"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_godina id_Reichsti"
+                  points="132.997665,227.043533 127.813858,223.532379 132.696304,220.789795"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_godina id_Njemačka"
+                  points="84.184540,149.604523 74.352409,141.850220 84.488701,137.086243"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_serija id_dokument"
+                  points="-346.323975,35.883598 -349.136749,30.290005 -343.536774,30.277222"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_serija id_Kassel"
+                  points="-332.078796,-115.656937 -330.401337,-109.624855 -335.897980,-110.695702"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_osvjetljenje id_prozor"
+                  points="123.414268,-326.014587 129.621933,-326.830017 127.791214,-321.537720"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Gasometr id_godina"
+                  points="72.365425,89.979637 77.625336,86.583565 78.238235,92.149925"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Gasometr id_spremnik"
+                  points="-33.579090,80.923630 -27.968571,78.144760 -27.989685,83.744720"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Gasometr id_plin"
+                  points="188.561615,17.952438 187.940338,24.182531 183.204773,21.193476"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_ventilator id_zrak"
+                  points="-115.886681,-250.420670 -120.974091,-246.771255 -121.858658,-252.300949"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_ventilator id_pritisak"
+                  points="-210.735962,-291.581848 -212.458679,-285.562561 -216.585052,-289.348450"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_pritisak id_zrak"
+                  points="-113.918045,-266.982025 -120.164398,-266.554108 -118.008179,-271.722382"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_boravak id_skulptura"
+                  points="-58.973923,-29.946541 -54.738987,-34.557972 -52.743816,-29.325449"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_spremnik id_godina"
+                  points="41.538467,90.103912 35.683350,92.321480 36.251343,86.750359"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_spremnik id_posjetitelj"
+                  points="-234.913071,9.566586 -228.681686,8.958357 -230.687668,14.186750"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_spremnik id_gorivo"
+                  points="-216.768356,102.501183 -211.572693,99.007614 -210.856110,104.561569"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_spremnik id_prolaz"
+                  points="-111.383987,128.951523 -108.661537,123.313416 -105.240028,127.746628"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_spremnik id_plin"
+                  points="182.026321,9.422895 177.503098,13.751912 175.849167,8.401721"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_spremnik id_obod"
+                  points="-147.281006,54.385616 -141.145157,53.140106 -142.603104,58.546997"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_zid id_Njemačka"
+                  points="75.680634,167.144226 70.860649,171.140198 69.591866,165.685822"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_zid id_Christo"
+                  points="81.868370,0.723536 81.929070,6.984231 76.896233,4.528510"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Reichsti id_godina"
+                  points="64.549614,105.189941 69.733421,108.701096 64.850975,111.443680"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Reichsti id_instalacija"
+                  points="189.418732,181.804962 187.992722,187.901398 183.685989,184.322021"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Reichsti id_Christo"
+                  points="91.772575,1.978746 95.638313,6.903792 90.151985,8.026364"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Reichsti id_Njemačka"
+                  points="99.202271,176.642975 104.596329,179.821686 99.895752,182.865448"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Reichsti id_zid"
+                  points="5.647296,192.069733 11.864237,191.328354 9.970562,196.598465"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_paket id_prozor"
+                  points="114.758606,-316.787109 119.505974,-312.705139 114.341438,-310.540039"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_paket id_osvjetljenje"
+                  points="194.085587,-286.080231 192.812683,-279.950012 188.417664,-283.420410"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_doživljaj id_skulptura"
+                  points="-64.221077,-38.818829 -61.764057,-44.577564 -58.139874,-40.308453"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_doživljaj id_boravak"
+                  points="188.097702,-134.613831 181.903122,-133.704315 183.653336,-139.023773"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_navrat id_tema"
+                  points="14.229808,-254.318466 9.491090,-250.226456 8.112967,-255.654221"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_navrat id_zrak"
+                  points="-111.761093,-239.279312 -115.068207,-233.963013 -117.998398,-238.735229"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_prolaz id_posjetitelj"
+                  points="-238.795853,15.333811 -232.925461,17.510630 -237.015060,21.336214"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_prolaz id_obod"
+                  points="-156.025589,64.547104 -151.213455,68.552505 -156.342636,70.800064"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_poliester id_metar"
+                  points="-198.433395,204.559814 -204.678391,205.007217 -202.538315,199.832260"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_tema id_zrak"
+                  points="-55.279228,-256.005646 -49.751442,-258.945618 -49.610565,-253.347397"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_dokument id_Kassel"
+                  points="-330.568970,-115.439270 -328.306641,-109.601288 -333.881958,-110.126648"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_rad id_godina"
+                  points="43.926666,83.284348 37.702465,82.606651 40.734303,77.898369"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_rad id_projekt"
+                  points="-13.062291,-15.892241 -19.183599,-14.577101 -17.787188,-20.000204"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_rad id_dokument"
+                  points="-333.202850,43.076138 -329.975800,37.710869 -326.974396,42.438622"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_rad id_serija"
+                  points="-331.066864,-43.056877 -325.748688,-46.360977 -325.232697,-40.784798"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_rad id_supruga"
+                  points="-38.309872,-166.751251 -40.931458,-161.065552 -44.431389,-165.437103"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_rad id_partnerica"
+                  points="-117.482903,-112.171738 -119.600685,-106.279793 -123.467125,-110.330803"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_rad id_Kassel"
+                  points="-315.114746,-124.219070 -308.855011,-124.344872 -311.258270,-119.286766"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_rad id_skulptura"
+                  points="-115.384239,-31.375683 -121.637802,-31.070866 -119.380234,-36.195644"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_rad id_umjetnik"
+                  points="96.363571,-75.712852 90.963585,-72.544250 90.588692,-78.131683"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0" class="id_Wolfgang id_Volz"
+                  points="280.117401,77.583549 285.442688,74.290962 285.946655,79.868233"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_Wolfgang id_Christo"
+                  points="103.400482,-8.397374 109.592873,-9.321646 107.855339,-3.998024"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_fotografija id_Christo"
+                  points="100.379555,-3.056265 106.445358,-1.505128 102.778122,2.727061"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_fotografija id_Volz"
+                  points="270.603638,93.301971 275.331177,97.406914 270.156189,99.546959"
+                  stroke="none"/>
+        <polyline fill="#ffc738" fill-opacity="1.0"
+                  class="id_fotografija id_Wolfgang"
+                  points="341.816559,85.645203 342.135223,91.898079 337.005463,89.651863"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="199.32597"
+                class="id_instalacija" cy="169.88454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="258.4826"
+                class="id_svjetlost" cy="-218.40395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="324.97995"
+                class="id_Obergausen" cy="-143.41098" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff2008" r="30.0" cx="-87.47249"
+                class="id_skulptura" cy="-19.079988" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-329.11484"
+                class="id_Kassel" cy="-130.87091" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="6.4341154"
+                class="id_Jeanna" cy="-343.56183" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="46.174545"
+                class="id_omatanje" cy="255.4232" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="241.44495"
+                class="id_tona" cy="272.7116" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-232.14093"
+                class="id_gorivo" cy="104.48462" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-176.14766"
+                class="id_dio" cy="312.47293" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="1.1813508"
+                class="id_unutrašnjost" cy="-99.229614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-184.1099"
+                class="id_metar" cy="210.48326" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-262.02975"
+                class="id_ozračje" cy="246.23654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-86.50741"
+                class="id_šutnja" cy="254.49217" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="131.41638"
+                class="id_volumen" cy="339.55493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-86.84972"
+                class="id_Clauda" cy="-337.99835" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="196.83488"
+                class="id_plin" cy="4.8450785" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-81.53553"
+                class="id_tišina" cy="346.40158" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="264.6803"
+                class="id_Volz" cy="78.978424" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="88.66546"
+                class="id_Christo" cy="-13.2066345" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-26.210035"
+                class="id_supruga" cy="-176.43857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="14.722286"
+                class="id_ovojnica" cy="349.1268" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff2008" r="30.0" cx="126.79515"
+                class="id_umjetnik" cy="-77.75466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="356.1276"
+                class="id_put" cy="-33.425495" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-162.2465"
+                class="id_obod" cy="50.350266" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="90.777565"
+                class="id_Njemačka" cy="163.63243" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="1.9480821"
+                class="id_projekt" cy="-12.027175" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="56.958534"
+                class="id_godina" cy="91.67604" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-346.50092"
+                class="id_serija" cy="-41.628628" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-249.38452"
+                class="id_posjetitelj" cy="4.014356" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="203.69124"
+                class="id_osvjetljenje" cy="-298.245" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="148.38156"
+                class="id_Gasometr" cy="81.60974" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-271.31238"
+                class="id_ventilator" cy="-225.55794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-200.25711"
+                class="id_pritisak" cy="-303.00305" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="202.82123"
+                class="id_boravak" cy="-129.76949" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-106.2703"
+                class="id_partnerica" cy="-122.8735" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-233.12709"
+                class="id_grad" cy="-122.00105" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-49.07898"
+                class="id_spremnik" cy="80.86518" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-8.939599"
+                class="id_zid" cy="186.82831" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff2008" r="30.0" cx="-85.76958"
+                class="id_zrak" cy="-255.23836" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="140.58875"
+                class="id_Reichsti" cy="240.55743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="150.67755"
+                class="id_paket" cy="-231.10748" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="87.578964"
+                class="id_doživljaj" cy="-167.68657" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="108.76594"
+                class="id_prozor" cy="-331.0818" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-158.83064"
+                class="id_navrat" cy="-210.37814" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-123.65447"
+                class="id_prolaz" cy="138.42175" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="275.56488"
+                class="id_Gasometer" cy="-57.687458" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-317.79834"
+                class="id_poliester" cy="155.19684" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="29.253124"
+                class="id_tema" cy="-258.1329" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-346.2886"
+                class="id_dokument" cy="51.38356" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="-174.74011"
+                class="id_rad" cy="-57.523155" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="348.03375"
+                class="id_Wolfgang" cy="71.44673" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffc738" r="15.0" cx="303.56378"
+                class="id_fotografija" cy="173.00473" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="15" x="199.32597" y="173.51369"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_instalacija" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            instalacija
+        </text>
+        <text stroke-linecap="round" font-size="15" x="258.4826" y="-214.7748"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_svjetlost" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            svjetlost
+        </text>
+        <text stroke-linecap="round" font-size="15" x="324.97995" y="-139.78183"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Obergausen" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Obergausen
+        </text>
+        <text stroke-linecap="round" font-size="30" x="-87.47249" y="-11.821688"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_skulptura" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            skulptura
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-329.11484"
+              y="-127.96808" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Kassel" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Kassel
+        </text>
+        <text stroke-linecap="round" font-size="15" x="6.4341154" y="-340.07672"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Jeanna" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Jeanna
+        </text>
+        <text stroke-linecap="round" font-size="15" x="46.174545" y="259.05237"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_omatanje" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            omatanje
+        </text>
+        <text stroke-linecap="round" font-size="15" x="241.44495" y="275.39838"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_tona" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            tona
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-232.14093" y="108.11377"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_gorivo" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            gorivo
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-176.14766" y="315.37576"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_dio" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            dio
+        </text>
+        <text stroke-linecap="round" font-size="15" x="1.1813508" y="-95.45032"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_unutrašnjost" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            unutrašnjost
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-184.1099" y="213.17003"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_metar" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            metar
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-262.02975" y="250.01584"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ozračje" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            ozračje
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-86.50741" y="258.27148"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_šutnja" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            šutnja
+        </text>
+        <text stroke-linecap="round" font-size="15" x="131.41638" y="342.45776"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_volumen" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            volumen
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-86.84972" y="-335.09552"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Clauda" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Clauda
+        </text>
+        <text stroke-linecap="round" font-size="15" x="196.83488" y="8.474229"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_plin" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            plin
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-81.53553" y="349.45456"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_tišina" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            tišina
+        </text>
+        <text stroke-linecap="round" font-size="15" x="264.6803" y="81.881256"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Volz" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Volz
+        </text>
+        <text stroke-linecap="round" font-size="15" x="88.66546" y="-10.3038025"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Christo" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Christo
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-26.210035"
+              y="-173.55771" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_supruga" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            supruga
+        </text>
+        <text stroke-linecap="round" font-size="15" x="14.722286" y="352.75595"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ovojnica" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            ovojnica
+        </text>
+        <text stroke-linecap="round" font-size="30" x="126.79515" y="-70.49636"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_umjetnik" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            umjetnik
+        </text>
+        <text stroke-linecap="round" font-size="15" x="356.1276" y="-30.01241"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_put" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            put
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-162.2465" y="53.253098"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_obod" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            obod
+        </text>
+        <text stroke-linecap="round" font-size="15" x="90.777565" y="167.41173"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Njemačka" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Njemačka
+        </text>
+        <text stroke-linecap="round" font-size="15" x="1.9480821" y="-8.398025"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_projekt" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            projekt
+        </text>
+        <text stroke-linecap="round" font-size="15" x="56.958534" y="95.30519"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_godina" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            godina
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-346.50092"
+              y="-37.999477" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_serija" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            serija
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-249.38452" y="7.6435065"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_posjetitelj" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            posjetitelj
+        </text>
+        <text stroke-linecap="round" font-size="15" x="203.69124" y="-294.61584"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_osvjetljenje" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            osvjetljenje
+        </text>
+        <text stroke-linecap="round" font-size="15" x="148.38156" y="84.446655"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Gasometr" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Gasometr
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-271.31238" y="-222.6551"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ventilator" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            ventilator
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-200.25711" y="-299.3739"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_pritisak" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            pritisak
+        </text>
+        <text stroke-linecap="round" font-size="15" x="202.82123" y="-126.86665"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_boravak" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            boravak
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-106.2703" y="-119.24435"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_partnerica" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            partnerica
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-233.12709" y="-118.3719"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_grad" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            grad
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-49.07898" y="84.49433"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_spremnik" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            spremnik
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-8.939599" y="189.73114"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_zid" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            zid
+        </text>
+        <text stroke-linecap="round" font-size="30" x="-85.76958" y="-249.4327"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_zrak" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="3.75px">
+            zrak
+        </text>
+        <text stroke-linecap="round" font-size="15" x="140.58875" y="243.46027"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Reichsti" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Reichsti
+        </text>
+        <text stroke-linecap="round" font-size="15" x="150.67755" y="-227.47833"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_paket" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            paket
+        </text>
+        <text stroke-linecap="round" font-size="15" x="87.578964" y="-163.90727"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_doživljaj" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            doživljaj
+        </text>
+        <text stroke-linecap="round" font-size="15" x="108.76594" y="-328.20093"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_prozor" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            prozor
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-158.83064"
+              y="-207.69138" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_navrat" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            navrat
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-123.65447" y="142.0509"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_prolaz" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            prolaz
+        </text>
+        <text stroke-linecap="round" font-size="15" x="275.56488" y="-54.850544"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Gasometer" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Gasometer
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-317.79834" y="158.82599"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_poliester" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            poliester
+        </text>
+        <text stroke-linecap="round" font-size="15" x="29.253124" y="-255.44614"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_tema" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            tema
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-346.2886" y="54.286392"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_dokument" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            dokument
+        </text>
+        <text stroke-linecap="round" font-size="15" x="-174.74011"
+              y="-54.620323" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_rad" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            rad
+        </text>
+        <text stroke-linecap="round" font-size="15" x="348.03375" y="75.07588"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Wolfgang" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            Wolfgang
+        </text>
+        <text stroke-linecap="round" font-size="15" x="303.56378" y="176.63388"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_fotografija" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="1.875px">
+            fotografija
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="15" x="199.32597" y="173.51369" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_instalacija">
+            instalacija
+        </text>
+        <text font-size="15" x="258.4826" y="-214.7748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_svjetlost">
+            svjetlost
+        </text>
+        <text font-size="15" x="324.97995" y="-139.78183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Obergausen">
+            Obergausen
+        </text>
+        <text font-size="30" x="-87.47249" y="-11.821688" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_skulptura">
+            skulptura
+        </text>
+        <text font-size="15" x="-329.11484" y="-127.96808" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Kassel">
+            Kassel
+        </text>
+        <text font-size="15" x="6.4341154" y="-340.07672" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Jeanna">
+            Jeanna
+        </text>
+        <text font-size="15" x="46.174545" y="259.05237" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_omatanje">
+            omatanje
+        </text>
+        <text font-size="15" x="241.44495" y="275.39838" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_tona">
+            tona
+        </text>
+        <text font-size="15" x="-232.14093" y="108.11377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_gorivo">
+            gorivo
+        </text>
+        <text font-size="15" x="-176.14766" y="315.37576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_dio">
+            dio
+        </text>
+        <text font-size="15" x="1.1813508" y="-95.45032" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_unutrašnjost">
+            unutrašnjost
+        </text>
+        <text font-size="15" x="-184.1099" y="213.17003" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_metar">
+            metar
+        </text>
+        <text font-size="15" x="-262.02975" y="250.01584" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ozračje">
+            ozračje
+        </text>
+        <text font-size="15" x="-86.50741" y="258.27148" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_šutnja">
+            šutnja
+        </text>
+        <text font-size="15" x="131.41638" y="342.45776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_volumen">
+            volumen
+        </text>
+        <text font-size="15" x="-86.84972" y="-335.09552" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Clauda">
+            Clauda
+        </text>
+        <text font-size="15" x="196.83488" y="8.474229" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_plin">
+            plin
+        </text>
+        <text font-size="15" x="-81.53553" y="349.45456" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_tišina">
+            tišina
+        </text>
+        <text font-size="15" x="264.6803" y="81.881256" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Volz">
+            Volz
+        </text>
+        <text font-size="15" x="88.66546" y="-10.3038025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Christo">
+            Christo
+        </text>
+        <text font-size="15" x="-26.210035" y="-173.55771" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_supruga">
+            supruga
+        </text>
+        <text font-size="15" x="14.722286" y="352.75595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ovojnica">
+            ovojnica
+        </text>
+        <text font-size="30" x="126.79515" y="-70.49636" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_umjetnik">
+            umjetnik
+        </text>
+        <text font-size="15" x="356.1276" y="-30.01241" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_put">
+            put
+        </text>
+        <text font-size="15" x="-162.2465" y="53.253098" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_obod">
+            obod
+        </text>
+        <text font-size="15" x="90.777565" y="167.41173" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Njemačka">
+            Njemačka
+        </text>
+        <text font-size="15" x="1.9480821" y="-8.398025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_projekt">
+            projekt
+        </text>
+        <text font-size="15" x="56.958534" y="95.30519" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_godina">
+            godina
+        </text>
+        <text font-size="15" x="-346.50092" y="-37.999477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_serija">
+            serija
+        </text>
+        <text font-size="15" x="-249.38452" y="7.6435065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_posjetitelj">
+            posjetitelj
+        </text>
+        <text font-size="15" x="203.69124" y="-294.61584" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_osvjetljenje">
+            osvjetljenje
+        </text>
+        <text font-size="15" x="148.38156" y="84.446655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Gasometr">
+            Gasometr
+        </text>
+        <text font-size="15" x="-271.31238" y="-222.6551" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ventilator">
+            ventilator
+        </text>
+        <text font-size="15" x="-200.25711" y="-299.3739" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_pritisak">
+            pritisak
+        </text>
+        <text font-size="15" x="202.82123" y="-126.86665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_boravak">
+            boravak
+        </text>
+        <text font-size="15" x="-106.2703" y="-119.24435" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_partnerica">
+            partnerica
+        </text>
+        <text font-size="15" x="-233.12709" y="-118.3719" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_grad">
+            grad
+        </text>
+        <text font-size="15" x="-49.07898" y="84.49433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_spremnik">
+            spremnik
+        </text>
+        <text font-size="15" x="-8.939599" y="189.73114" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_zid">
+            zid
+        </text>
+        <text font-size="30" x="-85.76958" y="-249.4327" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_zrak">
+            zrak
+        </text>
+        <text font-size="15" x="140.58875" y="243.46027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Reichsti">
+            Reichsti
+        </text>
+        <text font-size="15" x="150.67755" y="-227.47833" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_paket">
+            paket
+        </text>
+        <text font-size="15" x="87.578964" y="-163.90727" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_doživljaj">
+            doživljaj
+        </text>
+        <text font-size="15" x="108.76594" y="-328.20093" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_prozor">
+            prozor
+        </text>
+        <text font-size="15" x="-158.83064" y="-207.69138" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_navrat">
+            navrat
+        </text>
+        <text font-size="15" x="-123.65447" y="142.0509" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_prolaz">
+            prolaz
+        </text>
+        <text font-size="15" x="275.56488" y="-54.850544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Gasometer">
+            Gasometer
+        </text>
+        <text font-size="15" x="-317.79834" y="158.82599" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_poliester">
+            poliester
+        </text>
+        <text font-size="15" x="29.253124" y="-255.44614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_tema">
+            tema
+        </text>
+        <text font-size="15" x="-346.2886" y="54.286392" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_dokument">
+            dokument
+        </text>
+        <text font-size="15" x="-174.74011" y="-54.620323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_rad">
+            rad
+        </text>
+        <text font-size="15" x="348.03375" y="75.07588" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_Wolfgang">
+            Wolfgang
+        </text>
+        <text font-size="15" x="303.56378" y="176.63388" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_fotografija">
+            fotografija
+        </text>
+    </g>
+</svg>

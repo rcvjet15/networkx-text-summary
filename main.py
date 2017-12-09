@@ -75,7 +75,7 @@ for article in articles:
     print("Pagerank centrality: {}".format(pagerank_nodes[0:5]))
     
     ###
-    # File system
+    # Setting directories where plots and images for each article will be exported
     ###
     # Takes article name and replaces specases with underscores '_'
     concat_article_name = "_".join(article["name"].split())
@@ -94,7 +94,9 @@ for article in articles:
     gv = GraphVisualisation(graph = g, save_dir_path = export_directories_path)    
     # Visualize degree centrality
     gv.visualize_graph_centrality(centrality_nodes = degree_centrality_nodes, title = 'Degree Centrality')
+    # Visualize betweenness centrality
     gv.visualize_graph_centrality(centrality_nodes = betweenness_centrality_nodes, title = 'Betweenness Centrality')
+    # Visualize pagerank
     gv.visualize_graph_centrality(centrality_nodes = pagerank_nodes, title = 'Pagerank')  
     
     ###
