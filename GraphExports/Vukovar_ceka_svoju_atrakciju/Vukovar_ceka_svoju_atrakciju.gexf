@@ -2,1205 +2,1205 @@
 <gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
   <graph defaultedgetype="directed" mode="static">
     <nodes>
-      <node id="park" label="park" />
-      <node id="Dunav" label="Dunav" />
-      <node id="publika" label="publika" />
-      <node id="muzealac" label="muzealac" />
-      <node id="godina" label="godina" />
-      <node id="popis" label="popis" />
-      <node id="uklopljenost" label="uklopljenost" />
-      <node id="pogon" label="pogon" />
-      <node id="vrsta" label="vrsta" />
-      <node id="priča" label="priča" />
-      <node id="projekat" label="projekat" />
-      <node id="nalazište" label="nalazište" />
-      <node id="pitanje" label="pitanje" />
-      <node id="keramika" label="keramika" />
-      <node id="projektiranje" label="projektiranje" />
-      <node id="Durman" label="Durman" />
-      <node id="nagrada" label="nagrada" />
-      <node id="predmet" label="predmet" />
-      <node id="osjećaj" label="osjećaj" />
-      <node id="kolica" label="kolica" />
-      <node id="serpentina" label="serpentina" />
-      <node id="fond" label="fond" />
-      <node id="ministarstvo" label="ministarstvo" />
-      <node id="izletište" label="izletište" />
-      <node id="nagib" label="nagib" />
-      <node id="pohvala" label="pohvala" />
-      <node id="čovjek" label="čovjek" />
-      <node id="teren" label="teren" />
-      <node id="obloga" label="obloga" />
-      <node id="materijal" label="materijal" />
-      <node id="natječaj" label="natječaj" />
-      <node id="rata" label="rata" />
-      <node id="resurs" label="resurs" />
-      <node id="fotografija" label="fotografija" />
-      <node id="strana" label="strana" />
-      <node id="lokacija" label="lokacija" />
-      <node id="cost" label="cost" />
-      <node id="Krist" label="Krist" />
-      <node id="sadržaj" label="sadržaj" />
-      <node id="posjetitelj" label="posjetitelj" />
-      <node id="struka" label="struka" />
-      <node id="etapa" label="etapa" />
-      <node id="ponuda" label="ponuda" />
-      <node id="Mario" label="Mario" />
-      <node id="arhitektura" label="arhitektura" />
-      <node id="mogućnost" label="mogućnost" />
-      <node id="kontejner" label="kontejner" />
-      <node id="zamisao" label="zamisao" />
-      <node id="slovo" label="slovo" />
-      <node id="golubica" label="golubica" />
-      <node id="izvedba" label="izvedba" />
-      <node id="papir" label="papir" />
-      <node id="kilometar" label="kilometar" />
-      <node id="kultura" label="kultura" />
-      <node id="Rako" label="Rako" />
-      <node id="Vukovar" label="Vukovar" />
-      <node id="muzej" label="muzej" />
-      <node id="oblik" label="oblik" />
-      <node id="osobina" label="osobina" />
-      <node id="zid" label="zid" />
-      <node id="forma" label="forma" />
-      <node id="biro" label="biro" />
-      <node id="izložak" label="izložak" />
-      <node id="postav" label="postav" />
-      <node id="uspjeh" label="uspjeh" />
-      <node id="razminiravanje" label="razminiravanje" />
-      <node id="interijer" label="interijer" />
-      <node id="prostor" label="prostor" />
-      <node id="Naron" label="Naron" />
-      <node id="ploha" label="ploha" />
-      <node id="dolina" label="dolina" />
-      <node id="uređenje" label="uređenje" />
-      <node id="istraživanje" label="istraživanje" />
-      <node id="Goran" label="Goran" />
-      <node id="obrada" label="obrada" />
-      <node id="projekt" label="projekt" />
-      <node id="zemlja" label="zemlja" />
-      <node id="okoliš" label="okoliš" />
-      <node id="središte" label="središte" />
-      <node id="desetka" label="desetka" />
-      <node id="ostatak" label="ostatak" />
-      <node id="interes" label="interes" />
-      <node id="bazen" label="bazen" />
-      <node id="šetnja" label="šetnja" />
-      <node id="obala" label="obala" />
-      <node id="restoran" label="restoran" />
-      <node id="rijeka" label="rijeka" />
-      <node id="uklapanje" label="uklapanje" />
-      <node id="izrada" label="izrada" />
-      <node id="arheolog" label="arheolog" />
-      <node id="vrh" label="vrh" />
-      <node id="odabir" label="odabir" />
-      <node id="opeka" label="opeka" />
-      <node id="barka" label="barka" />
-      <node id="rješenje" label="rješenje" />
-      <node id="lov" label="lov" />
-      <node id="razvoj" label="razvoj" />
-      <node id="priroda" label="priroda" />
-      <node id="narudžba" label="narudžba" />
-      <node id="odgovor" label="odgovor" />
-      <node id="milijun" label="milijun" />
-      <node id="troškovnik" label="troškovnik" />
-      <node id="trošak" label="trošak" />
       <node id="Boris" label="Boris" />
-      <node id="Vučedol" label="Vučedol" />
-      <node id="analiza" label="analiza" />
-      <node id="Iva" label="Iva" />
-      <node id="mjesto" label="mjesto" />
-      <node id="ideja" label="ideja" />
-      <node id="korištenje" label="korištenje" />
-      <node id="sredstvo" label="sredstvo" />
-      <node id="podsjetnik" label="podsjetnik" />
-      <node id="autor" label="autor" />
+      <node id="cost" label="cost" />
+      <node id="odgovor" label="odgovor" />
       <node id="terasa" label="terasa" />
-      <node id="tehnologija" label="tehnologija" />
-      <node id="tim" label="tim" />
+      <node id="golubica" label="golubica" />
       <node id="upravljanje" label="upravljanje" />
-      <node id="vid" label="vid" />
-      <node id="kolekcija" label="kolekcija" />
-      <node id="potreba" label="potreba" />
-      <node id="radionica" label="radionica" />
+      <node id="popis" label="popis" />
+      <node id="izložak" label="izložak" />
       <node id="kretanje" label="kretanje" />
-      <node id="padina" label="padina" />
-      <node id="Josip" label="Josip" />
-      <node id="EU" label="EU" />
-      <node id="okruženje" label="okruženje" />
-      <node id="zadatak" label="zadatak" />
-      <node id="arhitekt" label="arhitekt" />
-      <node id="pročelje" label="pročelje" />
-      <node id="krov" label="krov" />
-      <node id="Sabolić" label="Sabolić" />
-      <node id="brijeg" label="brijeg" />
-      <node id="vrijeme" label="vrijeme" />
-      <node id="ishodište" label="ishodište" />
-      <node id="provedba" label="provedba" />
-      <node id="Pejić" label="Pejić" />
-      <node id="strategija" label="strategija" />
-      <node id="Aleksandar" label="Aleksandar" />
-      <node id="tisuća" label="tisuća" />
-      <node id="obzir" label="obzir" />
-      <node id="zajednica" label="zajednica" />
-      <node id="šetnica" label="šetnica" />
-      <node id="učinkovitost" label="učinkovitost" />
-      <node id="lokalitet" label="lokalitet" />
-      <node id="kuna" label="kuna" />
-      <node id="zgrada" label="zgrada" />
-      <node id="račun" label="račun" />
-      <node id="standard" label="standard" />
-      <node id="ovaj" label="ovaj" />
-      <node id="projektant" label="projektant" />
-      <node id="stočarstvo" label="stočarstvo" />
       <node id="stanovnik" label="stanovnik" />
+      <node id="račun" label="račun" />
+      <node id="odabir" label="odabir" />
+      <node id="lokacija" label="lokacija" />
+      <node id="Rako" label="Rako" />
+      <node id="lokalitet" label="lokalitet" />
+      <node id="obala" label="obala" />
+      <node id="kilometar" label="kilometar" />
+      <node id="Pejić" label="Pejić" />
+      <node id="resurs" label="resurs" />
+      <node id="okoliš" label="okoliš" />
+      <node id="troškovnik" label="troškovnik" />
+      <node id="slovo" label="slovo" />
+      <node id="milijun" label="milijun" />
+      <node id="godina" label="godina" />
+      <node id="rata" label="rata" />
+      <node id="tehnologija" label="tehnologija" />
+      <node id="kultura" label="kultura" />
+      <node id="Vukovar" label="Vukovar" />
+      <node id="mogućnost" label="mogućnost" />
+      <node id="istraživanje" label="istraživanje" />
+      <node id="autor" label="autor" />
+      <node id="nalazište" label="nalazište" />
+      <node id="ovaj" label="ovaj" />
+      <node id="podsjetnik" label="podsjetnik" />
+      <node id="zajednica" label="zajednica" />
+      <node id="ideja" label="ideja" />
+      <node id="pogon" label="pogon" />
+      <node id="rješenje" label="rješenje" />
+      <node id="etapa" label="etapa" />
+      <node id="arhitektura" label="arhitektura" />
+      <node id="serpentina" label="serpentina" />
+      <node id="ishodište" label="ishodište" />
+      <node id="posjetitelj" label="posjetitelj" />
+      <node id="rijeka" label="rijeka" />
+      <node id="publika" label="publika" />
+      <node id="kolekcija" label="kolekcija" />
+      <node id="predmet" label="predmet" />
+      <node id="oblik" label="oblik" />
+      <node id="lov" label="lov" />
+      <node id="Durman" label="Durman" />
+      <node id="tisuća" label="tisuća" />
+      <node id="teren" label="teren" />
+      <node id="interes" label="interes" />
+      <node id="Mario" label="Mario" />
+      <node id="zemlja" label="zemlja" />
+      <node id="trošak" label="trošak" />
+      <node id="interijer" label="interijer" />
+      <node id="narudžba" label="narudžba" />
+      <node id="padina" label="padina" />
+      <node id="standard" label="standard" />
+      <node id="dolina" label="dolina" />
+      <node id="središte" label="središte" />
+      <node id="provedba" label="provedba" />
+      <node id="sredstvo" label="sredstvo" />
+      <node id="vid" label="vid" />
+      <node id="zadatak" label="zadatak" />
+      <node id="zgrada" label="zgrada" />
+      <node id="projektant" label="projektant" />
+      <node id="prostor" label="prostor" />
+      <node id="obrada" label="obrada" />
+      <node id="stočarstvo" label="stočarstvo" />
+      <node id="Aleksandar" label="Aleksandar" />
+      <node id="papir" label="papir" />
+      <node id="postav" label="postav" />
+      <node id="priča" label="priča" />
+      <node id="pročelje" label="pročelje" />
+      <node id="ponuda" label="ponuda" />
+      <node id="bazen" label="bazen" />
+      <node id="projektiranje" label="projektiranje" />
+      <node id="Sabolić" label="Sabolić" />
+      <node id="fotografija" label="fotografija" />
+      <node id="priroda" label="priroda" />
+      <node id="Vučedol" label="Vučedol" />
       <node id="realizacija" label="realizacija" />
+      <node id="projekt" label="projekt" />
+      <node id="EU" label="EU" />
+      <node id="osobina" label="osobina" />
+      <node id="obzir" label="obzir" />
+      <node id="zamisao" label="zamisao" />
+      <node id="forma" label="forma" />
+      <node id="analiza" label="analiza" />
+      <node id="projekat" label="projekat" />
+      <node id="brijeg" label="brijeg" />
+      <node id="čovjek" label="čovjek" />
+      <node id="muzej" label="muzej" />
+      <node id="sadržaj" label="sadržaj" />
+      <node id="Naron" label="Naron" />
+      <node id="uspjeh" label="uspjeh" />
+      <node id="arhitekt" label="arhitekt" />
+      <node id="kontejner" label="kontejner" />
+      <node id="natječaj" label="natječaj" />
+      <node id="nagrada" label="nagrada" />
+      <node id="uklapanje" label="uklapanje" />
+      <node id="krov" label="krov" />
+      <node id="pohvala" label="pohvala" />
+      <node id="ostatak" label="ostatak" />
+      <node id="strategija" label="strategija" />
+      <node id="korištenje" label="korištenje" />
+      <node id="uređenje" label="uređenje" />
+      <node id="radionica" label="radionica" />
+      <node id="Dunav" label="Dunav" />
+      <node id="Krist" label="Krist" />
+      <node id="vrijeme" label="vrijeme" />
+      <node id="arheolog" label="arheolog" />
+      <node id="opeka" label="opeka" />
+      <node id="okruženje" label="okruženje" />
+      <node id="tim" label="tim" />
+      <node id="kuna" label="kuna" />
+      <node id="pitanje" label="pitanje" />
+      <node id="izvedba" label="izvedba" />
+      <node id="Josip" label="Josip" />
+      <node id="park" label="park" />
+      <node id="osjećaj" label="osjećaj" />
+      <node id="Iva" label="Iva" />
+      <node id="ploha" label="ploha" />
+      <node id="nagib" label="nagib" />
+      <node id="vrh" label="vrh" />
+      <node id="barka" label="barka" />
+      <node id="keramika" label="keramika" />
+      <node id="razminiravanje" label="razminiravanje" />
+      <node id="biro" label="biro" />
+      <node id="zid" label="zid" />
+      <node id="fond" label="fond" />
+      <node id="potreba" label="potreba" />
+      <node id="vrsta" label="vrsta" />
+      <node id="mjesto" label="mjesto" />
+      <node id="ministarstvo" label="ministarstvo" />
+      <node id="učinkovitost" label="učinkovitost" />
+      <node id="uklopljenost" label="uklopljenost" />
+      <node id="šetnica" label="šetnica" />
+      <node id="desetka" label="desetka" />
+      <node id="struka" label="struka" />
+      <node id="razvoj" label="razvoj" />
+      <node id="šetnja" label="šetnja" />
+      <node id="izletište" label="izletište" />
+      <node id="izrada" label="izrada" />
+      <node id="materijal" label="materijal" />
+      <node id="strana" label="strana" />
+      <node id="obloga" label="obloga" />
+      <node id="muzealac" label="muzealac" />
+      <node id="restoran" label="restoran" />
+      <node id="kolica" label="kolica" />
+      <node id="Goran" label="Goran" />
     </nodes>
     <edges>
-      <edge id="0" source="park" target="popis" weight="1.0" />
-      <edge id="1" source="park" target="projekat" weight="1.0" />
-      <edge id="2" source="park" target="fond" weight="2.0" />
-      <edge id="3" source="park" target="mjesto" weight="1.0" />
-      <edge id="4" source="park" target="sredstvo" weight="1.0" />
-      <edge id="5" source="park" target="godina" weight="1.0" />
-      <edge id="6" source="park" target="muzej" weight="1.0" />
-      <edge id="7" source="park" target="projekt" weight="1.0" />
-      <edge id="8" source="park" target="ministarstvo" weight="1.0" />
-      <edge id="9" source="park" target="EU" weight="1.0" />
-      <edge id="10" source="park" target="lokacija" weight="1.0" />
-      <edge id="11" source="Dunav" target="vrh" weight="1.0" />
-      <edge id="12" source="Dunav" target="Vučedol" weight="1.0" />
-      <edge id="13" source="publika" target="sadržaj" weight="1.0" />
-      <edge id="14" source="publika" target="ovaj" weight="1.0" />
-      <edge id="15" source="publika" target="ponuda" weight="1.0" />
-      <edge id="16" source="publika" target="pitanje" weight="1.0" />
-      <edge id="17" source="publika" target="okruženje" weight="1.0" />
-      <edge id="18" source="muzealac" target="arheolog" weight="1.0" />
-      <edge id="19" source="godina" target="Krist" weight="1.0" />
-      <edge id="20" source="godina" target="tim" weight="1.0" />
-      <edge id="21" source="godina" target="park" weight="2.0" />
-      <edge id="22" source="godina" target="ministarstvo" weight="1.0" />
-      <edge id="23" source="godina" target="EU" weight="1.0" />
-      <edge id="24" source="godina" target="okruženje" weight="1.0" />
-      <edge id="25" source="godina" target="zadatak" weight="1.0" />
-      <edge id="26" source="godina" target="nalazište" weight="1.0" />
-      <edge id="27" source="godina" target="stočarstvo" weight="1.0" />
-      <edge id="28" source="godina" target="keramika" weight="1.0" />
-      <edge id="29" source="godina" target="predmet" weight="1.0" />
-      <edge id="30" source="godina" target="muzej" weight="3.0" />
-      <edge id="31" source="godina" target="stanovnik" weight="1.0" />
-      <edge id="32" source="godina" target="lov" weight="1.0" />
-      <edge id="33" source="godina" target="razminiravanje" weight="1.0" />
-      <edge id="34" source="godina" target="fond" weight="2.0" />
-      <edge id="35" source="godina" target="izrada" weight="1.0" />
-      <edge id="36" source="godina" target="izletište" weight="1.0" />
-      <edge id="37" source="godina" target="Vučedol" weight="1.0" />
-      <edge id="38" source="godina" target="mjesto" weight="1.0" />
-      <edge id="39" source="godina" target="uređenje" weight="1.0" />
-      <edge id="40" source="godina" target="ideja" weight="1.0" />
-      <edge id="41" source="godina" target="papir" weight="1.0" />
-      <edge id="42" source="godina" target="arhitektura" weight="1.0" />
-      <edge id="43" source="godina" target="projekt" weight="1.0" />
-      <edge id="44" source="godina" target="strana" weight="1.0" />
-      <edge id="45" source="godina" target="lokacija" weight="1.0" />
-      <edge id="46" source="godina" target="sredstvo" weight="1.0" />
-      <edge id="47" source="popis" target="projekat" weight="1.0" />
-      <edge id="48" source="popis" target="fond" weight="1.0" />
-      <edge id="49" source="popis" target="sredstvo" weight="1.0" />
-      <edge id="50" source="popis" target="godina" weight="1.0" />
-      <edge id="51" source="pogon" target="tisuća" weight="1.0" />
-      <edge id="52" source="pogon" target="posjetitelj" weight="1.0" />
-      <edge id="53" source="pogon" target="desetka" weight="1.0" />
-      <edge id="54" source="pogon" target="park" weight="1.0" />
-      <edge id="55" source="pogon" target="godina" weight="1.0" />
-      <edge id="56" source="pogon" target="kuna" weight="1.0" />
-      <edge id="57" source="pogon" target="Vučedol" weight="1.0" />
-      <edge id="58" source="pogon" target="mjesto" weight="1.0" />
-      <edge id="59" source="pogon" target="uređenje" weight="1.0" />
-      <edge id="60" source="pogon" target="istraživanje" weight="1.0" />
-      <edge id="61" source="pogon" target="ideja" weight="1.0" />
-      <edge id="62" source="pogon" target="muzej" weight="1.0" />
-      <edge id="63" source="vrsta" target="kontejner" weight="1.0" />
-      <edge id="64" source="vrsta" target="izložak" weight="1.0" />
-      <edge id="65" source="vrsta" target="osobina" weight="1.0" />
-      <edge id="66" source="priča" target="golubica" weight="1.0" />
-      <edge id="67" source="priča" target="predmet" weight="1.0" />
-      <edge id="68" source="priča" target="kolekcija" weight="1.0" />
-      <edge id="69" source="projekat" target="fond" weight="1.0" />
-      <edge id="70" source="projekat" target="sredstvo" weight="1.0" />
-      <edge id="71" source="projekat" target="godina" weight="1.0" />
-      <edge id="72" source="nalazište" target="Krist" weight="1.0" />
-      <edge id="73" source="nalazište" target="lov" weight="1.0" />
-      <edge id="74" source="nalazište" target="godina" weight="1.0" />
-      <edge id="75" source="nalazište" target="arhitektura" weight="1.0" />
-      <edge id="76" source="nalazište" target="Vučedol" weight="1.0" />
-      <edge id="77" source="nalazište" target="okruženje" weight="1.0" />
-      <edge id="78" source="nalazište" target="izrada" weight="1.0" />
-      <edge id="79" source="nalazište" target="stočarstvo" weight="1.0" />
-      <edge id="80" source="nalazište" target="keramika" weight="1.0" />
-      <edge id="81" source="nalazište" target="kultura" weight="1.0" />
-      <edge id="82" source="nalazište" target="stanovnik" weight="1.0" />
-      <edge id="83" source="nalazište" target="predmet" weight="1.0" />
-      <edge id="84" source="nalazište" target="muzej" weight="1.0" />
-      <edge id="85" source="nalazište" target="izletište" weight="1.0" />
-      <edge id="86" source="nalazište" target="lokacija" weight="1.0" />
-      <edge id="87" source="pitanje" target="strategija" weight="1.0" />
-      <edge id="88" source="pitanje" target="ostatak" weight="1.0" />
-      <edge id="89" source="pitanje" target="mogućnost" weight="1.0" />
-      <edge id="90" source="pitanje" target="odgovor" weight="1.0" />
-      <edge id="91" source="pitanje" target="obzir" weight="1.0" />
-      <edge id="92" source="pitanje" target="analiza" weight="1.0" />
-      <edge id="93" source="pitanje" target="zgrada" weight="1.0" />
-      <edge id="94" source="pitanje" target="upravljanje" weight="1.0" />
-      <edge id="95" source="pitanje" target="cost" weight="1.0" />
-      <edge id="96" source="pitanje" target="resurs" weight="1.0" />
-      <edge id="97" source="pitanje" target="projekt" weight="2.0" />
-      <edge id="98" source="pitanje" target="muzej" weight="2.0" />
-      <edge id="99" source="pitanje" target="razvoj" weight="1.0" />
-      <edge id="100" source="keramika" target="predmet" weight="1.0" />
-      <edge id="101" source="keramika" target="izletište" weight="1.0" />
-      <edge id="102" source="projektiranje" target="račun" weight="1.0" />
-      <edge id="103" source="projektiranje" target="golubica" weight="1.0" />
-      <edge id="104" source="projektiranje" target="postav" weight="1.0" />
-      <edge id="105" source="projektiranje" target="kolekcija" weight="1.0" />
-      <edge id="106" source="projektiranje" target="predmet" weight="1.0" />
-      <edge id="107" source="projektiranje" target="muzej" weight="1.0" />
-      <edge id="108" source="projektiranje" target="priča" weight="1.0" />
-      <edge id="109" source="Durman" target="godina" weight="1.0" />
-      <edge id="110" source="nagrada" target="pohvala" weight="1.0" />
-      <edge id="111" source="nagrada" target="struka" weight="1.0" />
-      <edge id="112" source="nagrada" target="muzealac" weight="1.0" />
-      <edge id="113" source="nagrada" target="arheolog" weight="1.0" />
-      <edge id="114" source="predmet" target="golubica" weight="1.0" />
-      <edge id="115" source="predmet" target="izletište" weight="1.0" />
-      <edge id="116" source="osjećaj" target="kretanje" weight="1.0" />
-      <edge id="117" source="osjećaj" target="padina" weight="1.0" />
-      <edge id="118" source="osjećaj" target="uklopljenost" weight="1.0" />
-      <edge id="119" source="kolica" target="prostor" weight="1.0" />
-      <edge id="120" source="kolica" target="posjetitelj" weight="1.0" />
-      <edge id="121" source="kolica" target="Vučedol" weight="1.0" />
-      <edge id="122" source="kolica" target="postav" weight="1.0" />
-      <edge id="123" source="kolica" target="ishodište" weight="1.0" />
-      <edge id="124" source="kolica" target="kultura" weight="1.0" />
-      <edge id="125" source="kolica" target="lokacija" weight="1.0" />
-      <edge id="126" source="serpentina" target="nagib" weight="1.0" />
-      <edge id="127" source="serpentina" target="standard" weight="1.0" />
-      <edge id="128" source="serpentina" target="posjetitelj" weight="1.0" />
-      <edge id="129" source="serpentina" target="čovjek" weight="1.0" />
-      <edge id="130" source="serpentina" target="postav" weight="1.0" />
-      <edge id="131" source="serpentina" target="ishodište" weight="1.0" />
-      <edge id="132" source="serpentina" target="prostor" weight="1.0" />
-      <edge id="133" source="serpentina" target="kolica" weight="1.0" />
-      <edge id="134" source="serpentina" target="kultura" weight="1.0" />
-      <edge id="135" source="serpentina" target="Vučedol" weight="1.0" />
-      <edge id="136" source="serpentina" target="lokacija" weight="1.0" />
-      <edge id="137" source="fond" target="ministarstvo" weight="1.0" />
-      <edge id="138" source="ministarstvo" target="rješenje" weight="1.0" />
-      <edge id="139" source="ministarstvo" target="muzej" weight="1.0" />
-      <edge id="140" source="ministarstvo" target="narudžba" weight="1.0" />
-      <edge id="141" source="ministarstvo" target="kultura" weight="2.0" />
-      <edge id="142" source="izletište" target="vrijeme" weight="1.0" />
-      <edge id="143" source="izletište" target="podsjetnik" weight="1.0" />
-      <edge id="144" source="nagib" target="prostor" weight="1.0" />
-      <edge id="145" source="nagib" target="standard" weight="1.0" />
-      <edge id="146" source="nagib" target="posjetitelj" weight="1.0" />
-      <edge id="147" source="nagib" target="čovjek" weight="1.0" />
-      <edge id="148" source="nagib" target="postav" weight="1.0" />
-      <edge id="149" source="nagib" target="ishodište" weight="1.0" />
-      <edge id="150" source="nagib" target="kolica" weight="1.0" />
-      <edge id="151" source="nagib" target="kultura" weight="1.0" />
-      <edge id="152" source="nagib" target="Vučedol" weight="1.0" />
-      <edge id="153" source="nagib" target="lokacija" weight="1.0" />
-      <edge id="154" source="pohvala" target="muzealac" weight="1.0" />
-      <edge id="155" source="pohvala" target="arheolog" weight="1.0" />
-      <edge id="156" source="čovjek" target="prostor" weight="1.0" />
-      <edge id="157" source="čovjek" target="kolica" weight="1.0" />
-      <edge id="158" source="čovjek" target="posjetitelj" weight="1.0" />
-      <edge id="159" source="čovjek" target="Vučedol" weight="1.0" />
-      <edge id="160" source="čovjek" target="postav" weight="1.0" />
-      <edge id="161" source="čovjek" target="ishodište" weight="1.0" />
-      <edge id="162" source="čovjek" target="kultura" weight="1.0" />
-      <edge id="163" source="čovjek" target="lokacija" weight="1.0" />
-      <edge id="164" source="teren" target="forma" weight="1.0" />
-      <edge id="165" source="teren" target="opeka" weight="1.0" />
-      <edge id="166" source="teren" target="zemlja" weight="1.0" />
-      <edge id="167" source="teren" target="materijal" weight="2.0" />
-      <edge id="168" source="teren" target="odabir" weight="1.0" />
-      <edge id="169" source="teren" target="radionica" weight="1.0" />
-      <edge id="170" source="teren" target="lokalitet" weight="1.0" />
-      <edge id="171" source="teren" target="obloga" weight="1.0" />
-      <edge id="172" source="teren" target="projektant" weight="1.0" />
-      <edge id="173" source="obloga" target="opeka" weight="1.0" />
-      <edge id="174" source="obloga" target="zemlja" weight="1.0" />
-      <edge id="175" source="obloga" target="materijal" weight="1.0" />
-      <edge id="176" source="obloga" target="radionica" weight="1.0" />
-      <edge id="177" source="obloga" target="lokalitet" weight="1.0" />
-      <edge id="178" source="obloga" target="projektant" weight="1.0" />
-      <edge id="179" source="materijal" target="opeka" weight="1.0" />
-      <edge id="180" source="materijal" target="zemlja" weight="2.0" />
-      <edge id="181" source="materijal" target="radionica" weight="2.0" />
-      <edge id="182" source="materijal" target="lokalitet" weight="2.0" />
-      <edge id="183" source="materijal" target="obloga" weight="1.0" />
-      <edge id="184" source="materijal" target="projektant" weight="2.0" />
-      <edge id="185" source="natječaj" target="arheolog" weight="1.0" />
-      <edge id="186" source="natječaj" target="struka" weight="1.0" />
-      <edge id="187" source="natječaj" target="Naron" weight="1.0" />
-      <edge id="188" source="natječaj" target="muzealac" weight="1.0" />
-      <edge id="189" source="natječaj" target="nagrada" weight="1.0" />
-      <edge id="190" source="natječaj" target="uspjeh" weight="1.0" />
-      <edge id="191" source="natječaj" target="arhitektura" weight="1.0" />
-      <edge id="192" source="natječaj" target="radionica" weight="1.0" />
-      <edge id="193" source="natječaj" target="muzej" weight="1.0" />
-      <edge id="194" source="natječaj" target="pohvala" weight="1.0" />
-      <edge id="195" source="natječaj" target="vid" weight="1.0" />
-      <edge id="196" source="rata" target="razminiravanje" weight="1.0" />
-      <edge id="197" source="rata" target="godina" weight="1.0" />
-      <edge id="198" source="resurs" target="tehnologija" weight="1.0" />
-      <edge id="199" source="resurs" target="posjetitelj" weight="2.0" />
-      <edge id="200" source="resurs" target="mogućnost" weight="1.0" />
-      <edge id="201" source="resurs" target="park" weight="2.0" />
-      <edge id="202" source="resurs" target="godina" weight="2.0" />
-      <edge id="203" source="resurs" target="tisuća" weight="2.0" />
-      <edge id="204" source="resurs" target="pogon" weight="2.0" />
-      <edge id="205" source="resurs" target="slovo" weight="2.0" />
-      <edge id="206" source="resurs" target="kuna" weight="2.0" />
-      <edge id="207" source="resurs" target="trošak" weight="2.0" />
-      <edge id="208" source="resurs" target="Vučedol" weight="2.0" />
-      <edge id="209" source="resurs" target="mjesto" weight="2.0" />
-      <edge id="210" source="resurs" target="uređenje" weight="2.0" />
-      <edge id="211" source="resurs" target="istraživanje" weight="2.0" />
-      <edge id="212" source="resurs" target="desetka" weight="2.0" />
-      <edge id="213" source="resurs" target="ideja" weight="2.0" />
-      <edge id="214" source="resurs" target="projekt" weight="2.0" />
-      <edge id="215" source="resurs" target="muzej" weight="4.0" />
-      <edge id="216" source="fotografija" target="Boris" weight="1.0" />
-      <edge id="217" source="strana" target="kretanje" weight="1.0" />
-      <edge id="218" source="strana" target="padina" weight="1.0" />
-      <edge id="219" source="strana" target="Vučedol" weight="1.0" />
-      <edge id="220" source="strana" target="okruženje" weight="1.0" />
-      <edge id="221" source="strana" target="uklopljenost" weight="1.0" />
-      <edge id="222" source="strana" target="nalazište" weight="1.0" />
-      <edge id="223" source="strana" target="pročelje" weight="1.0" />
-      <edge id="224" source="strana" target="brijeg" weight="1.0" />
-      <edge id="225" source="strana" target="ploha" weight="1.0" />
-      <edge id="226" source="strana" target="arhitektura" weight="1.0" />
-      <edge id="227" source="strana" target="priroda" weight="1.0" />
-      <edge id="228" source="strana" target="muzej" weight="2.0" />
-      <edge id="229" source="strana" target="lokacija" weight="1.0" />
-      <edge id="230" source="strana" target="osjećaj" weight="1.0" />
-      <edge id="231" source="lokacija" target="popis" weight="1.0" />
-      <edge id="232" source="lokacija" target="godina" weight="2.0" />
-      <edge id="233" source="lokacija" target="nalazište" weight="1.0" />
-      <edge id="234" source="lokacija" target="fond" weight="1.0" />
-      <edge id="235" source="lokacija" target="projekat" weight="1.0" />
-      <edge id="236" source="lokacija" target="okruženje" weight="2.0" />
-      <edge id="237" source="lokacija" target="zadatak" weight="1.0" />
-      <edge id="238" source="lokacija" target="Vučedol" weight="3.0" />
-      <edge id="239" source="lokacija" target="papir" weight="1.0" />
-      <edge id="240" source="lokacija" target="sredstvo" weight="1.0" />
-      <edge id="241" source="lokacija" target="ishodište" weight="1.0" />
-      <edge id="242" source="lokacija" target="Goran" weight="1.0" />
-      <edge id="243" source="lokacija" target="Rako" weight="1.0" />
-      <edge id="244" source="lokacija" target="arhitektura" weight="2.0" />
-      <edge id="245" source="lokacija" target="projekt" weight="1.0" />
-      <edge id="246" source="lokacija" target="muzej" weight="3.0" />
-      <edge id="247" source="lokacija" target="strana" weight="1.0" />
-      <edge id="248" source="cost" target="strategija" weight="1.0" />
-      <edge id="249" source="cost" target="analiza" weight="1.0" />
-      <edge id="250" source="cost" target="mogućnost" weight="1.0" />
-      <edge id="251" source="cost" target="resurs" weight="1.0" />
-      <edge id="252" source="cost" target="upravljanje" weight="1.0" />
-      <edge id="253" source="cost" target="razvoj" weight="1.0" />
-      <edge id="254" source="Krist" target="lov" weight="1.0" />
-      <edge id="255" source="Krist" target="izrada" weight="1.0" />
-      <edge id="256" source="Krist" target="stočarstvo" weight="1.0" />
-      <edge id="257" source="Krist" target="keramika" weight="1.0" />
-      <edge id="258" source="Krist" target="stanovnik" weight="1.0" />
-      <edge id="259" source="Krist" target="predmet" weight="1.0" />
-      <edge id="260" source="Krist" target="izletište" weight="1.0" />
-      <edge id="261" source="sadržaj" target="ovaj" weight="1.0" />
-      <edge id="262" source="sadržaj" target="pitanje" weight="1.0" />
-      <edge id="263" source="sadržaj" target="okruženje" weight="1.0" />
-      <edge id="264" source="posjetitelj" target="desetka" weight="1.0" />
-      <edge id="265" source="posjetitelj" target="godina" weight="1.0" />
-      <edge id="266" source="posjetitelj" target="tisuća" weight="1.0" />
-      <edge id="267" source="posjetitelj" target="okruženje" weight="2.0" />
-      <edge id="268" source="posjetitelj" target="ovaj" weight="2.0" />
-      <edge id="269" source="posjetitelj" target="pitanje" weight="2.0" />
-      <edge id="270" source="posjetitelj" target="ishodište" weight="1.0" />
-      <edge id="271" source="posjetitelj" target="kultura" weight="2.0" />
-      <edge id="272" source="posjetitelj" target="publika" weight="2.0" />
-      <edge id="273" source="posjetitelj" target="Vučedol" weight="3.0" />
-      <edge id="274" source="posjetitelj" target="muzej" weight="4.0" />
-      <edge id="275" source="posjetitelj" target="sadržaj" weight="2.0" />
-      <edge id="276" source="posjetitelj" target="potreba" weight="2.0" />
-      <edge id="277" source="posjetitelj" target="zajednica" weight="2.0" />
-      <edge id="278" source="posjetitelj" target="postav" weight="1.0" />
-      <edge id="279" source="posjetitelj" target="park" weight="1.0" />
-      <edge id="280" source="posjetitelj" target="interes" weight="2.0" />
-      <edge id="281" source="posjetitelj" target="kuna" weight="1.0" />
-      <edge id="282" source="posjetitelj" target="ponuda" weight="2.0" />
-      <edge id="283" source="posjetitelj" target="mjesto" weight="1.0" />
-      <edge id="284" source="posjetitelj" target="uređenje" weight="1.0" />
-      <edge id="285" source="posjetitelj" target="istraživanje" weight="1.0" />
-      <edge id="286" source="posjetitelj" target="ideja" weight="1.0" />
-      <edge id="287" source="posjetitelj" target="lokacija" weight="1.0" />
-      <edge id="288" source="struka" target="pohvala" weight="1.0" />
-      <edge id="289" source="struka" target="muzealac" weight="1.0" />
-      <edge id="290" source="struka" target="arheolog" weight="1.0" />
-      <edge id="291" source="etapa" target="fond" weight="1.0" />
-      <edge id="292" source="etapa" target="tim" weight="1.0" />
-      <edge id="293" source="etapa" target="izvedba" weight="1.0" />
-      <edge id="294" source="etapa" target="postav" weight="1.0" />
-      <edge id="295" source="etapa" target="park" weight="1.0" />
-      <edge id="296" source="etapa" target="godina" weight="1.0" />
-      <edge id="297" source="etapa" target="projekt" weight="1.0" />
-      <edge id="298" source="etapa" target="ministarstvo" weight="1.0" />
-      <edge id="299" source="etapa" target="EU" weight="1.0" />
-      <edge id="300" source="ponuda" target="sadržaj" weight="1.0" />
-      <edge id="301" source="ponuda" target="ovaj" weight="1.0" />
-      <edge id="302" source="ponuda" target="pitanje" weight="1.0" />
-      <edge id="303" source="ponuda" target="okruženje" weight="1.0" />
-      <edge id="304" source="arhitektura" target="rješenje" weight="1.0" />
-      <edge id="305" source="arhitektura" target="Josip" weight="1.0" />
-      <edge id="306" source="arhitektura" target="muzealac" weight="1.0" />
-      <edge id="307" source="arhitektura" target="narudžba" weight="1.0" />
-      <edge id="308" source="arhitektura" target="kultura" weight="1.0" />
-      <edge id="309" source="arhitektura" target="ministarstvo" weight="1.0" />
-      <edge id="310" source="arhitektura" target="Goran" weight="1.0" />
-      <edge id="311" source="arhitektura" target="pohvala" weight="1.0" />
-      <edge id="312" source="arhitektura" target="struka" weight="1.0" />
-      <edge id="313" source="arhitektura" target="arheolog" weight="1.0" />
-      <edge id="314" source="arhitektura" target="Sabolić" weight="1.0" />
-      <edge id="315" source="arhitektura" target="Iva" weight="1.0" />
-      <edge id="316" source="arhitektura" target="nagrada" weight="1.0" />
-      <edge id="317" source="arhitektura" target="Rako" weight="1.0" />
-      <edge id="318" source="arhitektura" target="Mario" weight="1.0" />
-      <edge id="319" source="arhitektura" target="muzej" weight="1.0" />
-      <edge id="320" source="arhitektura" target="Pejić" weight="1.0" />
-      <edge id="321" source="kontejner" target="izložak" weight="1.0" />
-      <edge id="322" source="kontejner" target="osobina" weight="1.0" />
-      <edge id="323" source="zamisao" target="razminiravanje" weight="1.0" />
-      <edge id="324" source="zamisao" target="rata" weight="1.0" />
-      <edge id="325" source="zamisao" target="godina" weight="1.0" />
-      <edge id="326" source="slovo" target="tisuća" weight="1.0" />
-      <edge id="327" source="slovo" target="posjetitelj" weight="1.0" />
-      <edge id="328" source="slovo" target="desetka" weight="1.0" />
-      <edge id="329" source="slovo" target="park" weight="1.0" />
-      <edge id="330" source="slovo" target="godina" weight="1.0" />
-      <edge id="331" source="slovo" target="pogon" weight="1.0" />
-      <edge id="332" source="slovo" target="trošak" weight="1.0" />
-      <edge id="333" source="slovo" target="kuna" weight="1.0" />
-      <edge id="334" source="slovo" target="Vučedol" weight="1.0" />
-      <edge id="335" source="slovo" target="mjesto" weight="1.0" />
-      <edge id="336" source="slovo" target="uređenje" weight="1.0" />
-      <edge id="337" source="slovo" target="istraživanje" weight="1.0" />
-      <edge id="338" source="slovo" target="ideja" weight="1.0" />
-      <edge id="339" source="slovo" target="muzej" weight="1.0" />
-      <edge id="340" source="izvedba" target="tim" weight="1.0" />
-      <edge id="341" source="izvedba" target="fond" weight="1.0" />
-      <edge id="342" source="izvedba" target="postav" weight="1.0" />
-      <edge id="343" source="izvedba" target="godina" weight="1.0" />
-      <edge id="344" source="izvedba" target="park" weight="1.0" />
-      <edge id="345" source="izvedba" target="projekt" weight="1.0" />
-      <edge id="346" source="izvedba" target="ministarstvo" weight="1.0" />
-      <edge id="347" source="izvedba" target="EU" weight="1.0" />
-      <edge id="348" source="papir" target="zadatak" weight="1.0" />
-      <edge id="349" source="papir" target="nalazište" weight="1.0" />
-      <edge id="350" source="papir" target="okruženje" weight="1.0" />
-      <edge id="351" source="papir" target="arhitektura" weight="1.0" />
-      <edge id="352" source="papir" target="Vučedol" weight="1.0" />
-      <edge id="353" source="papir" target="muzej" weight="1.0" />
-      <edge id="354" source="papir" target="strana" weight="1.0" />
-      <edge id="355" source="papir" target="lokacija" weight="1.0" />
-      <edge id="356" source="kilometar" target="Dunav" weight="1.0" />
-      <edge id="357" source="kilometar" target="Vukovar" weight="1.0" />
-      <edge id="358" source="kilometar" target="središte" weight="1.0" />
-      <edge id="359" source="kilometar" target="obala" weight="1.0" />
-      <edge id="360" source="kultura" target="Krist" weight="1.0" />
-      <edge id="361" source="kultura" target="popis" weight="1.0" />
-      <edge id="362" source="kultura" target="park" weight="1.0" />
-      <edge id="363" source="kultura" target="projekat" weight="1.0" />
-      <edge id="364" source="kultura" target="izrada" weight="1.0" />
-      <edge id="365" source="kultura" target="stočarstvo" weight="1.0" />
-      <edge id="366" source="kultura" target="keramika" weight="1.0" />
-      <edge id="367" source="kultura" target="ishodište" weight="1.0" />
-      <edge id="368" source="kultura" target="predmet" weight="1.0" />
-      <edge id="369" source="kultura" target="muzej" weight="1.0" />
-      <edge id="370" source="kultura" target="izletište" weight="1.0" />
-      <edge id="371" source="kultura" target="rješenje" weight="1.0" />
-      <edge id="372" source="kultura" target="lov" weight="1.0" />
-      <edge id="373" source="kultura" target="godina" weight="2.0" />
-      <edge id="374" source="kultura" target="postav" weight="1.0" />
-      <edge id="375" source="kultura" target="narudžba" weight="1.0" />
-      <edge id="376" source="kultura" target="fond" weight="1.0" />
-      <edge id="377" source="kultura" target="Vučedol" weight="1.0" />
-      <edge id="378" source="kultura" target="stanovnik" weight="1.0" />
-      <edge id="379" source="kultura" target="projekt" weight="1.0" />
-      <edge id="380" source="kultura" target="lokacija" weight="2.0" />
-      <edge id="381" source="kultura" target="sredstvo" weight="1.0" />
-      <edge id="382" source="Rako" target="godina" weight="1.0" />
-      <edge id="383" source="Rako" target="nalazište" weight="1.0" />
-      <edge id="384" source="Rako" target="Josip" weight="1.0" />
-      <edge id="385" source="Rako" target="okruženje" weight="1.0" />
-      <edge id="386" source="Rako" target="zadatak" weight="1.0" />
-      <edge id="387" source="Rako" target="Vučedol" weight="1.0" />
-      <edge id="388" source="Rako" target="papir" weight="1.0" />
-      <edge id="389" source="Rako" target="Sabolić" weight="1.0" />
-      <edge id="390" source="Rako" target="arhitektura" weight="2.0" />
-      <edge id="391" source="Rako" target="muzej" weight="3.0" />
-      <edge id="392" source="Rako" target="strana" weight="1.0" />
-      <edge id="393" source="Rako" target="lokacija" weight="1.0" />
-      <edge id="394" source="Rako" target="Mario" weight="1.0" />
-      <edge id="395" source="Vukovar" target="Dunav" weight="1.0" />
-      <edge id="396" source="Vukovar" target="obala" weight="1.0" />
-      <edge id="397" source="muzej" target="popis" weight="1.0" />
-      <edge id="398" source="muzej" target="obzir" weight="1.0" />
-      <edge id="399" source="muzej" target="publika" weight="2.0" />
-      <edge id="400" source="muzej" target="muzealac" weight="1.0" />
-      <edge id="401" source="muzej" target="park" weight="2.0" />
-      <edge id="402" source="muzej" target="interes" weight="2.0" />
-      <edge id="403" source="muzej" target="šetnja" weight="2.0" />
-      <edge id="404" source="muzej" target="pogon" weight="1.0" />
-      <edge id="405" source="muzej" target="brijeg" weight="1.0" />
-      <edge id="406" source="muzej" target="Pejić" weight="1.0" />
-      <edge id="407" source="muzej" target="priča" weight="1.0" />
-      <edge id="408" source="muzej" target="biro" weight="1.0" />
-      <edge id="409" source="muzej" target="golubica" weight="1.0" />
-      <edge id="410" source="muzej" target="nalazište" weight="1.0" />
-      <edge id="411" source="muzej" target="pitanje" weight="2.0" />
-      <edge id="412" source="muzej" target="arheolog" weight="1.0" />
-      <edge id="413" source="muzej" target="nagrada" weight="1.0" />
-      <edge id="414" source="muzej" target="desetka" weight="1.0" />
-      <edge id="415" source="muzej" target="radionica" weight="2.0" />
-      <edge id="416" source="muzej" target="osjećaj" weight="1.0" />
-      <edge id="417" source="muzej" target="potreba" weight="2.0" />
-      <edge id="418" source="muzej" target="godina" weight="2.0" />
-      <edge id="419" source="muzej" target="arhitekt" weight="1.0" />
-      <edge id="420" source="muzej" target="kolekcija" weight="1.0" />
-      <edge id="421" source="muzej" target="odgovor" weight="1.0" />
-      <edge id="422" source="muzej" target="ideja" weight="1.0" />
-      <edge id="423" source="muzej" target="fond" weight="1.0" />
-      <edge id="424" source="muzej" target="trošak" weight="1.0" />
-      <edge id="425" source="muzej" target="priroda" weight="1.0" />
-      <edge id="426" source="muzej" target="pohvala" weight="1.0" />
-      <edge id="427" source="muzej" target="Naron" weight="1.0" />
-      <edge id="428" source="muzej" target="predmet" weight="1.0" />
-      <edge id="429" source="muzej" target="uklopljenost" weight="1.0" />
-      <edge id="430" source="muzej" target="mjesto" weight="2.0" />
-      <edge id="431" source="muzej" target="arhitektura" weight="6.0" />
-      <edge id="432" source="muzej" target="razvoj" weight="2.0" />
-      <edge id="433" source="muzej" target="strana" weight="1.0" />
-      <edge id="434" source="muzej" target="lokacija" weight="2.0" />
-      <edge id="435" source="muzej" target="cost" weight="2.0" />
-      <edge id="436" source="muzej" target="okoliš" weight="1.0" />
-      <edge id="437" source="muzej" target="kuna" weight="1.0" />
-      <edge id="438" source="muzej" target="posjetitelj" weight="3.0" />
-      <edge id="439" source="muzej" target="struka" weight="1.0" />
-      <edge id="440" source="muzej" target="mogućnost" weight="2.0" />
-      <edge id="441" source="muzej" target="ponuda" weight="2.0" />
-      <edge id="442" source="muzej" target="tisuća" weight="1.0" />
-      <edge id="443" source="muzej" target="kretanje" weight="1.0" />
-      <edge id="444" source="muzej" target="padina" weight="1.0" />
-      <edge id="445" source="muzej" target="Josip" weight="1.0" />
-      <edge id="446" source="muzej" target="slovo" weight="1.0" />
-      <edge id="447" source="muzej" target="okruženje" weight="4.0" />
-      <edge id="448" source="muzej" target="Goran" weight="1.0" />
-      <edge id="449" source="muzej" target="zadatak" weight="1.0" />
-      <edge id="450" source="muzej" target="ostatak" weight="1.0" />
-      <edge id="451" source="muzej" target="papir" weight="1.0" />
-      <edge id="452" source="muzej" target="krov" weight="1.0" />
-      <edge id="453" source="muzej" target="Sabolić" weight="1.0" />
-      <edge id="454" source="muzej" target="kultura" weight="2.0" />
-      <edge id="455" source="muzej" target="Rako" weight="3.0" />
-      <edge id="456" source="muzej" target="vid" weight="1.0" />
-      <edge id="457" source="muzej" target="oblik" weight="1.0" />
-      <edge id="458" source="muzej" target="upravljanje" weight="2.0" />
-      <edge id="459" source="muzej" target="Mario" weight="1.0" />
-      <edge id="460" source="muzej" target="sadržaj" weight="2.0" />
-      <edge id="461" source="muzej" target="strategija" weight="2.0" />
-      <edge id="462" source="muzej" target="resurs" weight="2.0" />
-      <edge id="463" source="muzej" target="Iva" weight="1.0" />
-      <edge id="464" source="muzej" target="zajednica" weight="2.0" />
-      <edge id="465" source="muzej" target="šetnica" weight="1.0" />
-      <edge id="466" source="muzej" target="projekat" weight="1.0" />
-      <edge id="467" source="muzej" target="analiza" weight="2.0" />
-      <edge id="468" source="muzej" target="zgrada" weight="2.0" />
-      <edge id="469" source="muzej" target="ovaj" weight="2.0" />
-      <edge id="470" source="muzej" target="Vučedol" weight="2.0" />
-      <edge id="471" source="muzej" target="ploha" weight="1.0" />
-      <edge id="472" source="muzej" target="uređenje" weight="1.0" />
-      <edge id="473" source="muzej" target="istraživanje" weight="1.0" />
-      <edge id="474" source="muzej" target="pročelje" weight="1.0" />
-      <edge id="475" source="muzej" target="projekt" weight="5.0" />
-      <edge id="476" source="muzej" target="sredstvo" weight="1.0" />
-      <edge id="477" source="oblik" target="Rako" weight="1.0" />
-      <edge id="478" source="osobina" target="izložak" weight="1.0" />
-      <edge id="479" source="zid" target="obloga" weight="1.0" />
-      <edge id="480" source="forma" target="opeka" weight="1.0" />
-      <edge id="481" source="forma" target="zemlja" weight="1.0" />
-      <edge id="482" source="forma" target="materijal" weight="2.0" />
-      <edge id="483" source="forma" target="odabir" weight="1.0" />
-      <edge id="484" source="forma" target="radionica" weight="1.0" />
-      <edge id="485" source="forma" target="lokalitet" weight="1.0" />
-      <edge id="486" source="forma" target="obloga" weight="1.0" />
-      <edge id="487" source="forma" target="projektant" weight="1.0" />
-      <edge id="488" source="biro" target="Sabolić" weight="1.0" />
-      <edge id="489" source="biro" target="Josip" weight="1.0" />
-      <edge id="490" source="biro" target="Pejić" weight="1.0" />
-      <edge id="491" source="biro" target="Rako" weight="1.0" />
-      <edge id="492" source="biro" target="Iva" weight="1.0" />
-      <edge id="493" source="biro" target="Goran" weight="1.0" />
-      <edge id="494" source="biro" target="arhitektura" weight="1.0" />
-      <edge id="495" source="biro" target="radionica" weight="1.0" />
-      <edge id="496" source="biro" target="Mario" weight="1.0" />
-      <edge id="497" source="postav" target="tim" weight="1.0" />
-      <edge id="498" source="postav" target="projekt" weight="1.0" />
-      <edge id="499" source="postav" target="kolekcija" weight="1.0" />
-      <edge id="500" source="postav" target="godina" weight="1.0" />
-      <edge id="501" source="postav" target="troškovnik" weight="1.0" />
-      <edge id="502" source="postav" target="fond" weight="1.0" />
+      <edge id="0" source="cost" target="strategija" weight="1.0" />
+      <edge id="1" source="cost" target="razvoj" weight="1.0" />
+      <edge id="2" source="cost" target="upravljanje" weight="1.0" />
+      <edge id="3" source="cost" target="mogućnost" weight="1.0" />
+      <edge id="4" source="cost" target="resurs" weight="1.0" />
+      <edge id="5" source="cost" target="analiza" weight="1.0" />
+      <edge id="6" source="odgovor" target="projekt" weight="1.0" />
+      <edge id="7" source="odgovor" target="zgrada" weight="1.0" />
+      <edge id="8" source="odgovor" target="cost" weight="1.0" />
+      <edge id="9" source="odgovor" target="muzej" weight="1.0" />
+      <edge id="10" source="odgovor" target="strategija" weight="1.0" />
+      <edge id="11" source="odgovor" target="resurs" weight="1.0" />
+      <edge id="12" source="odgovor" target="upravljanje" weight="1.0" />
+      <edge id="13" source="odgovor" target="mogućnost" weight="1.0" />
+      <edge id="14" source="odgovor" target="razvoj" weight="1.0" />
+      <edge id="15" source="odgovor" target="analiza" weight="1.0" />
+      <edge id="16" source="terasa" target="barka" weight="1.0" />
+      <edge id="17" source="terasa" target="bazen" weight="1.0" />
+      <edge id="18" source="terasa" target="restoran" weight="1.0" />
+      <edge id="19" source="terasa" target="rijeka" weight="1.0" />
+      <edge id="20" source="upravljanje" target="mogućnost" weight="1.0" />
+      <edge id="21" source="upravljanje" target="resurs" weight="1.0" />
+      <edge id="22" source="popis" target="godina" weight="1.0" />
+      <edge id="23" source="popis" target="projekat" weight="1.0" />
+      <edge id="24" source="popis" target="fond" weight="1.0" />
+      <edge id="25" source="popis" target="sredstvo" weight="1.0" />
+      <edge id="26" source="kretanje" target="padina" weight="1.0" />
+      <edge id="27" source="kretanje" target="uklopljenost" weight="1.0" />
+      <edge id="28" source="stanovnik" target="izrada" weight="1.0" />
+      <edge id="29" source="stanovnik" target="keramika" weight="1.0" />
+      <edge id="30" source="stanovnik" target="predmet" weight="1.0" />
+      <edge id="31" source="stanovnik" target="stočarstvo" weight="1.0" />
+      <edge id="32" source="stanovnik" target="lov" weight="1.0" />
+      <edge id="33" source="stanovnik" target="izletište" weight="1.0" />
+      <edge id="34" source="račun" target="priča" weight="1.0" />
+      <edge id="35" source="račun" target="muzej" weight="1.0" />
+      <edge id="36" source="račun" target="golubica" weight="1.0" />
+      <edge id="37" source="račun" target="predmet" weight="1.0" />
+      <edge id="38" source="račun" target="kolekcija" weight="1.0" />
+      <edge id="39" source="račun" target="postav" weight="1.0" />
+      <edge id="40" source="odabir" target="materijal" weight="2.0" />
+      <edge id="41" source="odabir" target="zemlja" weight="1.0" />
+      <edge id="42" source="odabir" target="lokalitet" weight="1.0" />
+      <edge id="43" source="odabir" target="projektant" weight="1.0" />
+      <edge id="44" source="odabir" target="obloga" weight="1.0" />
+      <edge id="45" source="odabir" target="opeka" weight="1.0" />
+      <edge id="46" source="odabir" target="radionica" weight="1.0" />
+      <edge id="47" source="lokacija" target="godina" weight="2.0" />
+      <edge id="48" source="lokacija" target="arhitektura" weight="2.0" />
+      <edge id="49" source="lokacija" target="zadatak" weight="1.0" />
+      <edge id="50" source="lokacija" target="fond" weight="1.0" />
+      <edge id="51" source="lokacija" target="papir" weight="1.0" />
+      <edge id="52" source="lokacija" target="nalazište" weight="1.0" />
+      <edge id="53" source="lokacija" target="projekt" weight="1.0" />
+      <edge id="54" source="lokacija" target="sredstvo" weight="1.0" />
+      <edge id="55" source="lokacija" target="muzej" weight="3.0" />
+      <edge id="56" source="lokacija" target="Rako" weight="1.0" />
+      <edge id="57" source="lokacija" target="popis" weight="1.0" />
+      <edge id="58" source="lokacija" target="ishodište" weight="1.0" />
+      <edge id="59" source="lokacija" target="okruženje" weight="2.0" />
+      <edge id="60" source="lokacija" target="Goran" weight="1.0" />
+      <edge id="61" source="lokacija" target="Vučedol" weight="3.0" />
+      <edge id="62" source="lokacija" target="projekat" weight="1.0" />
+      <edge id="63" source="lokacija" target="strana" weight="1.0" />
+      <edge id="64" source="Rako" target="godina" weight="1.0" />
+      <edge id="65" source="Rako" target="arhitektura" weight="2.0" />
+      <edge id="66" source="Rako" target="Josip" weight="1.0" />
+      <edge id="67" source="Rako" target="zadatak" weight="1.0" />
+      <edge id="68" source="Rako" target="papir" weight="1.0" />
+      <edge id="69" source="Rako" target="nalazište" weight="1.0" />
+      <edge id="70" source="Rako" target="Mario" weight="1.0" />
+      <edge id="71" source="Rako" target="muzej" weight="3.0" />
+      <edge id="72" source="Rako" target="okruženje" weight="1.0" />
+      <edge id="73" source="Rako" target="Sabolić" weight="1.0" />
+      <edge id="74" source="Rako" target="strana" weight="1.0" />
+      <edge id="75" source="Rako" target="Vučedol" weight="1.0" />
+      <edge id="76" source="Rako" target="lokacija" weight="1.0" />
+      <edge id="77" source="lokalitet" target="projektant" weight="1.0" />
+      <edge id="78" source="lokalitet" target="radionica" weight="1.0" />
+      <edge id="79" source="obala" target="Dunav" weight="2.0" />
+      <edge id="80" source="obala" target="Vučedol" weight="1.0" />
+      <edge id="81" source="obala" target="vrh" weight="1.0" />
+      <edge id="82" source="kilometar" target="obala" weight="1.0" />
+      <edge id="83" source="kilometar" target="Dunav" weight="1.0" />
+      <edge id="84" source="kilometar" target="središte" weight="1.0" />
+      <edge id="85" source="kilometar" target="Vukovar" weight="1.0" />
+      <edge id="86" source="Pejić" target="Sabolić" weight="1.0" />
+      <edge id="87" source="Pejić" target="Mario" weight="1.0" />
+      <edge id="88" source="Pejić" target="Josip" weight="1.0" />
+      <edge id="89" source="Pejić" target="Rako" weight="1.0" />
+      <edge id="90" source="Pejić" target="Goran" weight="1.0" />
+      <edge id="91" source="resurs" target="projekt" weight="2.0" />
+      <edge id="92" source="resurs" target="godina" weight="2.0" />
+      <edge id="93" source="resurs" target="tehnologija" weight="1.0" />
+      <edge id="94" source="resurs" target="mjesto" weight="2.0" />
+      <edge id="95" source="resurs" target="park" weight="2.0" />
+      <edge id="96" source="resurs" target="posjetitelj" weight="2.0" />
+      <edge id="97" source="resurs" target="istraživanje" weight="2.0" />
+      <edge id="98" source="resurs" target="mogućnost" weight="1.0" />
+      <edge id="99" source="resurs" target="slovo" weight="2.0" />
+      <edge id="100" source="resurs" target="uređenje" weight="2.0" />
+      <edge id="101" source="resurs" target="tisuća" weight="2.0" />
+      <edge id="102" source="resurs" target="desetka" weight="2.0" />
+      <edge id="103" source="resurs" target="muzej" weight="4.0" />
+      <edge id="104" source="resurs" target="ideja" weight="2.0" />
+      <edge id="105" source="resurs" target="kuna" weight="2.0" />
+      <edge id="106" source="resurs" target="Vučedol" weight="2.0" />
+      <edge id="107" source="resurs" target="pogon" weight="2.0" />
+      <edge id="108" source="resurs" target="trošak" weight="2.0" />
+      <edge id="109" source="okoliš" target="zgrada" weight="1.0" />
+      <edge id="110" source="okoliš" target="krov" weight="1.0" />
+      <edge id="111" source="okoliš" target="Vučedol" weight="1.0" />
+      <edge id="112" source="okoliš" target="obala" weight="1.0" />
+      <edge id="113" source="okoliš" target="šetnja" weight="1.0" />
+      <edge id="114" source="okoliš" target="Dunav" weight="1.0" />
+      <edge id="115" source="okoliš" target="ideja" weight="1.0" />
+      <edge id="116" source="okoliš" target="dolina" weight="1.0" />
+      <edge id="117" source="okoliš" target="vrh" weight="1.0" />
+      <edge id="118" source="okoliš" target="muzej" weight="1.0" />
+      <edge id="119" source="troškovnik" target="milijun" weight="1.0" />
+      <edge id="120" source="troškovnik" target="kuna" weight="1.0" />
+      <edge id="121" source="slovo" target="godina" weight="1.0" />
+      <edge id="122" source="slovo" target="muzej" weight="1.0" />
+      <edge id="123" source="slovo" target="park" weight="1.0" />
+      <edge id="124" source="slovo" target="posjetitelj" weight="1.0" />
+      <edge id="125" source="slovo" target="pogon" weight="1.0" />
+      <edge id="126" source="slovo" target="istraživanje" weight="1.0" />
+      <edge id="127" source="slovo" target="uređenje" weight="1.0" />
+      <edge id="128" source="slovo" target="tisuća" weight="1.0" />
+      <edge id="129" source="slovo" target="desetka" weight="1.0" />
+      <edge id="130" source="slovo" target="Vučedol" weight="1.0" />
+      <edge id="131" source="slovo" target="mjesto" weight="1.0" />
+      <edge id="132" source="slovo" target="kuna" weight="1.0" />
+      <edge id="133" source="slovo" target="ideja" weight="1.0" />
+      <edge id="134" source="slovo" target="trošak" weight="1.0" />
+      <edge id="135" source="milijun" target="kuna" weight="1.0" />
+      <edge id="136" source="godina" target="arhitektura" weight="1.0" />
+      <edge id="137" source="godina" target="projekt" weight="1.0" />
+      <edge id="138" source="godina" target="park" weight="2.0" />
+      <edge id="139" source="godina" target="predmet" weight="1.0" />
+      <edge id="140" source="godina" target="lov" weight="1.0" />
+      <edge id="141" source="godina" target="razminiravanje" weight="1.0" />
+      <edge id="142" source="godina" target="uređenje" weight="1.0" />
+      <edge id="143" source="godina" target="izrada" weight="1.0" />
+      <edge id="144" source="godina" target="keramika" weight="1.0" />
+      <edge id="145" source="godina" target="lokacija" weight="1.0" />
+      <edge id="146" source="godina" target="mjesto" weight="1.0" />
+      <edge id="147" source="godina" target="stanovnik" weight="1.0" />
+      <edge id="148" source="godina" target="fond" weight="2.0" />
+      <edge id="149" source="godina" target="EU" weight="1.0" />
+      <edge id="150" source="godina" target="sredstvo" weight="1.0" />
+      <edge id="151" source="godina" target="zadatak" weight="1.0" />
+      <edge id="152" source="godina" target="ideja" weight="1.0" />
+      <edge id="153" source="godina" target="stočarstvo" weight="1.0" />
+      <edge id="154" source="godina" target="papir" weight="1.0" />
+      <edge id="155" source="godina" target="nalazište" weight="1.0" />
+      <edge id="156" source="godina" target="izletište" weight="1.0" />
+      <edge id="157" source="godina" target="Krist" weight="1.0" />
+      <edge id="158" source="godina" target="strana" weight="1.0" />
+      <edge id="159" source="godina" target="okruženje" weight="1.0" />
+      <edge id="160" source="godina" target="tim" weight="1.0" />
+      <edge id="161" source="godina" target="Vučedol" weight="1.0" />
+      <edge id="162" source="godina" target="ministarstvo" weight="1.0" />
+      <edge id="163" source="godina" target="muzej" weight="3.0" />
+      <edge id="164" source="rata" target="godina" weight="1.0" />
+      <edge id="165" source="rata" target="razminiravanje" weight="1.0" />
+      <edge id="166" source="tehnologija" target="projekt" weight="1.0" />
+      <edge id="167" source="tehnologija" target="godina" weight="1.0" />
+      <edge id="168" source="tehnologija" target="resurs" weight="1.0" />
+      <edge id="169" source="tehnologija" target="mjesto" weight="1.0" />
+      <edge id="170" source="tehnologija" target="park" weight="1.0" />
+      <edge id="171" source="tehnologija" target="posjetitelj" weight="1.0" />
+      <edge id="172" source="tehnologija" target="slovo" weight="1.0" />
+      <edge id="173" source="tehnologija" target="pogon" weight="1.0" />
+      <edge id="174" source="tehnologija" target="istraživanje" weight="1.0" />
+      <edge id="175" source="tehnologija" target="uređenje" weight="1.0" />
+      <edge id="176" source="tehnologija" target="tisuća" weight="1.0" />
+      <edge id="177" source="tehnologija" target="desetka" weight="1.0" />
+      <edge id="178" source="tehnologija" target="muzej" weight="2.0" />
+      <edge id="179" source="tehnologija" target="ideja" weight="1.0" />
+      <edge id="180" source="tehnologija" target="kuna" weight="1.0" />
+      <edge id="181" source="tehnologija" target="Vučedol" weight="1.0" />
+      <edge id="182" source="tehnologija" target="trošak" weight="1.0" />
+      <edge id="183" source="kultura" target="projekt" weight="1.0" />
+      <edge id="184" source="kultura" target="sredstvo" weight="1.0" />
+      <edge id="185" source="kultura" target="ishodište" weight="1.0" />
+      <edge id="186" source="kultura" target="park" weight="1.0" />
+      <edge id="187" source="kultura" target="lokacija" weight="2.0" />
+      <edge id="188" source="kultura" target="predmet" weight="1.0" />
+      <edge id="189" source="kultura" target="lov" weight="1.0" />
+      <edge id="190" source="kultura" target="izrada" weight="1.0" />
+      <edge id="191" source="kultura" target="keramika" weight="1.0" />
+      <edge id="192" source="kultura" target="muzej" weight="1.0" />
+      <edge id="193" source="kultura" target="popis" weight="1.0" />
+      <edge id="194" source="kultura" target="narudžba" weight="1.0" />
+      <edge id="195" source="kultura" target="projekat" weight="1.0" />
+      <edge id="196" source="kultura" target="postav" weight="1.0" />
+      <edge id="197" source="kultura" target="godina" weight="2.0" />
+      <edge id="198" source="kultura" target="fond" weight="1.0" />
+      <edge id="199" source="kultura" target="stočarstvo" weight="1.0" />
+      <edge id="200" source="kultura" target="izletište" weight="1.0" />
+      <edge id="201" source="kultura" target="stanovnik" weight="1.0" />
+      <edge id="202" source="kultura" target="Krist" weight="1.0" />
+      <edge id="203" source="kultura" target="rješenje" weight="1.0" />
+      <edge id="204" source="kultura" target="Vučedol" weight="1.0" />
+      <edge id="205" source="Vukovar" target="obala" weight="1.0" />
+      <edge id="206" source="Vukovar" target="Dunav" weight="1.0" />
+      <edge id="207" source="istraživanje" target="godina" weight="1.0" />
+      <edge id="208" source="istraživanje" target="mjesto" weight="1.0" />
+      <edge id="209" source="istraživanje" target="Vučedol" weight="1.0" />
+      <edge id="210" source="istraživanje" target="park" weight="1.0" />
+      <edge id="211" source="istraživanje" target="ideja" weight="1.0" />
+      <edge id="212" source="istraživanje" target="uređenje" weight="1.0" />
+      <edge id="213" source="istraživanje" target="muzej" weight="1.0" />
+      <edge id="214" source="autor" target="arhitektura" weight="1.0" />
+      <edge id="215" source="autor" target="Josip" weight="1.0" />
+      <edge id="216" source="autor" target="biro" weight="1.0" />
+      <edge id="217" source="autor" target="Iva" weight="1.0" />
+      <edge id="218" source="autor" target="radionica" weight="1.0" />
+      <edge id="219" source="autor" target="arhitekt" weight="1.0" />
+      <edge id="220" source="autor" target="Mario" weight="1.0" />
+      <edge id="221" source="autor" target="muzej" weight="1.0" />
+      <edge id="222" source="autor" target="Rako" weight="1.0" />
+      <edge id="223" source="autor" target="Sabolić" weight="1.0" />
+      <edge id="224" source="autor" target="Pejić" weight="1.0" />
+      <edge id="225" source="autor" target="Goran" weight="1.0" />
+      <edge id="226" source="nalazište" target="godina" weight="1.0" />
+      <edge id="227" source="nalazište" target="arhitektura" weight="1.0" />
+      <edge id="228" source="nalazište" target="muzej" weight="1.0" />
+      <edge id="229" source="nalazište" target="kultura" weight="1.0" />
+      <edge id="230" source="nalazište" target="predmet" weight="1.0" />
+      <edge id="231" source="nalazište" target="stočarstvo" weight="1.0" />
+      <edge id="232" source="nalazište" target="lov" weight="1.0" />
+      <edge id="233" source="nalazište" target="izletište" weight="1.0" />
+      <edge id="234" source="nalazište" target="izrada" weight="1.0" />
+      <edge id="235" source="nalazište" target="Krist" weight="1.0" />
+      <edge id="236" source="nalazište" target="keramika" weight="1.0" />
+      <edge id="237" source="nalazište" target="Vučedol" weight="1.0" />
+      <edge id="238" source="nalazište" target="stanovnik" weight="1.0" />
+      <edge id="239" source="nalazište" target="okruženje" weight="1.0" />
+      <edge id="240" source="nalazište" target="lokacija" weight="1.0" />
+      <edge id="241" source="ovaj" target="pitanje" weight="1.0" />
+      <edge id="242" source="podsjetnik" target="vrijeme" weight="1.0" />
+      <edge id="243" source="zajednica" target="ponuda" weight="1.0" />
+      <edge id="244" source="zajednica" target="sadržaj" weight="1.0" />
+      <edge id="245" source="zajednica" target="publika" weight="1.0" />
+      <edge id="246" source="zajednica" target="okruženje" weight="1.0" />
+      <edge id="247" source="zajednica" target="potreba" weight="1.0" />
+      <edge id="248" source="zajednica" target="pitanje" weight="1.0" />
+      <edge id="249" source="zajednica" target="ovaj" weight="1.0" />
+      <edge id="250" source="ideja" target="muzej" weight="1.0" />
+      <edge id="251" source="ideja" target="zgrada" weight="1.0" />
+      <edge id="252" source="ideja" target="mjesto" weight="1.0" />
+      <edge id="253" source="ideja" target="Vučedol" weight="1.0" />
+      <edge id="254" source="ideja" target="park" weight="1.0" />
+      <edge id="255" source="ideja" target="obala" weight="1.0" />
+      <edge id="256" source="ideja" target="Dunav" weight="1.0" />
+      <edge id="257" source="ideja" target="dolina" weight="1.0" />
+      <edge id="258" source="ideja" target="vrh" weight="1.0" />
+      <edge id="259" source="ideja" target="uređenje" weight="1.0" />
+      <edge id="260" source="pogon" target="godina" weight="1.0" />
+      <edge id="261" source="pogon" target="mjesto" weight="1.0" />
+      <edge id="262" source="pogon" target="park" weight="1.0" />
+      <edge id="263" source="pogon" target="posjetitelj" weight="1.0" />
+      <edge id="264" source="pogon" target="istraživanje" weight="1.0" />
+      <edge id="265" source="pogon" target="uređenje" weight="1.0" />
+      <edge id="266" source="pogon" target="tisuća" weight="1.0" />
+      <edge id="267" source="pogon" target="desetka" weight="1.0" />
+      <edge id="268" source="pogon" target="muzej" weight="1.0" />
+      <edge id="269" source="pogon" target="kuna" weight="1.0" />
+      <edge id="270" source="pogon" target="ideja" weight="1.0" />
+      <edge id="271" source="pogon" target="Vučedol" weight="1.0" />
+      <edge id="272" source="rješenje" target="muzej" weight="1.0" />
+      <edge id="273" source="etapa" target="godina" weight="1.0" />
+      <edge id="274" source="etapa" target="projekt" weight="1.0" />
+      <edge id="275" source="etapa" target="izvedba" weight="1.0" />
+      <edge id="276" source="etapa" target="fond" weight="1.0" />
+      <edge id="277" source="etapa" target="park" weight="1.0" />
+      <edge id="278" source="etapa" target="tim" weight="1.0" />
+      <edge id="279" source="etapa" target="ministarstvo" weight="1.0" />
+      <edge id="280" source="etapa" target="EU" weight="1.0" />
+      <edge id="281" source="etapa" target="postav" weight="1.0" />
+      <edge id="282" source="arhitektura" target="ministarstvo" weight="1.0" />
+      <edge id="283" source="arhitektura" target="Josip" weight="1.0" />
+      <edge id="284" source="arhitektura" target="pohvala" weight="1.0" />
+      <edge id="285" source="arhitektura" target="kultura" weight="1.0" />
+      <edge id="286" source="arhitektura" target="arheolog" weight="1.0" />
+      <edge id="287" source="arhitektura" target="Iva" weight="1.0" />
+      <edge id="288" source="arhitektura" target="narudžba" weight="1.0" />
+      <edge id="289" source="arhitektura" target="Mario" weight="1.0" />
+      <edge id="290" source="arhitektura" target="muzej" weight="1.0" />
+      <edge id="291" source="arhitektura" target="Rako" weight="1.0" />
+      <edge id="292" source="arhitektura" target="rješenje" weight="1.0" />
+      <edge id="293" source="arhitektura" target="Sabolić" weight="1.0" />
+      <edge id="294" source="arhitektura" target="Pejić" weight="1.0" />
+      <edge id="295" source="arhitektura" target="muzealac" weight="1.0" />
+      <edge id="296" source="arhitektura" target="struka" weight="1.0" />
+      <edge id="297" source="arhitektura" target="nagrada" weight="1.0" />
+      <edge id="298" source="arhitektura" target="Goran" weight="1.0" />
+      <edge id="299" source="serpentina" target="kolica" weight="1.0" />
+      <edge id="300" source="serpentina" target="čovjek" weight="1.0" />
+      <edge id="301" source="serpentina" target="kultura" weight="1.0" />
+      <edge id="302" source="serpentina" target="posjetitelj" weight="1.0" />
+      <edge id="303" source="serpentina" target="ishodište" weight="1.0" />
+      <edge id="304" source="serpentina" target="lokacija" weight="1.0" />
+      <edge id="305" source="serpentina" target="standard" weight="1.0" />
+      <edge id="306" source="serpentina" target="prostor" weight="1.0" />
+      <edge id="307" source="serpentina" target="nagib" weight="1.0" />
+      <edge id="308" source="serpentina" target="Vučedol" weight="1.0" />
+      <edge id="309" source="serpentina" target="postav" weight="1.0" />
+      <edge id="310" source="posjetitelj" target="ishodište" weight="1.0" />
+      <edge id="311" source="posjetitelj" target="park" weight="1.0" />
+      <edge id="312" source="posjetitelj" target="publika" weight="2.0" />
+      <edge id="313" source="posjetitelj" target="tisuća" weight="1.0" />
+      <edge id="314" source="posjetitelj" target="desetka" weight="1.0" />
+      <edge id="315" source="posjetitelj" target="pitanje" weight="2.0" />
+      <edge id="316" source="posjetitelj" target="lokacija" weight="1.0" />
+      <edge id="317" source="posjetitelj" target="muzej" weight="4.0" />
+      <edge id="318" source="posjetitelj" target="sadržaj" weight="2.0" />
+      <edge id="319" source="posjetitelj" target="interes" weight="2.0" />
+      <edge id="320" source="posjetitelj" target="potreba" weight="2.0" />
+      <edge id="321" source="posjetitelj" target="ovaj" weight="2.0" />
+      <edge id="322" source="posjetitelj" target="godina" weight="1.0" />
+      <edge id="323" source="posjetitelj" target="mjesto" weight="1.0" />
+      <edge id="324" source="posjetitelj" target="kultura" weight="2.0" />
+      <edge id="325" source="posjetitelj" target="istraživanje" weight="1.0" />
+      <edge id="326" source="posjetitelj" target="uređenje" weight="1.0" />
+      <edge id="327" source="posjetitelj" target="postav" weight="1.0" />
+      <edge id="328" source="posjetitelj" target="ponuda" weight="2.0" />
+      <edge id="329" source="posjetitelj" target="zajednica" weight="2.0" />
+      <edge id="330" source="posjetitelj" target="okruženje" weight="2.0" />
+      <edge id="331" source="posjetitelj" target="kuna" weight="1.0" />
+      <edge id="332" source="posjetitelj" target="ideja" weight="1.0" />
+      <edge id="333" source="posjetitelj" target="Vučedol" weight="3.0" />
+      <edge id="334" source="rijeka" target="barka" weight="1.0" />
+      <edge id="335" source="publika" target="ovaj" weight="1.0" />
+      <edge id="336" source="publika" target="ponuda" weight="1.0" />
+      <edge id="337" source="publika" target="pitanje" weight="1.0" />
+      <edge id="338" source="publika" target="sadržaj" weight="1.0" />
+      <edge id="339" source="publika" target="okruženje" weight="1.0" />
+      <edge id="340" source="kolekcija" target="predmet" weight="1.0" />
+      <edge id="341" source="kolekcija" target="golubica" weight="1.0" />
+      <edge id="342" source="predmet" target="golubica" weight="1.0" />
+      <edge id="343" source="predmet" target="izletište" weight="1.0" />
+      <edge id="344" source="oblik" target="Rako" weight="1.0" />
+      <edge id="345" source="lov" target="izrada" weight="1.0" />
+      <edge id="346" source="lov" target="predmet" weight="1.0" />
+      <edge id="347" source="lov" target="keramika" weight="1.0" />
+      <edge id="348" source="lov" target="izletište" weight="1.0" />
+      <edge id="349" source="Durman" target="godina" weight="1.0" />
+      <edge id="350" source="tisuća" target="godina" weight="1.0" />
+      <edge id="351" source="tisuća" target="mjesto" weight="1.0" />
+      <edge id="352" source="tisuća" target="Vučedol" weight="1.0" />
+      <edge id="353" source="tisuća" target="park" weight="1.0" />
+      <edge id="354" source="tisuća" target="istraživanje" weight="1.0" />
+      <edge id="355" source="tisuća" target="kuna" weight="1.0" />
+      <edge id="356" source="tisuća" target="ideja" weight="1.0" />
+      <edge id="357" source="tisuća" target="uređenje" weight="1.0" />
+      <edge id="358" source="tisuća" target="muzej" weight="1.0" />
+      <edge id="359" source="teren" target="zemlja" weight="1.0" />
+      <edge id="360" source="teren" target="materijal" weight="2.0" />
+      <edge id="361" source="teren" target="obloga" weight="1.0" />
+      <edge id="362" source="teren" target="opeka" weight="1.0" />
+      <edge id="363" source="teren" target="projektant" weight="1.0" />
+      <edge id="364" source="teren" target="odabir" weight="1.0" />
+      <edge id="365" source="teren" target="forma" weight="1.0" />
+      <edge id="366" source="teren" target="lokalitet" weight="1.0" />
+      <edge id="367" source="teren" target="radionica" weight="1.0" />
+      <edge id="368" source="interes" target="ponuda" weight="1.0" />
+      <edge id="369" source="interes" target="zajednica" weight="1.0" />
+      <edge id="370" source="interes" target="sadržaj" weight="1.0" />
+      <edge id="371" source="interes" target="publika" weight="1.0" />
+      <edge id="372" source="interes" target="okruženje" weight="1.0" />
+      <edge id="373" source="interes" target="potreba" weight="1.0" />
+      <edge id="374" source="interes" target="pitanje" weight="1.0" />
+      <edge id="375" source="interes" target="ovaj" weight="1.0" />
+      <edge id="376" source="zemlja" target="projektant" weight="1.0" />
+      <edge id="377" source="zemlja" target="radionica" weight="1.0" />
+      <edge id="378" source="zemlja" target="lokalitet" weight="1.0" />
+      <edge id="379" source="trošak" target="godina" weight="1.0" />
+      <edge id="380" source="trošak" target="mjesto" weight="1.0" />
+      <edge id="381" source="trošak" target="park" weight="1.0" />
+      <edge id="382" source="trošak" target="posjetitelj" weight="1.0" />
+      <edge id="383" source="trošak" target="pogon" weight="1.0" />
+      <edge id="384" source="trošak" target="istraživanje" weight="1.0" />
+      <edge id="385" source="trošak" target="uređenje" weight="1.0" />
+      <edge id="386" source="trošak" target="tisuća" weight="1.0" />
+      <edge id="387" source="trošak" target="desetka" weight="1.0" />
+      <edge id="388" source="trošak" target="Vučedol" weight="1.0" />
+      <edge id="389" source="trošak" target="kuna" weight="1.0" />
+      <edge id="390" source="trošak" target="ideja" weight="1.0" />
+      <edge id="391" source="trošak" target="muzej" weight="1.0" />
+      <edge id="392" source="interijer" target="obloga" weight="1.0" />
+      <edge id="393" source="interijer" target="zid" weight="1.0" />
+      <edge id="394" source="narudžba" target="arhitektura" weight="1.0" />
+      <edge id="395" source="narudžba" target="vid" weight="1.0" />
+      <edge id="396" source="narudžba" target="uspjeh" weight="1.0" />
+      <edge id="397" source="narudžba" target="pohvala" weight="1.0" />
+      <edge id="398" source="narudžba" target="provedba" weight="1.0" />
+      <edge id="399" source="narudžba" target="struka" weight="1.0" />
+      <edge id="400" source="narudžba" target="radionica" weight="1.0" />
+      <edge id="401" source="narudžba" target="muzealac" weight="1.0" />
+      <edge id="402" source="narudžba" target="muzej" weight="2.0" />
+      <edge id="403" source="narudžba" target="Naron" weight="1.0" />
+      <edge id="404" source="narudžba" target="rješenje" weight="1.0" />
+      <edge id="405" source="narudžba" target="natječaj" weight="1.0" />
+      <edge id="406" source="narudžba" target="nagrada" weight="1.0" />
+      <edge id="407" source="narudžba" target="arheolog" weight="1.0" />
+      <edge id="408" source="padina" target="uklopljenost" weight="1.0" />
+      <edge id="409" source="standard" target="kolica" weight="1.0" />
+      <edge id="410" source="standard" target="čovjek" weight="1.0" />
+      <edge id="411" source="standard" target="posjetitelj" weight="1.0" />
+      <edge id="412" source="standard" target="kultura" weight="1.0" />
+      <edge id="413" source="standard" target="ishodište" weight="1.0" />
+      <edge id="414" source="standard" target="lokacija" weight="1.0" />
+      <edge id="415" source="standard" target="prostor" weight="1.0" />
+      <edge id="416" source="standard" target="Vučedol" weight="1.0" />
+      <edge id="417" source="standard" target="postav" weight="1.0" />
+      <edge id="418" source="dolina" target="obala" weight="1.0" />
+      <edge id="419" source="dolina" target="Dunav" weight="1.0" />
+      <edge id="420" source="dolina" target="Vučedol" weight="1.0" />
+      <edge id="421" source="dolina" target="vrh" weight="1.0" />
+      <edge id="422" source="središte" target="obala" weight="1.0" />
+      <edge id="423" source="središte" target="Dunav" weight="1.0" />
+      <edge id="424" source="središte" target="Vukovar" weight="1.0" />
+      <edge id="425" source="provedba" target="arhitektura" weight="1.0" />
+      <edge id="426" source="provedba" target="vid" weight="1.0" />
+      <edge id="427" source="provedba" target="uspjeh" weight="1.0" />
+      <edge id="428" source="provedba" target="pohvala" weight="1.0" />
+      <edge id="429" source="provedba" target="struka" weight="1.0" />
+      <edge id="430" source="provedba" target="radionica" weight="1.0" />
+      <edge id="431" source="provedba" target="muzealac" weight="1.0" />
+      <edge id="432" source="provedba" target="muzej" weight="1.0" />
+      <edge id="433" source="provedba" target="Naron" weight="1.0" />
+      <edge id="434" source="provedba" target="natječaj" weight="1.0" />
+      <edge id="435" source="provedba" target="nagrada" weight="1.0" />
+      <edge id="436" source="provedba" target="arheolog" weight="1.0" />
+      <edge id="437" source="sredstvo" target="fond" weight="1.0" />
+      <edge id="438" source="vid" target="arhitektura" weight="1.0" />
+      <edge id="439" source="vid" target="muzealac" weight="1.0" />
+      <edge id="440" source="vid" target="radionica" weight="1.0" />
+      <edge id="441" source="vid" target="pohvala" weight="1.0" />
+      <edge id="442" source="vid" target="struka" weight="1.0" />
+      <edge id="443" source="vid" target="nagrada" weight="1.0" />
+      <edge id="444" source="vid" target="arheolog" weight="1.0" />
+      <edge id="445" source="zadatak" target="arhitektura" weight="1.0" />
+      <edge id="446" source="zadatak" target="muzej" weight="1.0" />
+      <edge id="447" source="zadatak" target="okruženje" weight="1.0" />
+      <edge id="448" source="zadatak" target="strana" weight="1.0" />
+      <edge id="449" source="zadatak" target="Vučedol" weight="1.0" />
+      <edge id="450" source="zadatak" target="nalazište" weight="1.0" />
+      <edge id="451" source="zadatak" target="lokacija" weight="1.0" />
+      <edge id="452" source="zgrada" target="projekt" weight="1.0" />
+      <edge id="453" source="zgrada" target="cost" weight="1.0" />
+      <edge id="454" source="zgrada" target="resurs" weight="1.0" />
+      <edge id="455" source="zgrada" target="šetnica" weight="1.0" />
+      <edge id="456" source="zgrada" target="strategija" weight="1.0" />
+      <edge id="457" source="zgrada" target="upravljanje" weight="1.0" />
+      <edge id="458" source="zgrada" target="mogućnost" weight="1.0" />
+      <edge id="459" source="zgrada" target="razvoj" weight="1.0" />
+      <edge id="460" source="zgrada" target="vrh" weight="1.0" />
+      <edge id="461" source="zgrada" target="muzej" weight="1.0" />
+      <edge id="462" source="zgrada" target="obala" weight="1.0" />
+      <edge id="463" source="zgrada" target="Dunav" weight="1.0" />
+      <edge id="464" source="zgrada" target="dolina" weight="1.0" />
+      <edge id="465" source="zgrada" target="analiza" weight="1.0" />
+      <edge id="466" source="zgrada" target="Vučedol" weight="1.0" />
+      <edge id="467" source="projektant" target="radionica" weight="1.0" />
+      <edge id="468" source="prostor" target="posjetitelj" weight="1.0" />
+      <edge id="469" source="prostor" target="Vučedol" weight="1.0" />
+      <edge id="470" source="prostor" target="kultura" weight="1.0" />
+      <edge id="471" source="prostor" target="ishodište" weight="1.0" />
+      <edge id="472" source="prostor" target="postav" weight="1.0" />
+      <edge id="473" source="prostor" target="lokacija" weight="1.0" />
+      <edge id="474" source="obrada" target="interijer" weight="1.0" />
+      <edge id="475" source="obrada" target="obloga" weight="1.0" />
+      <edge id="476" source="obrada" target="zid" weight="1.0" />
+      <edge id="477" source="stočarstvo" target="izrada" weight="1.0" />
+      <edge id="478" source="stočarstvo" target="predmet" weight="1.0" />
+      <edge id="479" source="stočarstvo" target="keramika" weight="1.0" />
+      <edge id="480" source="stočarstvo" target="lov" weight="1.0" />
+      <edge id="481" source="stočarstvo" target="izletište" weight="1.0" />
+      <edge id="482" source="Aleksandar" target="godina" weight="1.0" />
+      <edge id="483" source="Aleksandar" target="Durman" weight="1.0" />
+      <edge id="484" source="papir" target="muzej" weight="1.0" />
+      <edge id="485" source="papir" target="arhitektura" weight="1.0" />
+      <edge id="486" source="papir" target="zadatak" weight="1.0" />
+      <edge id="487" source="papir" target="lokacija" weight="1.0" />
+      <edge id="488" source="papir" target="okruženje" weight="1.0" />
+      <edge id="489" source="papir" target="Vučedol" weight="1.0" />
+      <edge id="490" source="papir" target="nalazište" weight="1.0" />
+      <edge id="491" source="papir" target="strana" weight="1.0" />
+      <edge id="492" source="postav" target="godina" weight="1.0" />
+      <edge id="493" source="postav" target="projekt" weight="1.0" />
+      <edge id="494" source="postav" target="ishodište" weight="1.0" />
+      <edge id="495" source="postav" target="park" weight="1.0" />
+      <edge id="496" source="postav" target="golubica" weight="1.0" />
+      <edge id="497" source="postav" target="predmet" weight="1.0" />
+      <edge id="498" source="postav" target="kolekcija" weight="1.0" />
+      <edge id="499" source="postav" target="priča" weight="1.0" />
+      <edge id="500" source="postav" target="milijun" weight="1.0" />
+      <edge id="501" source="postav" target="lokacija" weight="1.0" />
+      <edge id="502" source="postav" target="muzej" weight="1.0" />
       <edge id="503" source="postav" target="ministarstvo" weight="1.0" />
-      <edge id="504" source="postav" target="park" weight="1.0" />
-      <edge id="505" source="postav" target="kuna" weight="1.0" />
-      <edge id="506" source="postav" target="priča" weight="1.0" />
-      <edge id="507" source="postav" target="milijun" weight="1.0" />
-      <edge id="508" source="postav" target="golubica" weight="1.0" />
+      <edge id="504" source="postav" target="fond" weight="1.0" />
+      <edge id="505" source="postav" target="tim" weight="1.0" />
+      <edge id="506" source="postav" target="kuna" weight="1.0" />
+      <edge id="507" source="postav" target="troškovnik" weight="1.0" />
+      <edge id="508" source="postav" target="EU" weight="1.0" />
       <edge id="509" source="postav" target="Vučedol" weight="1.0" />
-      <edge id="510" source="postav" target="ishodište" weight="1.0" />
-      <edge id="511" source="postav" target="EU" weight="1.0" />
-      <edge id="512" source="postav" target="predmet" weight="1.0" />
-      <edge id="513" source="postav" target="muzej" weight="1.0" />
-      <edge id="514" source="postav" target="lokacija" weight="1.0" />
-      <edge id="515" source="uspjeh" target="arheolog" weight="1.0" />
-      <edge id="516" source="uspjeh" target="struka" weight="1.0" />
-      <edge id="517" source="uspjeh" target="Naron" weight="1.0" />
-      <edge id="518" source="uspjeh" target="muzealac" weight="1.0" />
-      <edge id="519" source="uspjeh" target="nagrada" weight="1.0" />
-      <edge id="520" source="uspjeh" target="arhitektura" weight="1.0" />
-      <edge id="521" source="uspjeh" target="radionica" weight="1.0" />
-      <edge id="522" source="uspjeh" target="muzej" weight="1.0" />
-      <edge id="523" source="uspjeh" target="pohvala" weight="1.0" />
-      <edge id="524" source="uspjeh" target="vid" weight="1.0" />
-      <edge id="525" source="interijer" target="obloga" weight="1.0" />
-      <edge id="526" source="interijer" target="zid" weight="1.0" />
-      <edge id="527" source="prostor" target="posjetitelj" weight="1.0" />
-      <edge id="528" source="prostor" target="Vučedol" weight="1.0" />
-      <edge id="529" source="prostor" target="postav" weight="1.0" />
-      <edge id="530" source="prostor" target="ishodište" weight="1.0" />
-      <edge id="531" source="prostor" target="kultura" weight="1.0" />
-      <edge id="532" source="prostor" target="lokacija" weight="1.0" />
-      <edge id="533" source="Naron" target="arheolog" weight="1.0" />
-      <edge id="534" source="Naron" target="pohvala" weight="1.0" />
-      <edge id="535" source="Naron" target="struka" weight="1.0" />
-      <edge id="536" source="Naron" target="muzealac" weight="1.0" />
-      <edge id="537" source="Naron" target="nagrada" weight="1.0" />
-      <edge id="538" source="Naron" target="arhitektura" weight="1.0" />
-      <edge id="539" source="Naron" target="radionica" weight="1.0" />
-      <edge id="540" source="Naron" target="vid" weight="1.0" />
-      <edge id="541" source="ploha" target="kretanje" weight="1.0" />
-      <edge id="542" source="ploha" target="padina" weight="1.0" />
-      <edge id="543" source="ploha" target="priroda" weight="1.0" />
-      <edge id="544" source="ploha" target="uklopljenost" weight="1.0" />
-      <edge id="545" source="ploha" target="osjećaj" weight="1.0" />
-      <edge id="546" source="dolina" target="Dunav" weight="1.0" />
-      <edge id="547" source="dolina" target="vrh" weight="1.0" />
-      <edge id="548" source="dolina" target="obala" weight="1.0" />
-      <edge id="549" source="dolina" target="Vučedol" weight="1.0" />
-      <edge id="550" source="uređenje" target="mjesto" weight="1.0" />
-      <edge id="551" source="uređenje" target="muzej" weight="1.0" />
-      <edge id="552" source="uređenje" target="park" weight="1.0" />
-      <edge id="553" source="istraživanje" target="park" weight="1.0" />
-      <edge id="554" source="istraživanje" target="Vučedol" weight="1.0" />
-      <edge id="555" source="istraživanje" target="mjesto" weight="1.0" />
-      <edge id="556" source="istraživanje" target="godina" weight="1.0" />
-      <edge id="557" source="istraživanje" target="uređenje" weight="1.0" />
-      <edge id="558" source="istraživanje" target="ideja" weight="1.0" />
-      <edge id="559" source="istraživanje" target="muzej" weight="1.0" />
-      <edge id="560" source="Goran" target="godina" weight="1.0" />
-      <edge id="561" source="Goran" target="nalazište" weight="1.0" />
-      <edge id="562" source="Goran" target="Josip" weight="1.0" />
-      <edge id="563" source="Goran" target="okruženje" weight="1.0" />
-      <edge id="564" source="Goran" target="zadatak" weight="1.0" />
-      <edge id="565" source="Goran" target="Vučedol" weight="1.0" />
-      <edge id="566" source="Goran" target="papir" weight="1.0" />
-      <edge id="567" source="Goran" target="Sabolić" weight="1.0" />
-      <edge id="568" source="Goran" target="Rako" weight="2.0" />
-      <edge id="569" source="Goran" target="arhitektura" weight="1.0" />
-      <edge id="570" source="Goran" target="muzej" weight="2.0" />
-      <edge id="571" source="Goran" target="strana" weight="1.0" />
-      <edge id="572" source="Goran" target="lokacija" weight="1.0" />
-      <edge id="573" source="Goran" target="Mario" weight="1.0" />
-      <edge id="574" source="obrada" target="interijer" weight="1.0" />
-      <edge id="575" source="obrada" target="obloga" weight="1.0" />
-      <edge id="576" source="obrada" target="zid" weight="1.0" />
-      <edge id="577" source="projekt" target="popis" weight="1.0" />
-      <edge id="578" source="projekt" target="posjetitelj" weight="1.0" />
-      <edge id="579" source="projekt" target="upravljanje" weight="2.0" />
-      <edge id="580" source="projekt" target="mogućnost" weight="2.0" />
-      <edge id="581" source="projekt" target="park" weight="2.0" />
-      <edge id="582" source="projekt" target="pogon" weight="1.0" />
-      <edge id="583" source="projekt" target="EU" weight="1.0" />
-      <edge id="584" source="projekt" target="slovo" weight="1.0" />
-      <edge id="585" source="projekt" target="projekat" weight="1.0" />
-      <edge id="586" source="projekt" target="sredstvo" weight="1.0" />
-      <edge id="587" source="projekt" target="desetka" weight="1.0" />
-      <edge id="588" source="projekt" target="muzej" weight="2.0" />
-      <edge id="589" source="projekt" target="razvoj" weight="2.0" />
-      <edge id="590" source="projekt" target="tisuća" weight="1.0" />
-      <edge id="591" source="projekt" target="strategija" weight="2.0" />
-      <edge id="592" source="projekt" target="analiza" weight="2.0" />
-      <edge id="593" source="projekt" target="godina" weight="2.0" />
-      <edge id="594" source="projekt" target="odgovor" weight="1.0" />
-      <edge id="595" source="projekt" target="fond" weight="2.0" />
-      <edge id="596" source="projekt" target="ministarstvo" weight="1.0" />
-      <edge id="597" source="projekt" target="trošak" weight="1.0" />
-      <edge id="598" source="projekt" target="kuna" weight="1.0" />
-      <edge id="599" source="projekt" target="zgrada" weight="1.0" />
-      <edge id="600" source="projekt" target="Vučedol" weight="1.0" />
-      <edge id="601" source="projekt" target="mjesto" weight="1.0" />
-      <edge id="602" source="projekt" target="cost" weight="2.0" />
-      <edge id="603" source="projekt" target="uređenje" weight="1.0" />
-      <edge id="604" source="projekt" target="istraživanje" weight="1.0" />
-      <edge id="605" source="projekt" target="ideja" weight="1.0" />
-      <edge id="606" source="projekt" target="resurs" weight="2.0" />
-      <edge id="607" source="zemlja" target="radionica" weight="1.0" />
-      <edge id="608" source="zemlja" target="lokalitet" weight="1.0" />
-      <edge id="609" source="zemlja" target="projektant" weight="1.0" />
-      <edge id="610" source="okoliš" target="Dunav" weight="1.0" />
-      <edge id="611" source="okoliš" target="krov" weight="1.0" />
-      <edge id="612" source="okoliš" target="šetnja" weight="1.0" />
-      <edge id="613" source="okoliš" target="vrh" weight="1.0" />
-      <edge id="614" source="okoliš" target="muzej" weight="1.0" />
-      <edge id="615" source="okoliš" target="ideja" weight="1.0" />
-      <edge id="616" source="okoliš" target="obala" weight="1.0" />
-      <edge id="617" source="okoliš" target="Vučedol" weight="1.0" />
-      <edge id="618" source="okoliš" target="dolina" weight="1.0" />
-      <edge id="619" source="okoliš" target="zgrada" weight="1.0" />
-      <edge id="620" source="središte" target="Dunav" weight="1.0" />
-      <edge id="621" source="središte" target="Vukovar" weight="1.0" />
-      <edge id="622" source="središte" target="obala" weight="1.0" />
-      <edge id="623" source="desetka" target="tisuća" weight="1.0" />
-      <edge id="624" source="desetka" target="park" weight="1.0" />
-      <edge id="625" source="desetka" target="Vučedol" weight="1.0" />
-      <edge id="626" source="desetka" target="mjesto" weight="1.0" />
-      <edge id="627" source="desetka" target="uređenje" weight="1.0" />
-      <edge id="628" source="desetka" target="godina" weight="1.0" />
-      <edge id="629" source="desetka" target="istraživanje" weight="1.0" />
-      <edge id="630" source="desetka" target="ideja" weight="1.0" />
-      <edge id="631" source="desetka" target="muzej" weight="1.0" />
-      <edge id="632" source="desetka" target="kuna" weight="1.0" />
-      <edge id="633" source="ostatak" target="strategija" weight="1.0" />
-      <edge id="634" source="ostatak" target="analiza" weight="1.0" />
-      <edge id="635" source="ostatak" target="mogućnost" weight="1.0" />
-      <edge id="636" source="ostatak" target="cost" weight="1.0" />
-      <edge id="637" source="ostatak" target="odgovor" weight="1.0" />
-      <edge id="638" source="ostatak" target="resurs" weight="1.0" />
-      <edge id="639" source="ostatak" target="upravljanje" weight="1.0" />
-      <edge id="640" source="ostatak" target="projekt" weight="2.0" />
-      <edge id="641" source="ostatak" target="muzej" weight="1.0" />
-      <edge id="642" source="ostatak" target="razvoj" weight="1.0" />
-      <edge id="643" source="ostatak" target="zgrada" weight="1.0" />
-      <edge id="644" source="interes" target="sadržaj" weight="1.0" />
-      <edge id="645" source="interes" target="potreba" weight="1.0" />
-      <edge id="646" source="interes" target="ovaj" weight="1.0" />
-      <edge id="647" source="interes" target="zajednica" weight="1.0" />
-      <edge id="648" source="interes" target="publika" weight="1.0" />
-      <edge id="649" source="interes" target="pitanje" weight="1.0" />
-      <edge id="650" source="interes" target="ponuda" weight="1.0" />
-      <edge id="651" source="interes" target="okruženje" weight="1.0" />
-      <edge id="652" source="bazen" target="rijeka" weight="1.0" />
-      <edge id="653" source="bazen" target="barka" weight="1.0" />
-      <edge id="654" source="obala" target="vrh" weight="1.0" />
-      <edge id="655" source="obala" target="Dunav" weight="2.0" />
-      <edge id="656" source="obala" target="Vučedol" weight="1.0" />
-      <edge id="657" source="restoran" target="bazen" weight="1.0" />
-      <edge id="658" source="restoran" target="rijeka" weight="1.0" />
-      <edge id="659" source="restoran" target="barka" weight="1.0" />
-      <edge id="660" source="rijeka" target="barka" weight="1.0" />
-      <edge id="661" source="uklapanje" target="forma" weight="1.0" />
-      <edge id="662" source="uklapanje" target="lokalitet" weight="1.0" />
-      <edge id="663" source="uklapanje" target="teren" weight="1.0" />
-      <edge id="664" source="uklapanje" target="zemlja" weight="1.0" />
-      <edge id="665" source="uklapanje" target="materijal" weight="2.0" />
-      <edge id="666" source="uklapanje" target="odabir" weight="1.0" />
-      <edge id="667" source="uklapanje" target="radionica" weight="1.0" />
-      <edge id="668" source="uklapanje" target="opeka" weight="1.0" />
-      <edge id="669" source="uklapanje" target="obloga" weight="1.0" />
-      <edge id="670" source="uklapanje" target="projektant" weight="1.0" />
-      <edge id="671" source="izrada" target="predmet" weight="1.0" />
-      <edge id="672" source="izrada" target="keramika" weight="1.0" />
-      <edge id="673" source="izrada" target="izletište" weight="1.0" />
-      <edge id="674" source="arheolog" target="Durman" weight="1.0" />
-      <edge id="675" source="arheolog" target="Aleksandar" weight="1.0" />
-      <edge id="676" source="arheolog" target="godina" weight="1.0" />
-      <edge id="677" source="odabir" target="opeka" weight="1.0" />
-      <edge id="678" source="odabir" target="zemlja" weight="1.0" />
-      <edge id="679" source="odabir" target="materijal" weight="2.0" />
-      <edge id="680" source="odabir" target="radionica" weight="1.0" />
-      <edge id="681" source="odabir" target="lokalitet" weight="1.0" />
-      <edge id="682" source="odabir" target="obloga" weight="1.0" />
-      <edge id="683" source="odabir" target="projektant" weight="1.0" />
-      <edge id="684" source="opeka" target="radionica" weight="1.0" />
-      <edge id="685" source="opeka" target="lokalitet" weight="1.0" />
-      <edge id="686" source="opeka" target="zemlja" weight="1.0" />
-      <edge id="687" source="opeka" target="materijal" weight="1.0" />
-      <edge id="688" source="opeka" target="projektant" weight="1.0" />
-      <edge id="689" source="rješenje" target="muzej" weight="1.0" />
-      <edge id="690" source="lov" target="predmet" weight="1.0" />
-      <edge id="691" source="lov" target="izrada" weight="1.0" />
-      <edge id="692" source="lov" target="keramika" weight="1.0" />
-      <edge id="693" source="lov" target="izletište" weight="1.0" />
-      <edge id="694" source="razvoj" target="resurs" weight="1.0" />
-      <edge id="695" source="razvoj" target="upravljanje" weight="1.0" />
-      <edge id="696" source="razvoj" target="mogućnost" weight="1.0" />
-      <edge id="697" source="priroda" target="kretanje" weight="1.0" />
-      <edge id="698" source="priroda" target="padina" weight="1.0" />
-      <edge id="699" source="priroda" target="uklopljenost" weight="1.0" />
-      <edge id="700" source="priroda" target="osjećaj" weight="1.0" />
-      <edge id="701" source="narudžba" target="rješenje" weight="1.0" />
-      <edge id="702" source="narudžba" target="struka" weight="1.0" />
-      <edge id="703" source="narudžba" target="provedba" weight="1.0" />
-      <edge id="704" source="narudžba" target="uspjeh" weight="1.0" />
-      <edge id="705" source="narudžba" target="vid" weight="1.0" />
-      <edge id="706" source="narudžba" target="natječaj" weight="1.0" />
-      <edge id="707" source="narudžba" target="pohvala" weight="1.0" />
-      <edge id="708" source="narudžba" target="Naron" weight="1.0" />
-      <edge id="709" source="narudžba" target="arheolog" weight="1.0" />
-      <edge id="710" source="narudžba" target="nagrada" weight="1.0" />
-      <edge id="711" source="narudžba" target="arhitektura" weight="1.0" />
-      <edge id="712" source="narudžba" target="radionica" weight="1.0" />
-      <edge id="713" source="narudžba" target="muzej" weight="2.0" />
-      <edge id="714" source="narudžba" target="muzealac" weight="1.0" />
-      <edge id="715" source="odgovor" target="strategija" weight="1.0" />
-      <edge id="716" source="odgovor" target="analiza" weight="1.0" />
-      <edge id="717" source="odgovor" target="mogućnost" weight="1.0" />
-      <edge id="718" source="odgovor" target="cost" weight="1.0" />
-      <edge id="719" source="odgovor" target="resurs" weight="1.0" />
-      <edge id="720" source="odgovor" target="upravljanje" weight="1.0" />
-      <edge id="721" source="odgovor" target="projekt" weight="1.0" />
-      <edge id="722" source="odgovor" target="muzej" weight="1.0" />
-      <edge id="723" source="odgovor" target="razvoj" weight="1.0" />
-      <edge id="724" source="odgovor" target="zgrada" weight="1.0" />
-      <edge id="725" source="milijun" target="kuna" weight="1.0" />
-      <edge id="726" source="troškovnik" target="milijun" weight="1.0" />
-      <edge id="727" source="troškovnik" target="kuna" weight="1.0" />
-      <edge id="728" source="trošak" target="tisuća" weight="1.0" />
-      <edge id="729" source="trošak" target="posjetitelj" weight="1.0" />
-      <edge id="730" source="trošak" target="desetka" weight="1.0" />
-      <edge id="731" source="trošak" target="park" weight="1.0" />
-      <edge id="732" source="trošak" target="godina" weight="1.0" />
-      <edge id="733" source="trošak" target="pogon" weight="1.0" />
-      <edge id="734" source="trošak" target="kuna" weight="1.0" />
-      <edge id="735" source="trošak" target="Vučedol" weight="1.0" />
-      <edge id="736" source="trošak" target="mjesto" weight="1.0" />
-      <edge id="737" source="trošak" target="uređenje" weight="1.0" />
-      <edge id="738" source="trošak" target="istraživanje" weight="1.0" />
-      <edge id="739" source="trošak" target="ideja" weight="1.0" />
-      <edge id="740" source="trošak" target="muzej" weight="1.0" />
-      <edge id="741" source="Vučedol" target="park" weight="1.0" />
-      <edge id="742" source="Vučedol" target="uređenje" weight="1.0" />
-      <edge id="743" source="Vučedol" target="godina" weight="2.0" />
-      <edge id="744" source="Vučedol" target="ideja" weight="1.0" />
-      <edge id="745" source="Vučedol" target="mjesto" weight="1.0" />
-      <edge id="746" source="Vučedol" target="kultura" weight="1.0" />
-      <edge id="747" source="Vučedol" target="okruženje" weight="2.0" />
-      <edge id="748" source="Vučedol" target="zadatak" weight="1.0" />
-      <edge id="749" source="Vučedol" target="nalazište" weight="1.0" />
-      <edge id="750" source="Vučedol" target="papir" weight="1.0" />
-      <edge id="751" source="Vučedol" target="ishodište" weight="1.0" />
-      <edge id="752" source="Vučedol" target="Goran" weight="1.0" />
-      <edge id="753" source="Vučedol" target="vrh" weight="1.0" />
-      <edge id="754" source="Vučedol" target="Rako" weight="1.0" />
-      <edge id="755" source="Vučedol" target="arhitektura" weight="2.0" />
-      <edge id="756" source="Vučedol" target="muzej" weight="5.0" />
-      <edge id="757" source="Vučedol" target="strana" weight="1.0" />
-      <edge id="758" source="Vučedol" target="lokacija" weight="2.0" />
-      <edge id="759" source="analiza" target="resurs" weight="1.0" />
-      <edge id="760" source="analiza" target="strategija" weight="1.0" />
-      <edge id="761" source="analiza" target="upravljanje" weight="1.0" />
-      <edge id="762" source="analiza" target="mogućnost" weight="1.0" />
-      <edge id="763" source="analiza" target="razvoj" weight="1.0" />
-      <edge id="764" source="Iva" target="Pejić" weight="1.0" />
-      <edge id="765" source="Iva" target="Sabolić" weight="1.0" />
-      <edge id="766" source="Iva" target="Rako" weight="1.0" />
-      <edge id="767" source="Iva" target="Goran" weight="1.0" />
-      <edge id="768" source="Iva" target="Josip" weight="1.0" />
-      <edge id="769" source="Iva" target="Mario" weight="1.0" />
-      <edge id="770" source="ideja" target="Dunav" weight="1.0" />
-      <edge id="771" source="ideja" target="mjesto" weight="1.0" />
-      <edge id="772" source="ideja" target="park" weight="1.0" />
-      <edge id="773" source="ideja" target="uređenje" weight="1.0" />
-      <edge id="774" source="ideja" target="vrh" weight="1.0" />
-      <edge id="775" source="ideja" target="muzej" weight="1.0" />
-      <edge id="776" source="ideja" target="obala" weight="1.0" />
-      <edge id="777" source="ideja" target="Vučedol" weight="1.0" />
-      <edge id="778" source="ideja" target="dolina" weight="1.0" />
-      <edge id="779" source="ideja" target="zgrada" weight="1.0" />
-      <edge id="780" source="korištenje" target="tehnologija" weight="1.0" />
-      <edge id="781" source="korištenje" target="posjetitelj" weight="1.0" />
-      <edge id="782" source="korištenje" target="resurs" weight="2.0" />
-      <edge id="783" source="korištenje" target="desetka" weight="1.0" />
-      <edge id="784" source="korištenje" target="park" weight="1.0" />
-      <edge id="785" source="korištenje" target="godina" weight="1.0" />
-      <edge id="786" source="korištenje" target="tisuća" weight="1.0" />
-      <edge id="787" source="korištenje" target="pogon" weight="1.0" />
-      <edge id="788" source="korištenje" target="slovo" weight="1.0" />
-      <edge id="789" source="korištenje" target="kuna" weight="1.0" />
-      <edge id="790" source="korištenje" target="trošak" weight="1.0" />
-      <edge id="791" source="korištenje" target="Vučedol" weight="1.0" />
-      <edge id="792" source="korištenje" target="mjesto" weight="1.0" />
-      <edge id="793" source="korištenje" target="uređenje" weight="1.0" />
-      <edge id="794" source="korištenje" target="istraživanje" weight="1.0" />
-      <edge id="795" source="korištenje" target="ideja" weight="1.0" />
-      <edge id="796" source="korištenje" target="projekt" weight="1.0" />
-      <edge id="797" source="korištenje" target="muzej" weight="2.0" />
-      <edge id="798" source="sredstvo" target="fond" weight="1.0" />
-      <edge id="799" source="podsjetnik" target="vrijeme" weight="1.0" />
-      <edge id="800" source="autor" target="arhitekt" weight="1.0" />
-      <edge id="801" source="autor" target="Pejić" weight="1.0" />
-      <edge id="802" source="autor" target="Josip" weight="1.0" />
-      <edge id="803" source="autor" target="Goran" weight="1.0" />
-      <edge id="804" source="autor" target="biro" weight="1.0" />
-      <edge id="805" source="autor" target="Sabolić" weight="1.0" />
-      <edge id="806" source="autor" target="Iva" weight="1.0" />
-      <edge id="807" source="autor" target="Rako" weight="1.0" />
-      <edge id="808" source="autor" target="arhitektura" weight="1.0" />
-      <edge id="809" source="autor" target="radionica" weight="1.0" />
-      <edge id="810" source="autor" target="muzej" weight="1.0" />
-      <edge id="811" source="autor" target="Mario" weight="1.0" />
-      <edge id="812" source="terasa" target="bazen" weight="1.0" />
-      <edge id="813" source="terasa" target="rijeka" weight="1.0" />
-      <edge id="814" source="terasa" target="barka" weight="1.0" />
-      <edge id="815" source="terasa" target="restoran" weight="1.0" />
-      <edge id="816" source="tehnologija" target="tisuća" weight="1.0" />
-      <edge id="817" source="tehnologija" target="posjetitelj" weight="1.0" />
-      <edge id="818" source="tehnologija" target="resurs" weight="1.0" />
-      <edge id="819" source="tehnologija" target="desetka" weight="1.0" />
-      <edge id="820" source="tehnologija" target="park" weight="1.0" />
-      <edge id="821" source="tehnologija" target="godina" weight="1.0" />
-      <edge id="822" source="tehnologija" target="pogon" weight="1.0" />
-      <edge id="823" source="tehnologija" target="trošak" weight="1.0" />
-      <edge id="824" source="tehnologija" target="kuna" weight="1.0" />
-      <edge id="825" source="tehnologija" target="slovo" weight="1.0" />
-      <edge id="826" source="tehnologija" target="Vučedol" weight="1.0" />
-      <edge id="827" source="tehnologija" target="mjesto" weight="1.0" />
-      <edge id="828" source="tehnologija" target="uređenje" weight="1.0" />
-      <edge id="829" source="tehnologija" target="istraživanje" weight="1.0" />
-      <edge id="830" source="tehnologija" target="ideja" weight="1.0" />
-      <edge id="831" source="tehnologija" target="projekt" weight="1.0" />
-      <edge id="832" source="tehnologija" target="muzej" weight="2.0" />
-      <edge id="833" source="tim" target="fond" weight="1.0" />
-      <edge id="834" source="tim" target="projekt" weight="1.0" />
-      <edge id="835" source="tim" target="ministarstvo" weight="1.0" />
-      <edge id="836" source="tim" target="EU" weight="1.0" />
-      <edge id="837" source="tim" target="park" weight="1.0" />
-      <edge id="838" source="upravljanje" target="resurs" weight="1.0" />
-      <edge id="839" source="upravljanje" target="mogućnost" weight="1.0" />
-      <edge id="840" source="vid" target="pohvala" weight="1.0" />
-      <edge id="841" source="vid" target="struka" weight="1.0" />
-      <edge id="842" source="vid" target="muzealac" weight="1.0" />
-      <edge id="843" source="vid" target="nagrada" weight="1.0" />
-      <edge id="844" source="vid" target="arhitektura" weight="1.0" />
-      <edge id="845" source="vid" target="radionica" weight="1.0" />
-      <edge id="846" source="vid" target="arheolog" weight="1.0" />
-      <edge id="847" source="kolekcija" target="golubica" weight="1.0" />
-      <edge id="848" source="kolekcija" target="predmet" weight="1.0" />
-      <edge id="849" source="potreba" target="sadržaj" weight="1.0" />
-      <edge id="850" source="potreba" target="ovaj" weight="1.0" />
-      <edge id="851" source="potreba" target="ponuda" weight="1.0" />
-      <edge id="852" source="potreba" target="publika" weight="1.0" />
-      <edge id="853" source="potreba" target="pitanje" weight="1.0" />
-      <edge id="854" source="potreba" target="okruženje" weight="1.0" />
-      <edge id="855" source="radionica" target="rješenje" weight="1.0" />
-      <edge id="856" source="radionica" target="struka" weight="1.0" />
-      <edge id="857" source="radionica" target="muzealac" weight="1.0" />
-      <edge id="858" source="radionica" target="narudžba" weight="1.0" />
-      <edge id="859" source="radionica" target="Josip" weight="1.0" />
-      <edge id="860" source="radionica" target="ministarstvo" weight="1.0" />
-      <edge id="861" source="radionica" target="Goran" weight="1.0" />
-      <edge id="862" source="radionica" target="Iva" weight="1.0" />
-      <edge id="863" source="radionica" target="pohvala" weight="1.0" />
-      <edge id="864" source="radionica" target="arheolog" weight="1.0" />
-      <edge id="865" source="radionica" target="Sabolić" weight="1.0" />
-      <edge id="866" source="radionica" target="kultura" weight="1.0" />
-      <edge id="867" source="radionica" target="nagrada" weight="1.0" />
-      <edge id="868" source="radionica" target="Rako" weight="1.0" />
-      <edge id="869" source="radionica" target="arhitektura" weight="3.0" />
-      <edge id="870" source="radionica" target="Mario" weight="1.0" />
-      <edge id="871" source="radionica" target="muzej" weight="1.0" />
-      <edge id="872" source="radionica" target="Pejić" weight="1.0" />
-      <edge id="873" source="kretanje" target="uklopljenost" weight="1.0" />
-      <edge id="874" source="kretanje" target="padina" weight="1.0" />
-      <edge id="875" source="padina" target="uklopljenost" weight="1.0" />
-      <edge id="876" source="Josip" target="Sabolić" weight="1.0" />
-      <edge id="877" source="Josip" target="Mario" weight="1.0" />
-      <edge id="878" source="EU" target="fond" weight="1.0" />
-      <edge id="879" source="EU" target="ministarstvo" weight="1.0" />
-      <edge id="880" source="okruženje" target="arhitektura" weight="1.0" />
-      <edge id="881" source="okruženje" target="pitanje" weight="1.0" />
-      <edge id="882" source="okruženje" target="ovaj" weight="1.0" />
-      <edge id="883" source="zadatak" target="nalazište" weight="1.0" />
-      <edge id="884" source="zadatak" target="okruženje" weight="1.0" />
-      <edge id="885" source="zadatak" target="arhitektura" weight="1.0" />
-      <edge id="886" source="zadatak" target="Vučedol" weight="1.0" />
-      <edge id="887" source="zadatak" target="muzej" weight="1.0" />
-      <edge id="888" source="zadatak" target="strana" weight="1.0" />
-      <edge id="889" source="zadatak" target="lokacija" weight="1.0" />
-      <edge id="890" source="arhitekt" target="Aleksandar" weight="1.0" />
-      <edge id="891" source="arhitekt" target="Pejić" weight="1.0" />
-      <edge id="892" source="arhitekt" target="godina" weight="1.0" />
-      <edge id="893" source="arhitekt" target="Josip" weight="1.0" />
-      <edge id="894" source="arhitekt" target="Goran" weight="1.0" />
-      <edge id="895" source="arhitekt" target="biro" weight="1.0" />
-      <edge id="896" source="arhitekt" target="arheolog" weight="1.0" />
-      <edge id="897" source="arhitekt" target="Sabolić" weight="1.0" />
-      <edge id="898" source="arhitekt" target="Iva" weight="1.0" />
-      <edge id="899" source="arhitekt" target="Rako" weight="1.0" />
-      <edge id="900" source="arhitekt" target="arhitektura" weight="1.0" />
-      <edge id="901" source="arhitekt" target="radionica" weight="1.0" />
-      <edge id="902" source="arhitekt" target="Durman" weight="1.0" />
-      <edge id="903" source="arhitekt" target="Mario" weight="1.0" />
-      <edge id="904" source="pročelje" target="ploha" weight="1.0" />
-      <edge id="905" source="pročelje" target="uklopljenost" weight="1.0" />
-      <edge id="906" source="pročelje" target="kretanje" weight="1.0" />
-      <edge id="907" source="pročelje" target="padina" weight="1.0" />
-      <edge id="908" source="pročelje" target="priroda" weight="1.0" />
-      <edge id="909" source="pročelje" target="osjećaj" weight="1.0" />
-      <edge id="910" source="krov" target="šetnja" weight="1.0" />
-      <edge id="911" source="krov" target="muzej" weight="1.0" />
-      <edge id="912" source="Sabolić" target="Mario" weight="1.0" />
-      <edge id="913" source="brijeg" target="pročelje" weight="1.0" />
-      <edge id="914" source="brijeg" target="ploha" weight="1.0" />
-      <edge id="915" source="brijeg" target="uklopljenost" weight="1.0" />
-      <edge id="916" source="brijeg" target="kretanje" weight="1.0" />
-      <edge id="917" source="brijeg" target="padina" weight="1.0" />
-      <edge id="918" source="brijeg" target="priroda" weight="1.0" />
-      <edge id="919" source="brijeg" target="osjećaj" weight="1.0" />
-      <edge id="920" source="provedba" target="struka" weight="1.0" />
-      <edge id="921" source="provedba" target="muzealac" weight="1.0" />
-      <edge id="922" source="provedba" target="uspjeh" weight="1.0" />
-      <edge id="923" source="provedba" target="vid" weight="1.0" />
-      <edge id="924" source="provedba" target="natječaj" weight="1.0" />
-      <edge id="925" source="provedba" target="pohvala" weight="1.0" />
-      <edge id="926" source="provedba" target="Naron" weight="1.0" />
-      <edge id="927" source="provedba" target="arheolog" weight="1.0" />
-      <edge id="928" source="provedba" target="nagrada" weight="1.0" />
-      <edge id="929" source="provedba" target="arhitektura" weight="1.0" />
-      <edge id="930" source="provedba" target="radionica" weight="1.0" />
-      <edge id="931" source="provedba" target="muzej" weight="1.0" />
-      <edge id="932" source="Pejić" target="Goran" weight="1.0" />
-      <edge id="933" source="Pejić" target="Mario" weight="1.0" />
-      <edge id="934" source="Pejić" target="Josip" weight="1.0" />
-      <edge id="935" source="Pejić" target="Sabolić" weight="1.0" />
-      <edge id="936" source="Pejić" target="Rako" weight="1.0" />
-      <edge id="937" source="strategija" target="resurs" weight="1.0" />
-      <edge id="938" source="strategija" target="upravljanje" weight="1.0" />
-      <edge id="939" source="strategija" target="mogućnost" weight="1.0" />
-      <edge id="940" source="strategija" target="razvoj" weight="1.0" />
-      <edge id="941" source="Aleksandar" target="Durman" weight="1.0" />
-      <edge id="942" source="Aleksandar" target="godina" weight="1.0" />
-      <edge id="943" source="tisuća" target="park" weight="1.0" />
-      <edge id="944" source="tisuća" target="Vučedol" weight="1.0" />
-      <edge id="945" source="tisuća" target="mjesto" weight="1.0" />
-      <edge id="946" source="tisuća" target="uređenje" weight="1.0" />
-      <edge id="947" source="tisuća" target="godina" weight="1.0" />
-      <edge id="948" source="tisuća" target="istraživanje" weight="1.0" />
-      <edge id="949" source="tisuća" target="ideja" weight="1.0" />
-      <edge id="950" source="tisuća" target="muzej" weight="1.0" />
-      <edge id="951" source="tisuća" target="kuna" weight="1.0" />
-      <edge id="952" source="obzir" target="strategija" weight="1.0" />
-      <edge id="953" source="obzir" target="ostatak" weight="1.0" />
-      <edge id="954" source="obzir" target="mogućnost" weight="1.0" />
-      <edge id="955" source="obzir" target="odgovor" weight="1.0" />
-      <edge id="956" source="obzir" target="projekt" weight="2.0" />
-      <edge id="957" source="obzir" target="analiza" weight="1.0" />
-      <edge id="958" source="obzir" target="zgrada" weight="1.0" />
-      <edge id="959" source="obzir" target="upravljanje" weight="1.0" />
-      <edge id="960" source="obzir" target="cost" weight="1.0" />
-      <edge id="961" source="obzir" target="resurs" weight="1.0" />
-      <edge id="962" source="obzir" target="muzej" weight="1.0" />
-      <edge id="963" source="obzir" target="razvoj" weight="1.0" />
-      <edge id="964" source="zajednica" target="sadržaj" weight="1.0" />
-      <edge id="965" source="zajednica" target="potreba" weight="1.0" />
-      <edge id="966" source="zajednica" target="ovaj" weight="1.0" />
-      <edge id="967" source="zajednica" target="ponuda" weight="1.0" />
-      <edge id="968" source="zajednica" target="publika" weight="1.0" />
-      <edge id="969" source="zajednica" target="pitanje" weight="1.0" />
-      <edge id="970" source="zajednica" target="okruženje" weight="1.0" />
-      <edge id="971" source="učinkovitost" target="tehnologija" weight="1.0" />
-      <edge id="972" source="učinkovitost" target="posjetitelj" weight="1.0" />
-      <edge id="973" source="učinkovitost" target="projekt" weight="1.0" />
-      <edge id="974" source="učinkovitost" target="desetka" weight="1.0" />
-      <edge id="975" source="učinkovitost" target="park" weight="1.0" />
-      <edge id="976" source="učinkovitost" target="godina" weight="1.0" />
-      <edge id="977" source="učinkovitost" target="tisuća" weight="1.0" />
-      <edge id="978" source="učinkovitost" target="pogon" weight="1.0" />
-      <edge id="979" source="učinkovitost" target="slovo" weight="1.0" />
-      <edge id="980" source="učinkovitost" target="kuna" weight="1.0" />
-      <edge id="981" source="učinkovitost" target="trošak" weight="1.0" />
-      <edge id="982" source="učinkovitost" target="Vučedol" weight="1.0" />
-      <edge id="983" source="učinkovitost" target="mjesto" weight="1.0" />
-      <edge id="984" source="učinkovitost" target="uređenje" weight="1.0" />
-      <edge id="985" source="učinkovitost" target="istraživanje" weight="1.0" />
-      <edge id="986" source="učinkovitost" target="ideja" weight="1.0" />
-      <edge id="987" source="učinkovitost" target="resurs" weight="2.0" />
-      <edge id="988" source="učinkovitost" target="muzej" weight="2.0" />
-      <edge id="989" source="učinkovitost" target="korištenje" weight="1.0" />
-      <edge id="990" source="lokalitet" target="radionica" weight="1.0" />
-      <edge id="991" source="lokalitet" target="projektant" weight="1.0" />
-      <edge id="992" source="kuna" target="park" weight="1.0" />
-      <edge id="993" source="kuna" target="Vučedol" weight="1.0" />
-      <edge id="994" source="kuna" target="mjesto" weight="1.0" />
-      <edge id="995" source="kuna" target="godina" weight="1.0" />
-      <edge id="996" source="kuna" target="uređenje" weight="1.0" />
-      <edge id="997" source="kuna" target="istraživanje" weight="1.0" />
-      <edge id="998" source="kuna" target="ideja" weight="1.0" />
-      <edge id="999" source="kuna" target="muzej" weight="1.0" />
-      <edge id="1000" source="zgrada" target="strategija" weight="1.0" />
-      <edge id="1001" source="zgrada" target="Dunav" weight="1.0" />
-      <edge id="1002" source="zgrada" target="mogućnost" weight="1.0" />
-      <edge id="1003" source="zgrada" target="šetnica" weight="1.0" />
-      <edge id="1004" source="zgrada" target="upravljanje" weight="1.0" />
-      <edge id="1005" source="zgrada" target="obala" weight="1.0" />
-      <edge id="1006" source="zgrada" target="projekt" weight="1.0" />
-      <edge id="1007" source="zgrada" target="analiza" weight="1.0" />
-      <edge id="1008" source="zgrada" target="cost" weight="1.0" />
-      <edge id="1009" source="zgrada" target="vrh" weight="1.0" />
-      <edge id="1010" source="zgrada" target="resurs" weight="1.0" />
-      <edge id="1011" source="zgrada" target="Vučedol" weight="1.0" />
-      <edge id="1012" source="zgrada" target="muzej" weight="1.0" />
-      <edge id="1013" source="zgrada" target="dolina" weight="1.0" />
-      <edge id="1014" source="zgrada" target="razvoj" weight="1.0" />
-      <edge id="1015" source="račun" target="golubica" weight="1.0" />
-      <edge id="1016" source="račun" target="postav" weight="1.0" />
-      <edge id="1017" source="račun" target="kolekcija" weight="1.0" />
-      <edge id="1018" source="račun" target="predmet" weight="1.0" />
-      <edge id="1019" source="račun" target="muzej" weight="1.0" />
-      <edge id="1020" source="račun" target="priča" weight="1.0" />
-      <edge id="1021" source="standard" target="prostor" weight="1.0" />
-      <edge id="1022" source="standard" target="kolica" weight="1.0" />
-      <edge id="1023" source="standard" target="posjetitelj" weight="1.0" />
-      <edge id="1024" source="standard" target="čovjek" weight="1.0" />
-      <edge id="1025" source="standard" target="postav" weight="1.0" />
-      <edge id="1026" source="standard" target="ishodište" weight="1.0" />
-      <edge id="1027" source="standard" target="kultura" weight="1.0" />
-      <edge id="1028" source="standard" target="Vučedol" weight="1.0" />
-      <edge id="1029" source="standard" target="lokacija" weight="1.0" />
-      <edge id="1030" source="ovaj" target="pitanje" weight="1.0" />
-      <edge id="1031" source="projektant" target="radionica" weight="1.0" />
-      <edge id="1032" source="stočarstvo" target="predmet" weight="1.0" />
-      <edge id="1033" source="stočarstvo" target="lov" weight="1.0" />
-      <edge id="1034" source="stočarstvo" target="izrada" weight="1.0" />
-      <edge id="1035" source="stočarstvo" target="keramika" weight="1.0" />
-      <edge id="1036" source="stočarstvo" target="izletište" weight="1.0" />
-      <edge id="1037" source="stanovnik" target="lov" weight="1.0" />
-      <edge id="1038" source="stanovnik" target="izrada" weight="1.0" />
-      <edge id="1039" source="stanovnik" target="stočarstvo" weight="1.0" />
-      <edge id="1040" source="stanovnik" target="keramika" weight="1.0" />
-      <edge id="1041" source="stanovnik" target="predmet" weight="1.0" />
-      <edge id="1042" source="stanovnik" target="izletište" weight="1.0" />
-      <edge id="1043" source="realizacija" target="projekt" weight="1.0" />
+      <edge id="510" source="priča" target="predmet" weight="1.0" />
+      <edge id="511" source="priča" target="kolekcija" weight="1.0" />
+      <edge id="512" source="priča" target="golubica" weight="1.0" />
+      <edge id="513" source="pročelje" target="padina" weight="1.0" />
+      <edge id="514" source="pročelje" target="uklopljenost" weight="1.0" />
+      <edge id="515" source="pročelje" target="osjećaj" weight="1.0" />
+      <edge id="516" source="pročelje" target="ploha" weight="1.0" />
+      <edge id="517" source="pročelje" target="priroda" weight="1.0" />
+      <edge id="518" source="pročelje" target="kretanje" weight="1.0" />
+      <edge id="519" source="ponuda" target="ovaj" weight="1.0" />
+      <edge id="520" source="ponuda" target="okruženje" weight="1.0" />
+      <edge id="521" source="ponuda" target="pitanje" weight="1.0" />
+      <edge id="522" source="ponuda" target="sadržaj" weight="1.0" />
+      <edge id="523" source="bazen" target="barka" weight="1.0" />
+      <edge id="524" source="bazen" target="rijeka" weight="1.0" />
+      <edge id="525" source="projektiranje" target="priča" weight="1.0" />
+      <edge id="526" source="projektiranje" target="račun" weight="1.0" />
+      <edge id="527" source="projektiranje" target="muzej" weight="1.0" />
+      <edge id="528" source="projektiranje" target="golubica" weight="1.0" />
+      <edge id="529" source="projektiranje" target="predmet" weight="1.0" />
+      <edge id="530" source="projektiranje" target="kolekcija" weight="1.0" />
+      <edge id="531" source="projektiranje" target="postav" weight="1.0" />
+      <edge id="532" source="Sabolić" target="Mario" weight="1.0" />
+      <edge id="533" source="fotografija" target="Boris" weight="1.0" />
+      <edge id="534" source="priroda" target="uklopljenost" weight="1.0" />
+      <edge id="535" source="priroda" target="osjećaj" weight="1.0" />
+      <edge id="536" source="priroda" target="padina" weight="1.0" />
+      <edge id="537" source="priroda" target="kretanje" weight="1.0" />
+      <edge id="538" source="Vučedol" target="godina" weight="2.0" />
+      <edge id="539" source="Vučedol" target="arhitektura" weight="2.0" />
+      <edge id="540" source="Vučedol" target="zadatak" weight="1.0" />
+      <edge id="541" source="Vučedol" target="park" weight="1.0" />
+      <edge id="542" source="Vučedol" target="kultura" weight="1.0" />
+      <edge id="543" source="Vučedol" target="vrh" weight="1.0" />
+      <edge id="544" source="Vučedol" target="papir" weight="1.0" />
+      <edge id="545" source="Vučedol" target="nalazište" weight="1.0" />
+      <edge id="546" source="Vučedol" target="Goran" weight="1.0" />
+      <edge id="547" source="Vučedol" target="uređenje" weight="1.0" />
+      <edge id="548" source="Vučedol" target="muzej" weight="5.0" />
+      <edge id="549" source="Vučedol" target="Rako" weight="1.0" />
+      <edge id="550" source="Vučedol" target="mjesto" weight="1.0" />
+      <edge id="551" source="Vučedol" target="ishodište" weight="1.0" />
+      <edge id="552" source="Vučedol" target="okruženje" weight="2.0" />
+      <edge id="553" source="Vučedol" target="strana" weight="1.0" />
+      <edge id="554" source="Vučedol" target="ideja" weight="1.0" />
+      <edge id="555" source="Vučedol" target="lokacija" weight="2.0" />
+      <edge id="556" source="realizacija" target="projekt" weight="1.0" />
+      <edge id="557" source="projekt" target="sredstvo" weight="1.0" />
+      <edge id="558" source="projekt" target="cost" weight="2.0" />
+      <edge id="559" source="projekt" target="odgovor" weight="1.0" />
+      <edge id="560" source="projekt" target="park" weight="2.0" />
+      <edge id="561" source="projekt" target="strategija" weight="2.0" />
+      <edge id="562" source="projekt" target="upravljanje" weight="2.0" />
+      <edge id="563" source="projekt" target="pogon" weight="1.0" />
+      <edge id="564" source="projekt" target="slovo" weight="1.0" />
+      <edge id="565" source="projekt" target="tisuća" weight="1.0" />
+      <edge id="566" source="projekt" target="desetka" weight="1.0" />
+      <edge id="567" source="projekt" target="zgrada" weight="1.0" />
+      <edge id="568" source="projekt" target="muzej" weight="2.0" />
+      <edge id="569" source="projekt" target="popis" weight="1.0" />
+      <edge id="570" source="projekt" target="projekat" weight="1.0" />
+      <edge id="571" source="projekt" target="resurs" weight="2.0" />
+      <edge id="572" source="projekt" target="EU" weight="1.0" />
+      <edge id="573" source="projekt" target="godina" weight="2.0" />
+      <edge id="574" source="projekt" target="fond" weight="2.0" />
+      <edge id="575" source="projekt" target="posjetitelj" weight="1.0" />
+      <edge id="576" source="projekt" target="razvoj" weight="2.0" />
+      <edge id="577" source="projekt" target="ideja" weight="1.0" />
+      <edge id="578" source="projekt" target="mogućnost" weight="2.0" />
+      <edge id="579" source="projekt" target="istraživanje" weight="1.0" />
+      <edge id="580" source="projekt" target="uređenje" weight="1.0" />
+      <edge id="581" source="projekt" target="mjesto" weight="1.0" />
+      <edge id="582" source="projekt" target="kuna" weight="1.0" />
+      <edge id="583" source="projekt" target="Vučedol" weight="1.0" />
+      <edge id="584" source="projekt" target="ministarstvo" weight="1.0" />
+      <edge id="585" source="projekt" target="analiza" weight="2.0" />
+      <edge id="586" source="projekt" target="trošak" weight="1.0" />
+      <edge id="587" source="EU" target="ministarstvo" weight="1.0" />
+      <edge id="588" source="EU" target="fond" weight="1.0" />
+      <edge id="589" source="osobina" target="izložak" weight="1.0" />
+      <edge id="590" source="obzir" target="projekt" weight="2.0" />
+      <edge id="591" source="obzir" target="cost" weight="1.0" />
+      <edge id="592" source="obzir" target="odgovor" weight="1.0" />
+      <edge id="593" source="obzir" target="ostatak" weight="1.0" />
+      <edge id="594" source="obzir" target="upravljanje" weight="1.0" />
+      <edge id="595" source="obzir" target="mogućnost" weight="1.0" />
+      <edge id="596" source="obzir" target="strategija" weight="1.0" />
+      <edge id="597" source="obzir" target="zgrada" weight="1.0" />
+      <edge id="598" source="obzir" target="muzej" weight="1.0" />
+      <edge id="599" source="obzir" target="resurs" weight="1.0" />
+      <edge id="600" source="obzir" target="razvoj" weight="1.0" />
+      <edge id="601" source="obzir" target="analiza" weight="1.0" />
+      <edge id="602" source="zamisao" target="rata" weight="1.0" />
+      <edge id="603" source="zamisao" target="godina" weight="1.0" />
+      <edge id="604" source="zamisao" target="razminiravanje" weight="1.0" />
+      <edge id="605" source="forma" target="materijal" weight="2.0" />
+      <edge id="606" source="forma" target="obloga" weight="1.0" />
+      <edge id="607" source="forma" target="odabir" weight="1.0" />
+      <edge id="608" source="forma" target="opeka" weight="1.0" />
+      <edge id="609" source="forma" target="projektant" weight="1.0" />
+      <edge id="610" source="forma" target="zemlja" weight="1.0" />
+      <edge id="611" source="forma" target="lokalitet" weight="1.0" />
+      <edge id="612" source="forma" target="radionica" weight="1.0" />
+      <edge id="613" source="analiza" target="resurs" weight="1.0" />
+      <edge id="614" source="analiza" target="upravljanje" weight="1.0" />
+      <edge id="615" source="analiza" target="mogućnost" weight="1.0" />
+      <edge id="616" source="analiza" target="razvoj" weight="1.0" />
+      <edge id="617" source="analiza" target="strategija" weight="1.0" />
+      <edge id="618" source="projekat" target="godina" weight="1.0" />
+      <edge id="619" source="projekat" target="sredstvo" weight="1.0" />
+      <edge id="620" source="projekat" target="fond" weight="1.0" />
+      <edge id="621" source="brijeg" target="pročelje" weight="1.0" />
+      <edge id="622" source="brijeg" target="uklopljenost" weight="1.0" />
+      <edge id="623" source="brijeg" target="osjećaj" weight="1.0" />
+      <edge id="624" source="brijeg" target="ploha" weight="1.0" />
+      <edge id="625" source="brijeg" target="padina" weight="1.0" />
+      <edge id="626" source="brijeg" target="priroda" weight="1.0" />
+      <edge id="627" source="brijeg" target="kretanje" weight="1.0" />
+      <edge id="628" source="čovjek" target="kolica" weight="1.0" />
+      <edge id="629" source="čovjek" target="lokacija" weight="1.0" />
+      <edge id="630" source="čovjek" target="posjetitelj" weight="1.0" />
+      <edge id="631" source="čovjek" target="kultura" weight="1.0" />
+      <edge id="632" source="čovjek" target="ishodište" weight="1.0" />
+      <edge id="633" source="čovjek" target="prostor" weight="1.0" />
+      <edge id="634" source="čovjek" target="Vučedol" weight="1.0" />
+      <edge id="635" source="čovjek" target="postav" weight="1.0" />
+      <edge id="636" source="muzej" target="projekt" weight="5.0" />
+      <edge id="637" source="muzej" target="cost" weight="2.0" />
+      <edge id="638" source="muzej" target="obzir" weight="1.0" />
+      <edge id="639" source="muzej" target="golubica" weight="1.0" />
+      <edge id="640" source="muzej" target="upravljanje" weight="2.0" />
+      <edge id="641" source="muzej" target="pogon" weight="1.0" />
+      <edge id="642" source="muzej" target="fond" weight="1.0" />
+      <edge id="643" source="muzej" target="kolekcija" weight="1.0" />
+      <edge id="644" source="muzej" target="analiza" weight="2.0" />
+      <edge id="645" source="muzej" target="kretanje" weight="1.0" />
+      <edge id="646" source="muzej" target="brijeg" weight="1.0" />
+      <edge id="647" source="muzej" target="padina" weight="1.0" />
+      <edge id="648" source="muzej" target="lokacija" weight="2.0" />
+      <edge id="649" source="muzej" target="Rako" weight="3.0" />
+      <edge id="650" source="muzej" target="Naron" weight="1.0" />
+      <edge id="651" source="muzej" target="pitanje" weight="2.0" />
+      <edge id="652" source="muzej" target="Sabolić" weight="1.0" />
+      <edge id="653" source="muzej" target="Pejić" weight="1.0" />
+      <edge id="654" source="muzej" target="arhitekt" weight="1.0" />
+      <edge id="655" source="muzej" target="okoliš" weight="1.0" />
+      <edge id="656" source="muzej" target="nagrada" weight="1.0" />
+      <edge id="657" source="muzej" target="odgovor" weight="1.0" />
+      <edge id="658" source="muzej" target="godina" weight="2.0" />
+      <edge id="659" source="muzej" target="resurs" weight="2.0" />
+      <edge id="660" source="muzej" target="krov" weight="1.0" />
+      <edge id="661" source="muzej" target="posjetitelj" weight="3.0" />
+      <edge id="662" source="muzej" target="pohvala" weight="1.0" />
+      <edge id="663" source="muzej" target="ostatak" weight="1.0" />
+      <edge id="664" source="muzej" target="mogućnost" weight="2.0" />
+      <edge id="665" source="muzej" target="istraživanje" weight="1.0" />
+      <edge id="666" source="muzej" target="uređenje" weight="1.0" />
+      <edge id="667" source="muzej" target="nalazište" weight="1.0" />
+      <edge id="668" source="muzej" target="Goran" weight="1.0" />
+      <edge id="669" source="muzej" target="ovaj" weight="2.0" />
+      <edge id="670" source="muzej" target="muzealac" weight="1.0" />
+      <edge id="671" source="muzej" target="arheolog" weight="1.0" />
+      <edge id="672" source="muzej" target="sadržaj" weight="2.0" />
+      <edge id="673" source="muzej" target="okruženje" weight="4.0" />
+      <edge id="674" source="muzej" target="kuna" weight="1.0" />
+      <edge id="675" source="muzej" target="ideja" weight="1.0" />
+      <edge id="676" source="muzej" target="predmet" weight="1.0" />
+      <edge id="677" source="muzej" target="arhitektura" weight="6.0" />
+      <edge id="678" source="muzej" target="Josip" weight="1.0" />
+      <edge id="679" source="muzej" target="park" weight="2.0" />
+      <edge id="680" source="muzej" target="strategija" weight="2.0" />
+      <edge id="681" source="muzej" target="publika" weight="2.0" />
+      <edge id="682" source="muzej" target="osjećaj" weight="1.0" />
+      <edge id="683" source="muzej" target="Iva" weight="1.0" />
+      <edge id="684" source="muzej" target="oblik" weight="1.0" />
+      <edge id="685" source="muzej" target="zajednica" weight="2.0" />
+      <edge id="686" source="muzej" target="tisuća" weight="1.0" />
+      <edge id="687" source="muzej" target="ponuda" weight="2.0" />
+      <edge id="688" source="muzej" target="Mario" weight="1.0" />
+      <edge id="689" source="muzej" target="trošak" weight="1.0" />
+      <edge id="690" source="muzej" target="biro" weight="1.0" />
+      <edge id="691" source="muzej" target="popis" weight="1.0" />
+      <edge id="692" source="muzej" target="interes" weight="2.0" />
+      <edge id="693" source="muzej" target="projekat" weight="1.0" />
+      <edge id="694" source="muzej" target="potreba" weight="2.0" />
+      <edge id="695" source="muzej" target="slovo" weight="1.0" />
+      <edge id="696" source="muzej" target="sredstvo" weight="1.0" />
+      <edge id="697" source="muzej" target="desetka" weight="1.0" />
+      <edge id="698" source="muzej" target="vid" weight="1.0" />
+      <edge id="699" source="muzej" target="uklopljenost" weight="1.0" />
+      <edge id="700" source="muzej" target="zadatak" weight="1.0" />
+      <edge id="701" source="muzej" target="šetnica" weight="1.0" />
+      <edge id="702" source="muzej" target="zgrada" weight="2.0" />
+      <edge id="703" source="muzej" target="struka" weight="1.0" />
+      <edge id="704" source="muzej" target="razvoj" weight="2.0" />
+      <edge id="705" source="muzej" target="šetnja" weight="2.0" />
+      <edge id="706" source="muzej" target="papir" weight="1.0" />
+      <edge id="707" source="muzej" target="radionica" weight="2.0" />
+      <edge id="708" source="muzej" target="priča" weight="1.0" />
+      <edge id="709" source="muzej" target="pročelje" weight="1.0" />
+      <edge id="710" source="muzej" target="strana" weight="1.0" />
+      <edge id="711" source="muzej" target="ploha" weight="1.0" />
+      <edge id="712" source="muzej" target="mjesto" weight="2.0" />
+      <edge id="713" source="muzej" target="kultura" weight="2.0" />
+      <edge id="714" source="muzej" target="priroda" weight="1.0" />
+      <edge id="715" source="muzej" target="Vučedol" weight="2.0" />
+      <edge id="716" source="sadržaj" target="ovaj" weight="1.0" />
+      <edge id="717" source="sadržaj" target="okruženje" weight="1.0" />
+      <edge id="718" source="sadržaj" target="pitanje" weight="1.0" />
+      <edge id="719" source="Naron" target="arhitektura" weight="1.0" />
+      <edge id="720" source="Naron" target="vid" weight="1.0" />
+      <edge id="721" source="Naron" target="muzealac" weight="1.0" />
+      <edge id="722" source="Naron" target="radionica" weight="1.0" />
+      <edge id="723" source="Naron" target="pohvala" weight="1.0" />
+      <edge id="724" source="Naron" target="struka" weight="1.0" />
+      <edge id="725" source="Naron" target="nagrada" weight="1.0" />
+      <edge id="726" source="Naron" target="arheolog" weight="1.0" />
+      <edge id="727" source="uspjeh" target="arhitektura" weight="1.0" />
+      <edge id="728" source="uspjeh" target="vid" weight="1.0" />
+      <edge id="729" source="uspjeh" target="muzealac" weight="1.0" />
+      <edge id="730" source="uspjeh" target="muzej" weight="1.0" />
+      <edge id="731" source="uspjeh" target="nagrada" weight="1.0" />
+      <edge id="732" source="uspjeh" target="Naron" weight="1.0" />
+      <edge id="733" source="uspjeh" target="arheolog" weight="1.0" />
+      <edge id="734" source="uspjeh" target="struka" weight="1.0" />
+      <edge id="735" source="uspjeh" target="radionica" weight="1.0" />
+      <edge id="736" source="uspjeh" target="pohvala" weight="1.0" />
+      <edge id="737" source="arhitekt" target="arhitektura" weight="1.0" />
+      <edge id="738" source="arhitekt" target="godina" weight="1.0" />
+      <edge id="739" source="arhitekt" target="Josip" weight="1.0" />
+      <edge id="740" source="arhitekt" target="biro" weight="1.0" />
+      <edge id="741" source="arhitekt" target="Iva" weight="1.0" />
+      <edge id="742" source="arhitekt" target="Aleksandar" weight="1.0" />
+      <edge id="743" source="arhitekt" target="radionica" weight="1.0" />
+      <edge id="744" source="arhitekt" target="Mario" weight="1.0" />
+      <edge id="745" source="arhitekt" target="Durman" weight="1.0" />
+      <edge id="746" source="arhitekt" target="arheolog" weight="1.0" />
+      <edge id="747" source="arhitekt" target="Rako" weight="1.0" />
+      <edge id="748" source="arhitekt" target="Sabolić" weight="1.0" />
+      <edge id="749" source="arhitekt" target="Pejić" weight="1.0" />
+      <edge id="750" source="arhitekt" target="Goran" weight="1.0" />
+      <edge id="751" source="kontejner" target="osobina" weight="1.0" />
+      <edge id="752" source="kontejner" target="izložak" weight="1.0" />
+      <edge id="753" source="natječaj" target="arhitektura" weight="1.0" />
+      <edge id="754" source="natječaj" target="vid" weight="1.0" />
+      <edge id="755" source="natječaj" target="muzealac" weight="1.0" />
+      <edge id="756" source="natječaj" target="uspjeh" weight="1.0" />
+      <edge id="757" source="natječaj" target="muzej" weight="1.0" />
+      <edge id="758" source="natječaj" target="nagrada" weight="1.0" />
+      <edge id="759" source="natječaj" target="Naron" weight="1.0" />
+      <edge id="760" source="natječaj" target="arheolog" weight="1.0" />
+      <edge id="761" source="natječaj" target="struka" weight="1.0" />
+      <edge id="762" source="natječaj" target="radionica" weight="1.0" />
+      <edge id="763" source="natječaj" target="pohvala" weight="1.0" />
+      <edge id="764" source="nagrada" target="struka" weight="1.0" />
+      <edge id="765" source="nagrada" target="muzealac" weight="1.0" />
+      <edge id="766" source="nagrada" target="arheolog" weight="1.0" />
+      <edge id="767" source="nagrada" target="pohvala" weight="1.0" />
+      <edge id="768" source="uklapanje" target="teren" weight="1.0" />
+      <edge id="769" source="uklapanje" target="materijal" weight="2.0" />
+      <edge id="770" source="uklapanje" target="obloga" weight="1.0" />
+      <edge id="771" source="uklapanje" target="opeka" weight="1.0" />
+      <edge id="772" source="uklapanje" target="projektant" weight="1.0" />
+      <edge id="773" source="uklapanje" target="odabir" weight="1.0" />
+      <edge id="774" source="uklapanje" target="forma" weight="1.0" />
+      <edge id="775" source="uklapanje" target="lokalitet" weight="1.0" />
+      <edge id="776" source="uklapanje" target="zemlja" weight="1.0" />
+      <edge id="777" source="uklapanje" target="radionica" weight="1.0" />
+      <edge id="778" source="krov" target="šetnja" weight="1.0" />
+      <edge id="779" source="krov" target="muzej" weight="1.0" />
+      <edge id="780" source="pohvala" target="muzealac" weight="1.0" />
+      <edge id="781" source="pohvala" target="arheolog" weight="1.0" />
+      <edge id="782" source="ostatak" target="projekt" weight="2.0" />
+      <edge id="783" source="ostatak" target="zgrada" weight="1.0" />
+      <edge id="784" source="ostatak" target="cost" weight="1.0" />
+      <edge id="785" source="ostatak" target="odgovor" weight="1.0" />
+      <edge id="786" source="ostatak" target="strategija" weight="1.0" />
+      <edge id="787" source="ostatak" target="resurs" weight="1.0" />
+      <edge id="788" source="ostatak" target="upravljanje" weight="1.0" />
+      <edge id="789" source="ostatak" target="mogućnost" weight="1.0" />
+      <edge id="790" source="ostatak" target="razvoj" weight="1.0" />
+      <edge id="791" source="ostatak" target="analiza" weight="1.0" />
+      <edge id="792" source="ostatak" target="muzej" weight="1.0" />
+      <edge id="793" source="strategija" target="upravljanje" weight="1.0" />
+      <edge id="794" source="strategija" target="mogućnost" weight="1.0" />
+      <edge id="795" source="strategija" target="resurs" weight="1.0" />
+      <edge id="796" source="strategija" target="razvoj" weight="1.0" />
+      <edge id="797" source="korištenje" target="projekt" weight="1.0" />
+      <edge id="798" source="korištenje" target="godina" weight="1.0" />
+      <edge id="799" source="korištenje" target="tehnologija" weight="1.0" />
+      <edge id="800" source="korištenje" target="mjesto" weight="1.0" />
+      <edge id="801" source="korištenje" target="park" weight="1.0" />
+      <edge id="802" source="korištenje" target="posjetitelj" weight="1.0" />
+      <edge id="803" source="korištenje" target="istraživanje" weight="1.0" />
+      <edge id="804" source="korištenje" target="pogon" weight="1.0" />
+      <edge id="805" source="korištenje" target="slovo" weight="1.0" />
+      <edge id="806" source="korištenje" target="uređenje" weight="1.0" />
+      <edge id="807" source="korištenje" target="tisuća" weight="1.0" />
+      <edge id="808" source="korištenje" target="desetka" weight="1.0" />
+      <edge id="809" source="korištenje" target="muzej" weight="2.0" />
+      <edge id="810" source="korištenje" target="resurs" weight="2.0" />
+      <edge id="811" source="korištenje" target="ideja" weight="1.0" />
+      <edge id="812" source="korištenje" target="kuna" weight="1.0" />
+      <edge id="813" source="korištenje" target="Vučedol" weight="1.0" />
+      <edge id="814" source="korištenje" target="trošak" weight="1.0" />
+      <edge id="815" source="uređenje" target="mjesto" weight="1.0" />
+      <edge id="816" source="uređenje" target="muzej" weight="1.0" />
+      <edge id="817" source="uređenje" target="park" weight="1.0" />
+      <edge id="818" source="radionica" target="arhitektura" weight="3.0" />
+      <edge id="819" source="radionica" target="ministarstvo" weight="1.0" />
+      <edge id="820" source="radionica" target="Josip" weight="1.0" />
+      <edge id="821" source="radionica" target="pohvala" weight="1.0" />
+      <edge id="822" source="radionica" target="kultura" weight="1.0" />
+      <edge id="823" source="radionica" target="arheolog" weight="1.0" />
+      <edge id="824" source="radionica" target="Iva" weight="1.0" />
+      <edge id="825" source="radionica" target="rješenje" weight="1.0" />
+      <edge id="826" source="radionica" target="Mario" weight="1.0" />
+      <edge id="827" source="radionica" target="muzej" weight="1.0" />
+      <edge id="828" source="radionica" target="Rako" weight="1.0" />
+      <edge id="829" source="radionica" target="narudžba" weight="1.0" />
+      <edge id="830" source="radionica" target="Sabolić" weight="1.0" />
+      <edge id="831" source="radionica" target="Pejić" weight="1.0" />
+      <edge id="832" source="radionica" target="muzealac" weight="1.0" />
+      <edge id="833" source="radionica" target="struka" weight="1.0" />
+      <edge id="834" source="radionica" target="nagrada" weight="1.0" />
+      <edge id="835" source="radionica" target="Goran" weight="1.0" />
+      <edge id="836" source="Dunav" target="Vučedol" weight="1.0" />
+      <edge id="837" source="Dunav" target="vrh" weight="1.0" />
+      <edge id="838" source="Krist" target="izrada" weight="1.0" />
+      <edge id="839" source="Krist" target="keramika" weight="1.0" />
+      <edge id="840" source="Krist" target="stanovnik" weight="1.0" />
+      <edge id="841" source="Krist" target="predmet" weight="1.0" />
+      <edge id="842" source="Krist" target="stočarstvo" weight="1.0" />
+      <edge id="843" source="Krist" target="lov" weight="1.0" />
+      <edge id="844" source="Krist" target="izletište" weight="1.0" />
+      <edge id="845" source="arheolog" target="godina" weight="1.0" />
+      <edge id="846" source="arheolog" target="Aleksandar" weight="1.0" />
+      <edge id="847" source="arheolog" target="Durman" weight="1.0" />
+      <edge id="848" source="opeka" target="projektant" weight="1.0" />
+      <edge id="849" source="opeka" target="materijal" weight="1.0" />
+      <edge id="850" source="opeka" target="zemlja" weight="1.0" />
+      <edge id="851" source="opeka" target="radionica" weight="1.0" />
+      <edge id="852" source="opeka" target="lokalitet" weight="1.0" />
+      <edge id="853" source="okruženje" target="arhitektura" weight="1.0" />
+      <edge id="854" source="okruženje" target="ovaj" weight="1.0" />
+      <edge id="855" source="okruženje" target="pitanje" weight="1.0" />
+      <edge id="856" source="tim" target="projekt" weight="1.0" />
+      <edge id="857" source="tim" target="ministarstvo" weight="1.0" />
+      <edge id="858" source="tim" target="fond" weight="1.0" />
+      <edge id="859" source="tim" target="EU" weight="1.0" />
+      <edge id="860" source="tim" target="park" weight="1.0" />
+      <edge id="861" source="kuna" target="godina" weight="1.0" />
+      <edge id="862" source="kuna" target="mjesto" weight="1.0" />
+      <edge id="863" source="kuna" target="Vučedol" weight="1.0" />
+      <edge id="864" source="kuna" target="park" weight="1.0" />
+      <edge id="865" source="kuna" target="istraživanje" weight="1.0" />
+      <edge id="866" source="kuna" target="ideja" weight="1.0" />
+      <edge id="867" source="kuna" target="uređenje" weight="1.0" />
+      <edge id="868" source="kuna" target="muzej" weight="1.0" />
+      <edge id="869" source="pitanje" target="projekt" weight="2.0" />
+      <edge id="870" source="pitanje" target="cost" weight="1.0" />
+      <edge id="871" source="pitanje" target="odgovor" weight="1.0" />
+      <edge id="872" source="pitanje" target="ostatak" weight="1.0" />
+      <edge id="873" source="pitanje" target="upravljanje" weight="1.0" />
+      <edge id="874" source="pitanje" target="mogućnost" weight="1.0" />
+      <edge id="875" source="pitanje" target="strategija" weight="1.0" />
+      <edge id="876" source="pitanje" target="zgrada" weight="1.0" />
+      <edge id="877" source="pitanje" target="muzej" weight="2.0" />
+      <edge id="878" source="pitanje" target="obzir" weight="1.0" />
+      <edge id="879" source="pitanje" target="resurs" weight="1.0" />
+      <edge id="880" source="pitanje" target="razvoj" weight="1.0" />
+      <edge id="881" source="pitanje" target="analiza" weight="1.0" />
+      <edge id="882" source="izvedba" target="godina" weight="1.0" />
+      <edge id="883" source="izvedba" target="projekt" weight="1.0" />
+      <edge id="884" source="izvedba" target="fond" weight="1.0" />
+      <edge id="885" source="izvedba" target="park" weight="1.0" />
+      <edge id="886" source="izvedba" target="tim" weight="1.0" />
+      <edge id="887" source="izvedba" target="ministarstvo" weight="1.0" />
+      <edge id="888" source="izvedba" target="EU" weight="1.0" />
+      <edge id="889" source="izvedba" target="postav" weight="1.0" />
+      <edge id="890" source="Josip" target="Sabolić" weight="1.0" />
+      <edge id="891" source="Josip" target="Mario" weight="1.0" />
+      <edge id="892" source="park" target="projekt" weight="1.0" />
+      <edge id="893" source="park" target="godina" weight="1.0" />
+      <edge id="894" source="park" target="mjesto" weight="1.0" />
+      <edge id="895" source="park" target="fond" weight="2.0" />
+      <edge id="896" source="park" target="lokacija" weight="1.0" />
+      <edge id="897" source="park" target="ministarstvo" weight="1.0" />
+      <edge id="898" source="park" target="popis" weight="1.0" />
+      <edge id="899" source="park" target="projekat" weight="1.0" />
+      <edge id="900" source="park" target="sredstvo" weight="1.0" />
+      <edge id="901" source="park" target="EU" weight="1.0" />
+      <edge id="902" source="park" target="muzej" weight="1.0" />
+      <edge id="903" source="osjećaj" target="uklopljenost" weight="1.0" />
+      <edge id="904" source="osjećaj" target="padina" weight="1.0" />
+      <edge id="905" source="osjećaj" target="kretanje" weight="1.0" />
+      <edge id="906" source="Iva" target="Josip" weight="1.0" />
+      <edge id="907" source="Iva" target="Rako" weight="1.0" />
+      <edge id="908" source="Iva" target="Mario" weight="1.0" />
+      <edge id="909" source="Iva" target="Sabolić" weight="1.0" />
+      <edge id="910" source="Iva" target="Pejić" weight="1.0" />
+      <edge id="911" source="Iva" target="Goran" weight="1.0" />
+      <edge id="912" source="ploha" target="uklopljenost" weight="1.0" />
+      <edge id="913" source="ploha" target="osjećaj" weight="1.0" />
+      <edge id="914" source="ploha" target="padina" weight="1.0" />
+      <edge id="915" source="ploha" target="priroda" weight="1.0" />
+      <edge id="916" source="ploha" target="kretanje" weight="1.0" />
+      <edge id="917" source="nagib" target="kolica" weight="1.0" />
+      <edge id="918" source="nagib" target="čovjek" weight="1.0" />
+      <edge id="919" source="nagib" target="kultura" weight="1.0" />
+      <edge id="920" source="nagib" target="posjetitelj" weight="1.0" />
+      <edge id="921" source="nagib" target="ishodište" weight="1.0" />
+      <edge id="922" source="nagib" target="lokacija" weight="1.0" />
+      <edge id="923" source="nagib" target="standard" weight="1.0" />
+      <edge id="924" source="nagib" target="prostor" weight="1.0" />
+      <edge id="925" source="nagib" target="Vučedol" weight="1.0" />
+      <edge id="926" source="nagib" target="postav" weight="1.0" />
+      <edge id="927" source="keramika" target="predmet" weight="1.0" />
+      <edge id="928" source="keramika" target="izletište" weight="1.0" />
+      <edge id="929" source="biro" target="arhitektura" weight="1.0" />
+      <edge id="930" source="biro" target="Josip" weight="1.0" />
+      <edge id="931" source="biro" target="Rako" weight="1.0" />
+      <edge id="932" source="biro" target="Mario" weight="1.0" />
+      <edge id="933" source="biro" target="Sabolić" weight="1.0" />
+      <edge id="934" source="biro" target="Iva" weight="1.0" />
+      <edge id="935" source="biro" target="Pejić" weight="1.0" />
+      <edge id="936" source="biro" target="radionica" weight="1.0" />
+      <edge id="937" source="biro" target="Goran" weight="1.0" />
+      <edge id="938" source="zid" target="obloga" weight="1.0" />
+      <edge id="939" source="fond" target="ministarstvo" weight="1.0" />
+      <edge id="940" source="potreba" target="ponuda" weight="1.0" />
+      <edge id="941" source="potreba" target="sadržaj" weight="1.0" />
+      <edge id="942" source="potreba" target="publika" weight="1.0" />
+      <edge id="943" source="potreba" target="okruženje" weight="1.0" />
+      <edge id="944" source="potreba" target="pitanje" weight="1.0" />
+      <edge id="945" source="potreba" target="ovaj" weight="1.0" />
+      <edge id="946" source="vrsta" target="izložak" weight="1.0" />
+      <edge id="947" source="vrsta" target="osobina" weight="1.0" />
+      <edge id="948" source="vrsta" target="kontejner" weight="1.0" />
+      <edge id="949" source="ministarstvo" target="narudžba" weight="1.0" />
+      <edge id="950" source="ministarstvo" target="rješenje" weight="1.0" />
+      <edge id="951" source="ministarstvo" target="muzej" weight="1.0" />
+      <edge id="952" source="ministarstvo" target="kultura" weight="2.0" />
+      <edge id="953" source="učinkovitost" target="projekt" weight="1.0" />
+      <edge id="954" source="učinkovitost" target="godina" weight="1.0" />
+      <edge id="955" source="učinkovitost" target="tehnologija" weight="1.0" />
+      <edge id="956" source="učinkovitost" target="mjesto" weight="1.0" />
+      <edge id="957" source="učinkovitost" target="kuna" weight="1.0" />
+      <edge id="958" source="učinkovitost" target="posjetitelj" weight="1.0" />
+      <edge id="959" source="učinkovitost" target="park" weight="1.0" />
+      <edge id="960" source="učinkovitost" target="korištenje" weight="1.0" />
+      <edge id="961" source="učinkovitost" target="pogon" weight="1.0" />
+      <edge id="962" source="učinkovitost" target="slovo" weight="1.0" />
+      <edge id="963" source="učinkovitost" target="uređenje" weight="1.0" />
+      <edge id="964" source="učinkovitost" target="tisuća" weight="1.0" />
+      <edge id="965" source="učinkovitost" target="desetka" weight="1.0" />
+      <edge id="966" source="učinkovitost" target="muzej" weight="2.0" />
+      <edge id="967" source="učinkovitost" target="istraživanje" weight="1.0" />
+      <edge id="968" source="učinkovitost" target="ideja" weight="1.0" />
+      <edge id="969" source="učinkovitost" target="resurs" weight="2.0" />
+      <edge id="970" source="učinkovitost" target="Vučedol" weight="1.0" />
+      <edge id="971" source="učinkovitost" target="trošak" weight="1.0" />
+      <edge id="972" source="desetka" target="godina" weight="1.0" />
+      <edge id="973" source="desetka" target="muzej" weight="1.0" />
+      <edge id="974" source="desetka" target="Vučedol" weight="1.0" />
+      <edge id="975" source="desetka" target="park" weight="1.0" />
+      <edge id="976" source="desetka" target="mjesto" weight="1.0" />
+      <edge id="977" source="desetka" target="ideja" weight="1.0" />
+      <edge id="978" source="desetka" target="kuna" weight="1.0" />
+      <edge id="979" source="desetka" target="istraživanje" weight="1.0" />
+      <edge id="980" source="desetka" target="uređenje" weight="1.0" />
+      <edge id="981" source="desetka" target="tisuća" weight="1.0" />
+      <edge id="982" source="struka" target="muzealac" weight="1.0" />
+      <edge id="983" source="struka" target="arheolog" weight="1.0" />
+      <edge id="984" source="struka" target="pohvala" weight="1.0" />
+      <edge id="985" source="razvoj" target="upravljanje" weight="1.0" />
+      <edge id="986" source="razvoj" target="mogućnost" weight="1.0" />
+      <edge id="987" source="razvoj" target="resurs" weight="1.0" />
+      <edge id="988" source="izletište" target="podsjetnik" weight="1.0" />
+      <edge id="989" source="izletište" target="vrijeme" weight="1.0" />
+      <edge id="990" source="izrada" target="predmet" weight="1.0" />
+      <edge id="991" source="izrada" target="keramika" weight="1.0" />
+      <edge id="992" source="izrada" target="izletište" weight="1.0" />
+      <edge id="993" source="materijal" target="zemlja" weight="2.0" />
+      <edge id="994" source="materijal" target="lokalitet" weight="2.0" />
+      <edge id="995" source="materijal" target="projektant" weight="2.0" />
+      <edge id="996" source="materijal" target="obloga" weight="1.0" />
+      <edge id="997" source="materijal" target="opeka" weight="1.0" />
+      <edge id="998" source="materijal" target="radionica" weight="2.0" />
+      <edge id="999" source="strana" target="arhitektura" weight="1.0" />
+      <edge id="1000" source="strana" target="padina" weight="1.0" />
+      <edge id="1001" source="strana" target="uklopljenost" weight="1.0" />
+      <edge id="1002" source="strana" target="osjećaj" weight="1.0" />
+      <edge id="1003" source="strana" target="ploha" weight="1.0" />
+      <edge id="1004" source="strana" target="nalazište" weight="1.0" />
+      <edge id="1005" source="strana" target="kretanje" weight="1.0" />
+      <edge id="1006" source="strana" target="brijeg" weight="1.0" />
+      <edge id="1007" source="strana" target="pročelje" weight="1.0" />
+      <edge id="1008" source="strana" target="lokacija" weight="1.0" />
+      <edge id="1009" source="strana" target="okruženje" weight="1.0" />
+      <edge id="1010" source="strana" target="Vučedol" weight="1.0" />
+      <edge id="1011" source="strana" target="priroda" weight="1.0" />
+      <edge id="1012" source="strana" target="muzej" weight="2.0" />
+      <edge id="1013" source="obloga" target="materijal" weight="1.0" />
+      <edge id="1014" source="obloga" target="zemlja" weight="1.0" />
+      <edge id="1015" source="obloga" target="lokalitet" weight="1.0" />
+      <edge id="1016" source="obloga" target="projektant" weight="1.0" />
+      <edge id="1017" source="obloga" target="opeka" weight="1.0" />
+      <edge id="1018" source="obloga" target="radionica" weight="1.0" />
+      <edge id="1019" source="muzealac" target="arheolog" weight="1.0" />
+      <edge id="1020" source="restoran" target="barka" weight="1.0" />
+      <edge id="1021" source="restoran" target="bazen" weight="1.0" />
+      <edge id="1022" source="restoran" target="rijeka" weight="1.0" />
+      <edge id="1023" source="kolica" target="Vučedol" weight="1.0" />
+      <edge id="1024" source="kolica" target="posjetitelj" weight="1.0" />
+      <edge id="1025" source="kolica" target="lokacija" weight="1.0" />
+      <edge id="1026" source="kolica" target="kultura" weight="1.0" />
+      <edge id="1027" source="kolica" target="ishodište" weight="1.0" />
+      <edge id="1028" source="kolica" target="prostor" weight="1.0" />
+      <edge id="1029" source="kolica" target="postav" weight="1.0" />
+      <edge id="1030" source="Goran" target="godina" weight="1.0" />
+      <edge id="1031" source="Goran" target="arhitektura" weight="1.0" />
+      <edge id="1032" source="Goran" target="Josip" weight="1.0" />
+      <edge id="1033" source="Goran" target="zadatak" weight="1.0" />
+      <edge id="1034" source="Goran" target="papir" weight="1.0" />
+      <edge id="1035" source="Goran" target="nalazište" weight="1.0" />
+      <edge id="1036" source="Goran" target="Mario" weight="1.0" />
+      <edge id="1037" source="Goran" target="lokacija" weight="1.0" />
+      <edge id="1038" source="Goran" target="muzej" weight="2.0" />
+      <edge id="1039" source="Goran" target="Rako" weight="2.0" />
+      <edge id="1040" source="Goran" target="okruženje" weight="1.0" />
+      <edge id="1041" source="Goran" target="Sabolić" weight="1.0" />
+      <edge id="1042" source="Goran" target="strana" weight="1.0" />
+      <edge id="1043" source="Goran" target="Vučedol" weight="1.0" />
     </edges>
   </graph>
 </gexf>

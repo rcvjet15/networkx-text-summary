@@ -67,7 +67,7 @@ class Dictionary:
             else:    
                  # gets edge list as dictionary where preceding word is key and every word after is value
                 for linked_words in self.__get_edge_list_for_sentence(valid_words):
-                    # if key and value doesn't have same value then add it to edge list. SAmoe word cannot be linked to itself
+                    # if key and value doesn't have same value then add it to edge list. Same word cannot be linked to itself
                     if linked_words[0] != linked_words[1]:
                         self._edge_list.append(linked_words)
                     else:

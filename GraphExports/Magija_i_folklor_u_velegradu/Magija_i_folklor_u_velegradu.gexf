@@ -2,435 +2,435 @@
 <gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
   <graph defaultedgetype="directed" mode="static">
     <nodes>
-      <node id="utjecaj" label="utjecaj" />
-      <node id="razvijanje" label="razvijanje" />
-      <node id="dio" label="dio" />
-      <node id="Bruno" label="Bruno" />
-      <node id="godina" label="godina" />
-      <node id="Emir" label="Emir" />
-      <node id="vrsta" label="vrsta" />
-      <node id="reakcija" label="reakcija" />
-      <node id="Tebe" label="Tebe" />
-      <node id="BOOOOOOOM" label="BOOOOOOOM" />
-      <node id="zaigranost" label="zaigranost" />
-      <node id="rod" label="rod" />
-      <node id="galerija" label="galerija" />
-      <node id="photoshop" label="photoshop" />
-      <node id="medij" label="medij" />
-      <node id="internet" label="internet" />
-      <node id="tema" label="tema" />
-      <node id="Massarott" label="Massarott" />
-      <node id="umjetnost" label="umjetnost" />
-      <node id="humor" label="humor" />
-      <node id="estetika" label="estetika" />
-      <node id="faza" label="faza" />
-      <node id="prodaja" label="prodaja" />
-      <node id="kontekst" label="kontekst" />
-      <node id="nastavak" label="nastavak" />
-      <node id="potencijal" label="potencijal" />
-      <node id="bor" label="bor" />
-      <node id="element" label="element" />
-      <node id="mural" label="mural" />
-      <node id="art" label="art" />
-      <node id="store" label="store" />
-      <node id="street" label="street" />
-      <node id="rad" label="rad" />
-      <node id="knjiga" label="knjiga" />
-      <node id="sredina" label="sredina" />
-      <node id="MU" label="MU" />
-      <node id="ideja" label="ideja" />
-      <node id="blend-" label="blend-" />
-      <node id="fotografija" label="fotografija" />
-      <node id="strana" label="strana" />
-      <node id="zeitgeist" label="zeitgeist" />
-      <node id="prostor" label="prostor" />
-      <node id="tehnologija" label="tehnologija" />
-      <node id="uvjet" label="uvjet" />
-      <node id="umjetnik" label="umjetnik" />
-      <node id="sloj" label="sloj" />
-      <node id="moj" label="moj" />
-      <node id="Tuzla" label="Tuzla" />
-      <node id="artist" label="artist" />
-      <node id="mana" label="mana" />
-      <node id="potpora" label="potpora" />
-      <node id="njegov" label="njegov" />
-      <node id="strategija" label="strategija" />
-      <node id="vrijeme" label="vrijeme" />
-      <node id="ovjek" label="ovjek" />
-      <node id="Barcelona" label="Barcelona" />
-      <node id="temelj" label="temelj" />
-      <node id="Esh" label="Esh" />
-      <node id="blog" label="blog" />
-      <node id="stranica" label="stranica" />
-      <node id="manipuliranje" label="manipuliranje" />
-      <node id="stil" label="stil" />
-      <node id="muzej" label="muzej" />
-      <node id="Maur" label="Maur" />
-      <node id="obrazac" label="obrazac" />
       <node id="magija" label="magija" />
-      <node id="rezultat" label="rezultat" />
-      <node id="Sofija" label="Sofija" />
-      <node id="Dugava" label="Dugava" />
-      <node id="Dulait" label="Dulait" />
-      <node id="stvar" label="stvar" />
-      <node id="vid" label="vid" />
-      <node id="folklor" label="folklor" />
-      <node id="granica" label="granica" />
-      <node id="potraga" label="potraga" />
-      <node id="Lafeda" label="Lafeda" />
-      <node id="mjesto" label="mjesto" />
-      <node id="uzor" label="uzor" />
-      <node id="obilje" label="obilje" />
-      <node id="Os" label="Os" />
-      <node id="projekt" label="projekt" />
-      <node id="situacija" label="situacija" />
+      <node id="dio" label="dio" />
+      <node id="knjiga" label="knjiga" />
       <node id="alat" label="alat" />
+      <node id="zeitgeist" label="zeitgeist" />
+      <node id="Esh" label="Esh" />
+      <node id="Tuzla" label="Tuzla" />
+      <node id="kontekst" label="kontekst" />
+      <node id="uvjet" label="uvjet" />
+      <node id="reakcija" label="reakcija" />
+      <node id="Lafeda" label="Lafeda" />
+      <node id="utjecaj" label="utjecaj" />
+      <node id="muzej" label="muzej" />
+      <node id="obilje" label="obilje" />
+      <node id="njegov" label="njegov" />
+      <node id="Barcelona" label="Barcelona" />
+      <node id="umjetnik" label="umjetnik" />
+      <node id="godina" label="godina" />
+      <node id="art" label="art" />
+      <node id="razvijanje" label="razvijanje" />
+      <node id="tehnologija" label="tehnologija" />
+      <node id="folklor" label="folklor" />
+      <node id="estetika" label="estetika" />
+      <node id="prostor" label="prostor" />
+      <node id="Bruno" label="Bruno" />
+      <node id="rad" label="rad" />
+      <node id="Sofija" label="Sofija" />
+      <node id="mural" label="mural" />
+      <node id="Maur" label="Maur" />
+      <node id="store" label="store" />
+      <node id="sloj" label="sloj" />
+      <node id="obrazac" label="obrazac" />
+      <node id="vrijeme" label="vrijeme" />
+      <node id="rod" label="rod" />
+      <node id="ideja" label="ideja" />
+      <node id="photoshop" label="photoshop" />
+      <node id="potraga" label="potraga" />
+      <node id="medij" label="medij" />
+      <node id="BOOOOOOOM" label="BOOOOOOOM" />
+      <node id="strana" label="strana" />
+      <node id="projekt" label="projekt" />
+      <node id="uzor" label="uzor" />
+      <node id="rezultat" label="rezultat" />
+      <node id="umjetnost" label="umjetnost" />
+      <node id="element" label="element" />
+      <node id="mana" label="mana" />
+      <node id="strategija" label="strategija" />
+      <node id="bor" label="bor" />
       <node id="portal" label="portal" />
+      <node id="stvar" label="stvar" />
+      <node id="Os" label="Os" />
+      <node id="prodaja" label="prodaja" />
+      <node id="granica" label="granica" />
+      <node id="Dulait" label="Dulait" />
+      <node id="potencijal" label="potencijal" />
+      <node id="blog" label="blog" />
+      <node id="moj" label="moj" />
+      <node id="manipuliranje" label="manipuliranje" />
+      <node id="zaigranost" label="zaigranost" />
+      <node id="vrsta" label="vrsta" />
+      <node id="stranica" label="stranica" />
+      <node id="internet" label="internet" />
+      <node id="sredina" label="sredina" />
+      <node id="vid" label="vid" />
+      <node id="mjesto" label="mjesto" />
+      <node id="Dugava" label="Dugava" />
+      <node id="artist" label="artist" />
+      <node id="blend-" label="blend-" />
+      <node id="humor" label="humor" />
+      <node id="galerija" label="galerija" />
+      <node id="Emir" label="Emir" />
+      <node id="tema" label="tema" />
+      <node id="stil" label="stil" />
+      <node id="potpora" label="potpora" />
+      <node id="Massarott" label="Massarott" />
+      <node id="situacija" label="situacija" />
+      <node id="MU" label="MU" />
+      <node id="street" label="street" />
+      <node id="nastavak" label="nastavak" />
+      <node id="faza" label="faza" />
+      <node id="ovjek" label="ovjek" />
+      <node id="temelj" label="temelj" />
+      <node id="Tebe" label="Tebe" />
+      <node id="fotografija" label="fotografija" />
     </nodes>
     <edges>
-      <edge id="0" source="utjecaj" target="Bruno" weight="1.0" />
-      <edge id="1" source="utjecaj" target="umjetnik" weight="3.0" />
-      <edge id="2" source="utjecaj" target="street" weight="1.0" />
-      <edge id="3" source="utjecaj" target="rad" weight="1.0" />
-      <edge id="4" source="utjecaj" target="bor" weight="1.0" />
-      <edge id="5" source="utjecaj" target="Os" weight="1.0" />
-      <edge id="6" source="utjecaj" target="Dulait" weight="1.0" />
-      <edge id="7" source="utjecaj" target="potpora" weight="1.0" />
-      <edge id="8" source="utjecaj" target="stil" weight="1.0" />
-      <edge id="9" source="razvijanje" target="utjecaj" weight="1.0" />
-      <edge id="10" source="razvijanje" target="Os" weight="1.0" />
-      <edge id="11" source="razvijanje" target="umjetnik" weight="1.0" />
-      <edge id="12" source="razvijanje" target="street" weight="1.0" />
-      <edge id="13" source="razvijanje" target="stil" weight="1.0" />
-      <edge id="14" source="dio" target="umjetnost" weight="1.0" />
-      <edge id="15" source="dio" target="Massarott" weight="1.0" />
-      <edge id="16" source="dio" target="Maur" weight="1.0" />
-      <edge id="17" source="dio" target="mural" weight="1.0" />
-      <edge id="18" source="dio" target="Barcelona" weight="1.0" />
-      <edge id="19" source="dio" target="Dugava" weight="1.0" />
-      <edge id="20" source="dio" target="Lafeda" weight="1.0" />
-      <edge id="21" source="dio" target="store" weight="1.0" />
-      <edge id="22" source="dio" target="MU" weight="1.0" />
-      <edge id="23" source="dio" target="ideja" weight="1.0" />
-      <edge id="24" source="dio" target="projekt" weight="2.0" />
-      <edge id="25" source="dio" target="muzej" weight="1.0" />
-      <edge id="26" source="dio" target="strana" weight="1.0" />
-      <edge id="27" source="Bruno" target="Dulait" weight="1.0" />
-      <edge id="28" source="Bruno" target="umjetnik" weight="1.0" />
-      <edge id="29" source="Bruno" target="bor" weight="1.0" />
-      <edge id="30" source="godina" target="rad" weight="1.0" />
-      <edge id="31" source="godina" target="knjiga" weight="1.0" />
-      <edge id="32" source="godina" target="vid" weight="1.0" />
-      <edge id="33" source="Emir" target="prostor" weight="1.0" />
-      <edge id="34" source="Emir" target="tehnologija" weight="1.0" />
-      <edge id="35" source="Emir" target="umjetnik" weight="1.0" />
-      <edge id="36" source="Emir" target="knjiga" weight="1.0" />
-      <edge id="37" source="Emir" target="godina" weight="1.0" />
-      <edge id="38" source="Emir" target="razvijanje" weight="1.0" />
-      <edge id="39" source="Emir" target="alat" weight="1.0" />
-      <edge id="40" source="Emir" target="stil" weight="1.0" />
-      <edge id="41" source="Emir" target="obrazac" weight="1.0" />
-      <edge id="42" source="Emir" target="Esh" weight="1.0" />
-      <edge id="43" source="Emir" target="manipuliranje" weight="1.0" />
-      <edge id="44" source="Emir" target="faza" weight="1.0" />
-      <edge id="45" source="Emir" target="vid" weight="1.0" />
-      <edge id="46" source="Emir" target="store" weight="1.0" />
-      <edge id="47" source="Emir" target="artist" weight="1.0" />
-      <edge id="48" source="Emir" target="strategija" weight="1.0" />
-      <edge id="49" source="Emir" target="prodaja" weight="1.0" />
-      <edge id="50" source="Emir" target="utjecaj" weight="1.0" />
-      <edge id="51" source="Emir" target="medij" weight="1.0" />
-      <edge id="52" source="Emir" target="granica" weight="1.0" />
-      <edge id="53" source="Emir" target="art" weight="1.0" />
-      <edge id="54" source="Emir" target="photoshop" weight="1.0" />
-      <edge id="55" source="Emir" target="street" weight="3.0" />
-      <edge id="56" source="Emir" target="zeitgeist" weight="1.0" />
-      <edge id="57" source="Emir" target="moj" weight="1.0" />
-      <edge id="58" source="Emir" target="Os" weight="1.0" />
-      <edge id="59" source="Emir" target="uzor" weight="1.0" />
-      <edge id="60" source="Emir" target="rad" weight="2.0" />
-      <edge id="61" source="vrsta" target="zaigranost" weight="1.0" />
-      <edge id="62" source="vrsta" target="humor" weight="1.0" />
-      <edge id="63" source="vrsta" target="uvjet" weight="1.0" />
-      <edge id="64" source="vrsta" target="fotografija" weight="1.0" />
-      <edge id="65" source="reakcija" target="medij" weight="1.0" />
-      <edge id="66" source="reakcija" target="humor" weight="1.0" />
-      <edge id="67" source="reakcija" target="zaigranost" weight="1.0" />
-      <edge id="68" source="reakcija" target="umjetnik" weight="1.0" />
-      <edge id="69" source="reakcija" target="rad" weight="1.0" />
-      <edge id="70" source="reakcija" target="obilje" weight="1.0" />
-      <edge id="71" source="reakcija" target="vrsta" weight="1.0" />
-      <edge id="72" source="reakcija" target="fotografija" weight="2.0" />
-      <edge id="73" source="reakcija" target="uvjet" weight="1.0" />
-      <edge id="74" source="Tebe" target="medij" weight="1.0" />
-      <edge id="75" source="Tebe" target="Emir" weight="1.0" />
-      <edge id="76" source="Tebe" target="store" weight="1.0" />
-      <edge id="77" source="Tebe" target="prodaja" weight="1.0" />
-      <edge id="78" source="Tebe" target="rad" weight="1.0" />
-      <edge id="79" source="BOOOOOOOM" target="blend-" weight="1.0" />
-      <edge id="80" source="zaigranost" target="uvjet" weight="1.0" />
-      <edge id="81" source="zaigranost" target="fotografija" weight="1.0" />
-      <edge id="82" source="rod" target="sredina" weight="1.0" />
-      <edge id="83" source="rod" target="kontekst" weight="1.0" />
-      <edge id="84" source="rod" target="Tuzla" weight="1.0" />
-      <edge id="85" source="rod" target="rad" weight="1.0" />
-      <edge id="86" source="galerija" target="nastavak" weight="1.0" />
-      <edge id="87" source="galerija" target="umjetnik" weight="1.0" />
-      <edge id="88" source="galerija" target="rad" weight="1.0" />
-      <edge id="89" source="galerija" target="njegov" weight="1.0" />
-      <edge id="90" source="photoshop" target="obrazac" weight="1.0" />
-      <edge id="91" source="photoshop" target="tehnologija" weight="1.0" />
-      <edge id="92" source="photoshop" target="alat" weight="1.0" />
-      <edge id="93" source="medij" target="zaigranost" weight="1.0" />
-      <edge id="94" source="medij" target="humor" weight="1.0" />
-      <edge id="95" source="medij" target="uvjet" weight="1.0" />
-      <edge id="96" source="medij" target="store" weight="1.0" />
-      <edge id="97" source="medij" target="prodaja" weight="1.0" />
-      <edge id="98" source="medij" target="rad" weight="1.0" />
-      <edge id="99" source="medij" target="vrsta" weight="1.0" />
-      <edge id="100" source="medij" target="fotografija" weight="2.0" />
-      <edge id="101" source="internet" target="umjetnost" weight="1.0" />
-      <edge id="102" source="internet" target="Dugava" weight="1.0" />
-      <edge id="103" source="internet" target="dio" weight="1.0" />
-      <edge id="104" source="internet" target="mural" weight="1.0" />
-      <edge id="105" source="internet" target="projekt" weight="1.0" />
-      <edge id="106" source="internet" target="muzej" weight="1.0" />
-      <edge id="107" source="Massarott" target="Lafeda" weight="1.0" />
-      <edge id="108" source="Massarott" target="ideja" weight="1.0" />
-      <edge id="109" source="Massarott" target="Barcelona" weight="1.0" />
-      <edge id="110" source="umjetnost" target="Dugava" weight="1.0" />
-      <edge id="111" source="umjetnost" target="situacija" weight="1.0" />
-      <edge id="112" source="umjetnost" target="sredina" weight="1.0" />
-      <edge id="113" source="umjetnost" target="mural" weight="1.0" />
-      <edge id="114" source="humor" target="zaigranost" weight="1.0" />
-      <edge id="115" source="humor" target="uvjet" weight="1.0" />
-      <edge id="116" source="humor" target="fotografija" weight="1.0" />
-      <edge id="117" source="estetika" target="sloj" weight="1.0" />
-      <edge id="118" source="faza" target="utjecaj" weight="1.0" />
-      <edge id="119" source="faza" target="razvijanje" weight="1.0" />
-      <edge id="120" source="faza" target="umjetnik" weight="1.0" />
-      <edge id="121" source="faza" target="street" weight="1.0" />
-      <edge id="122" source="faza" target="Os" weight="1.0" />
-      <edge id="123" source="faza" target="stil" weight="1.0" />
-      <edge id="124" source="prodaja" target="store" weight="1.0" />
-      <edge id="125" source="kontekst" target="rad" weight="1.0" />
-      <edge id="126" source="kontekst" target="sredina" weight="1.0" />
-      <edge id="127" source="nastavak" target="njegov" weight="1.0" />
-      <edge id="128" source="bor" target="umjetnik" weight="1.0" />
-      <edge id="129" source="element" target="umjetnost" weight="1.0" />
-      <edge id="130" source="element" target="Dugava" weight="1.0" />
-      <edge id="131" source="element" target="dio" weight="1.0" />
-      <edge id="132" source="element" target="rad" weight="1.0" />
-      <edge id="133" source="element" target="mural" weight="1.0" />
-      <edge id="134" source="element" target="internet" weight="1.0" />
-      <edge id="135" source="element" target="projekt" weight="1.0" />
-      <edge id="136" source="element" target="muzej" weight="1.0" />
-      <edge id="137" source="street" target="prostor" weight="1.0" />
-      <edge id="138" source="street" target="artist" weight="1.0" />
-      <edge id="139" source="street" target="strategija" weight="1.0" />
-      <edge id="140" source="street" target="umjetnik" weight="1.0" />
-      <edge id="141" source="street" target="manipuliranje" weight="1.0" />
-      <edge id="142" source="street" target="Os" weight="1.0" />
-      <edge id="143" source="street" target="art" weight="2.0" />
-      <edge id="144" source="street" target="stil" weight="1.0" />
-      <edge id="145" source="rad" target="njegov" weight="1.0" />
-      <edge id="146" source="rad" target="uvjet" weight="1.0" />
-      <edge id="147" source="rad" target="umjetnik" weight="4.0" />
-      <edge id="148" source="rad" target="knjiga" weight="1.0" />
-      <edge id="149" source="rad" target="Emir" weight="1.0" />
-      <edge id="150" source="rad" target="vrsta" weight="1.0" />
-      <edge id="151" source="rad" target="dio" weight="1.0" />
-      <edge id="152" source="rad" target="BOOOOOOOM" weight="1.0" />
-      <edge id="153" source="rad" target="zaigranost" weight="1.0" />
-      <edge id="154" source="rad" target="Dugava" weight="1.0" />
-      <edge id="155" source="rad" target="Bruno" weight="1.0" />
-      <edge id="156" source="rad" target="portal" weight="1.0" />
-      <edge id="157" source="rad" target="medij" weight="1.0" />
-      <edge id="158" source="rad" target="internet" weight="1.0" />
-      <edge id="159" source="rad" target="vid" weight="1.0" />
-      <edge id="160" source="rad" target="muzej" weight="1.0" />
-      <edge id="161" source="rad" target="umjetnost" weight="1.0" />
-      <edge id="162" source="rad" target="humor" weight="1.0" />
-      <edge id="163" source="rad" target="blend-" weight="1.0" />
-      <edge id="164" source="rad" target="prodaja" weight="1.0" />
-      <edge id="165" source="rad" target="nastavak" weight="1.0" />
-      <edge id="166" source="rad" target="Dulait" weight="1.0" />
-      <edge id="167" source="rad" target="granica" weight="1.0" />
-      <edge id="168" source="rad" target="mural" weight="1.0" />
-      <edge id="169" source="rad" target="store" weight="1.0" />
-      <edge id="170" source="rad" target="obilje" weight="1.0" />
-      <edge id="171" source="rad" target="sredina" weight="1.0" />
-      <edge id="172" source="rad" target="projekt" weight="1.0" />
-      <edge id="173" source="rad" target="fotografija" weight="2.0" />
-      <edge id="174" source="rad" target="zeitgeist" weight="1.0" />
-      <edge id="175" source="rad" target="bor" weight="1.0" />
-      <edge id="176" source="knjiga" target="tema" weight="1.0" />
-      <edge id="177" source="sredina" target="medij" weight="1.0" />
-      <edge id="178" source="sredina" target="Tebe" weight="1.0" />
-      <edge id="179" source="sredina" target="store" weight="1.0" />
-      <edge id="180" source="sredina" target="prodaja" weight="1.0" />
-      <edge id="181" source="sredina" target="rad" weight="1.0" />
-      <edge id="182" source="sredina" target="Emir" weight="1.0" />
-      <edge id="183" source="sredina" target="situacija" weight="1.0" />
-      <edge id="184" source="sredina" target="ovjek" weight="1.0" />
-      <edge id="185" source="MU" target="Lafeda" weight="1.0" />
-      <edge id="186" source="MU" target="Massarott" weight="1.0" />
-      <edge id="187" source="MU" target="Maur" weight="1.0" />
-      <edge id="188" source="MU" target="ideja" weight="1.0" />
-      <edge id="189" source="MU" target="strana" weight="1.0" />
-      <edge id="190" source="MU" target="Barcelona" weight="1.0" />
-      <edge id="191" source="fotografija" target="obrazac" weight="1.0" />
-      <edge id="192" source="fotografija" target="tehnologija" weight="1.0" />
-      <edge id="193" source="fotografija" target="zaigranost" weight="1.0" />
-      <edge id="194" source="fotografija" target="photoshop" weight="1.0" />
-      <edge id="195" source="fotografija" target="humor" weight="1.0" />
-      <edge id="196" source="fotografija" target="potencijal" weight="1.0" />
-      <edge id="197" source="fotografija" target="Emir" weight="1.0" />
-      <edge id="198" source="fotografija" target="vrsta" weight="1.0" />
-      <edge id="199" source="fotografija" target="uvjet" weight="1.0" />
-      <edge id="200" source="fotografija" target="alat" weight="1.0" />
-      <edge id="201" source="strana" target="Lafeda" weight="1.0" />
-      <edge id="202" source="strana" target="Massarott" weight="1.0" />
-      <edge id="203" source="strana" target="Maur" weight="1.0" />
-      <edge id="204" source="strana" target="Barcelona" weight="1.0" />
-      <edge id="205" source="strana" target="ideja" weight="1.0" />
-      <edge id="206" source="zeitgeist" target="granica" weight="1.0" />
-      <edge id="207" source="prostor" target="art" weight="1.0" />
-      <edge id="208" source="prostor" target="street" weight="1.0" />
-      <edge id="209" source="tehnologija" target="obrazac" weight="1.0" />
-      <edge id="210" source="uvjet" target="fotografija" weight="1.0" />
-      <edge id="211" source="umjetnik" target="njegov" weight="1.0" />
-      <edge id="212" source="umjetnik" target="humor" weight="1.0" />
-      <edge id="213" source="umjetnik" target="zaigranost" weight="1.0" />
-      <edge id="214" source="umjetnik" target="Bruno" weight="1.0" />
-      <edge id="215" source="umjetnik" target="kontekst" weight="1.0" />
-      <edge id="216" source="umjetnik" target="Tuzla" weight="1.0" />
-      <edge id="217" source="umjetnik" target="nastavak" weight="1.0" />
-      <edge id="218" source="umjetnik" target="Dulait" weight="1.0" />
-      <edge id="219" source="umjetnik" target="Emir" weight="1.0" />
-      <edge id="220" source="umjetnik" target="vrsta" weight="1.0" />
-      <edge id="221" source="umjetnik" target="uvjet" weight="1.0" />
-      <edge id="222" source="umjetnik" target="stil" weight="1.0" />
-      <edge id="223" source="umjetnik" target="medij" weight="1.0" />
-      <edge id="224" source="umjetnik" target="rod" weight="1.0" />
-      <edge id="225" source="umjetnik" target="Esh" weight="1.0" />
-      <edge id="226" source="umjetnik" target="rad" weight="2.0" />
-      <edge id="227" source="umjetnik" target="sredina" weight="1.0" />
-      <edge id="228" source="umjetnik" target="Os" weight="1.0" />
-      <edge id="229" source="umjetnik" target="fotografija" weight="2.0" />
-      <edge id="230" source="umjetnik" target="bor" weight="1.0" />
-      <edge id="231" source="moj" target="utjecaj" weight="1.0" />
-      <edge id="232" source="moj" target="razvijanje" weight="1.0" />
-      <edge id="233" source="moj" target="umjetnik" weight="1.0" />
-      <edge id="234" source="moj" target="street" weight="1.0" />
-      <edge id="235" source="moj" target="faza" weight="1.0" />
-      <edge id="236" source="moj" target="Os" weight="1.0" />
-      <edge id="237" source="moj" target="stil" weight="1.0" />
-      <edge id="238" source="Tuzla" target="sredina" weight="1.0" />
-      <edge id="239" source="Tuzla" target="kontekst" weight="1.0" />
-      <edge id="240" source="Tuzla" target="rad" weight="1.0" />
-      <edge id="241" source="artist" target="prostor" weight="1.0" />
-      <edge id="242" source="artist" target="strategija" weight="1.0" />
-      <edge id="243" source="artist" target="street" weight="1.0" />
-      <edge id="244" source="artist" target="art" weight="1.0" />
-      <edge id="245" source="artist" target="manipuliranje" weight="1.0" />
-      <edge id="246" source="mana" target="Emir" weight="1.0" />
-      <edge id="247" source="mana" target="rad" weight="1.0" />
-      <edge id="248" source="mana" target="zeitgeist" weight="1.0" />
-      <edge id="249" source="mana" target="granica" weight="1.0" />
-      <edge id="250" source="strategija" target="prostor" weight="1.0" />
-      <edge id="251" source="strategija" target="art" weight="1.0" />
-      <edge id="252" source="strategija" target="street" weight="1.0" />
-      <edge id="253" source="strategija" target="manipuliranje" weight="1.0" />
-      <edge id="254" source="vrijeme" target="utjecaj" weight="1.0" />
-      <edge id="255" source="vrijeme" target="Sofija" weight="1.0" />
-      <edge id="256" source="vrijeme" target="umjetnik" weight="2.0" />
-      <edge id="257" source="vrijeme" target="Bruno" weight="1.0" />
-      <edge id="258" source="vrijeme" target="rad" weight="1.0" />
-      <edge id="259" source="vrijeme" target="Dulait" weight="1.0" />
-      <edge id="260" source="vrijeme" target="bor" weight="1.0" />
-      <edge id="261" source="ovjek" target="medij" weight="1.0" />
-      <edge id="262" source="ovjek" target="Tebe" weight="1.0" />
-      <edge id="263" source="ovjek" target="store" weight="1.0" />
-      <edge id="264" source="ovjek" target="prodaja" weight="1.0" />
-      <edge id="265" source="ovjek" target="rad" weight="1.0" />
-      <edge id="266" source="ovjek" target="Emir" weight="1.0" />
-      <edge id="267" source="Barcelona" target="ideja" weight="1.0" />
-      <edge id="268" source="temelj" target="potencijal" weight="1.0" />
-      <edge id="269" source="temelj" target="fotografija" weight="1.0" />
-      <edge id="270" source="blog" target="potraga" weight="1.0" />
-      <edge id="271" source="stranica" target="potraga" weight="1.0" />
-      <edge id="272" source="stranica" target="blog" weight="1.0" />
-      <edge id="273" source="manipuliranje" target="prostor" weight="1.0" />
-      <edge id="274" source="manipuliranje" target="art" weight="1.0" />
-      <edge id="275" source="manipuliranje" target="street" weight="1.0" />
-      <edge id="276" source="stil" target="Os" weight="1.0" />
-      <edge id="277" source="muzej" target="umjetnost" weight="1.0" />
-      <edge id="278" source="muzej" target="Dugava" weight="1.0" />
-      <edge id="279" source="muzej" target="mural" weight="1.0" />
-      <edge id="280" source="Maur" target="Lafeda" weight="1.0" />
-      <edge id="281" source="Maur" target="Massarott" weight="1.0" />
-      <edge id="282" source="Maur" target="ideja" weight="1.0" />
-      <edge id="283" source="Maur" target="Barcelona" weight="1.0" />
-      <edge id="284" source="magija" target="folklor" weight="1.0" />
-      <edge id="285" source="rezultat" target="estetika" weight="1.0" />
-      <edge id="286" source="rezultat" target="sloj" weight="1.0" />
-      <edge id="287" source="Dugava" target="mural" weight="1.0" />
-      <edge id="288" source="Dugava" target="dio" weight="1.0" />
-      <edge id="289" source="Dugava" target="Massarott" weight="1.0" />
-      <edge id="290" source="Dugava" target="MU" weight="1.0" />
-      <edge id="291" source="Dugava" target="Maur" weight="1.0" />
-      <edge id="292" source="Dugava" target="Lafeda" weight="1.0" />
-      <edge id="293" source="Dugava" target="ideja" weight="1.0" />
-      <edge id="294" source="Dugava" target="projekt" weight="1.0" />
-      <edge id="295" source="Dugava" target="strana" weight="1.0" />
-      <edge id="296" source="Dugava" target="Barcelona" weight="1.0" />
-      <edge id="297" source="Dulait" target="umjetnik" weight="1.0" />
-      <edge id="298" source="Dulait" target="bor" weight="1.0" />
-      <edge id="299" source="stvar" target="godina" weight="1.0" />
-      <edge id="300" source="stvar" target="knjiga" weight="1.0" />
-      <edge id="301" source="stvar" target="vid" weight="1.0" />
-      <edge id="302" source="stvar" target="rad" weight="2.0" />
-      <edge id="303" source="stvar" target="portal" weight="1.0" />
-      <edge id="304" source="stvar" target="Emir" weight="1.0" />
-      <edge id="305" source="stvar" target="blend-" weight="1.0" />
-      <edge id="306" source="stvar" target="BOOOOOOOM" weight="1.0" />
-      <edge id="307" source="vid" target="knjiga" weight="1.0" />
-      <edge id="308" source="Lafeda" target="ideja" weight="1.0" />
-      <edge id="309" source="Lafeda" target="Barcelona" weight="1.0" />
-      <edge id="310" source="uzor" target="utjecaj" weight="1.0" />
-      <edge id="311" source="uzor" target="razvijanje" weight="1.0" />
-      <edge id="312" source="uzor" target="umjetnik" weight="1.0" />
-      <edge id="313" source="uzor" target="street" weight="1.0" />
-      <edge id="314" source="uzor" target="moj" weight="1.0" />
-      <edge id="315" source="uzor" target="faza" weight="1.0" />
-      <edge id="316" source="uzor" target="Os" weight="1.0" />
-      <edge id="317" source="uzor" target="stil" weight="1.0" />
-      <edge id="318" source="obilje" target="medij" weight="1.0" />
-      <edge id="319" source="obilje" target="potraga" weight="1.0" />
-      <edge id="320" source="obilje" target="zaigranost" weight="1.0" />
-      <edge id="321" source="obilje" target="umjetnik" weight="1.0" />
-      <edge id="322" source="obilje" target="blog" weight="1.0" />
-      <edge id="323" source="obilje" target="stranica" weight="1.0" />
-      <edge id="324" source="obilje" target="humor" weight="1.0" />
-      <edge id="325" source="obilje" target="vrsta" weight="1.0" />
-      <edge id="326" source="obilje" target="fotografija" weight="2.0" />
-      <edge id="327" source="obilje" target="uvjet" weight="1.0" />
-      <edge id="328" source="projekt" target="umjetnost" weight="1.0" />
-      <edge id="329" source="projekt" target="Dugava" weight="1.0" />
-      <edge id="330" source="projekt" target="Lafeda" weight="1.0" />
-      <edge id="331" source="projekt" target="Massarott" weight="1.0" />
-      <edge id="332" source="projekt" target="MU" weight="1.0" />
-      <edge id="333" source="projekt" target="Maur" weight="1.0" />
-      <edge id="334" source="projekt" target="mural" weight="1.0" />
-      <edge id="335" source="projekt" target="ideja" weight="1.0" />
-      <edge id="336" source="projekt" target="muzej" weight="1.0" />
-      <edge id="337" source="projekt" target="strana" weight="1.0" />
-      <edge id="338" source="projekt" target="Barcelona" weight="1.0" />
-      <edge id="339" source="alat" target="obrazac" weight="1.0" />
-      <edge id="340" source="alat" target="tehnologija" weight="1.0" />
-      <edge id="341" source="portal" target="blend-" weight="1.0" />
-      <edge id="342" source="portal" target="BOOOOOOOM" weight="1.0" />
+      <edge id="0" source="magija" target="folklor" weight="1.0" />
+      <edge id="1" source="dio" target="projekt" weight="2.0" />
+      <edge id="2" source="dio" target="umjetnost" weight="1.0" />
+      <edge id="3" source="dio" target="Dugava" weight="1.0" />
+      <edge id="4" source="dio" target="mural" weight="1.0" />
+      <edge id="5" source="dio" target="Maur" weight="1.0" />
+      <edge id="6" source="dio" target="Lafeda" weight="1.0" />
+      <edge id="7" source="dio" target="Massarott" weight="1.0" />
+      <edge id="8" source="dio" target="muzej" weight="1.0" />
+      <edge id="9" source="dio" target="MU" weight="1.0" />
+      <edge id="10" source="dio" target="ideja" weight="1.0" />
+      <edge id="11" source="dio" target="store" weight="1.0" />
+      <edge id="12" source="dio" target="Barcelona" weight="1.0" />
+      <edge id="13" source="dio" target="strana" weight="1.0" />
+      <edge id="14" source="knjiga" target="tema" weight="1.0" />
+      <edge id="15" source="alat" target="obrazac" weight="1.0" />
+      <edge id="16" source="alat" target="tehnologija" weight="1.0" />
+      <edge id="17" source="zeitgeist" target="granica" weight="1.0" />
+      <edge id="18" source="Tuzla" target="rad" weight="1.0" />
+      <edge id="19" source="Tuzla" target="sredina" weight="1.0" />
+      <edge id="20" source="Tuzla" target="kontekst" weight="1.0" />
+      <edge id="21" source="kontekst" target="rad" weight="1.0" />
+      <edge id="22" source="kontekst" target="sredina" weight="1.0" />
+      <edge id="23" source="uvjet" target="fotografija" weight="1.0" />
+      <edge id="24" source="reakcija" target="uvjet" weight="1.0" />
+      <edge id="25" source="reakcija" target="zaigranost" weight="1.0" />
+      <edge id="26" source="reakcija" target="obilje" weight="1.0" />
+      <edge id="27" source="reakcija" target="rad" weight="1.0" />
+      <edge id="28" source="reakcija" target="humor" weight="1.0" />
+      <edge id="29" source="reakcija" target="fotografija" weight="2.0" />
+      <edge id="30" source="reakcija" target="vrsta" weight="1.0" />
+      <edge id="31" source="reakcija" target="medij" weight="1.0" />
+      <edge id="32" source="reakcija" target="umjetnik" weight="1.0" />
+      <edge id="33" source="Lafeda" target="ideja" weight="1.0" />
+      <edge id="34" source="Lafeda" target="Barcelona" weight="1.0" />
+      <edge id="35" source="utjecaj" target="potpora" weight="1.0" />
+      <edge id="36" source="utjecaj" target="Dulait" weight="1.0" />
+      <edge id="37" source="utjecaj" target="street" weight="1.0" />
+      <edge id="38" source="utjecaj" target="bor" weight="1.0" />
+      <edge id="39" source="utjecaj" target="Bruno" weight="1.0" />
+      <edge id="40" source="utjecaj" target="rad" weight="1.0" />
+      <edge id="41" source="utjecaj" target="umjetnik" weight="3.0" />
+      <edge id="42" source="utjecaj" target="stil" weight="1.0" />
+      <edge id="43" source="utjecaj" target="Os" weight="1.0" />
+      <edge id="44" source="muzej" target="umjetnost" weight="1.0" />
+      <edge id="45" source="muzej" target="mural" weight="1.0" />
+      <edge id="46" source="muzej" target="Dugava" weight="1.0" />
+      <edge id="47" source="obilje" target="uvjet" weight="1.0" />
+      <edge id="48" source="obilje" target="zaigranost" weight="1.0" />
+      <edge id="49" source="obilje" target="stranica" weight="1.0" />
+      <edge id="50" source="obilje" target="blog" weight="1.0" />
+      <edge id="51" source="obilje" target="vrsta" weight="1.0" />
+      <edge id="52" source="obilje" target="humor" weight="1.0" />
+      <edge id="53" source="obilje" target="fotografija" weight="2.0" />
+      <edge id="54" source="obilje" target="potraga" weight="1.0" />
+      <edge id="55" source="obilje" target="medij" weight="1.0" />
+      <edge id="56" source="obilje" target="umjetnik" weight="1.0" />
+      <edge id="57" source="Barcelona" target="ideja" weight="1.0" />
+      <edge id="58" source="umjetnik" target="uvjet" weight="1.0" />
+      <edge id="59" source="umjetnik" target="Dulait" weight="1.0" />
+      <edge id="60" source="umjetnik" target="njegov" weight="1.0" />
+      <edge id="61" source="umjetnik" target="Bruno" weight="1.0" />
+      <edge id="62" source="umjetnik" target="rad" weight="2.0" />
+      <edge id="63" source="umjetnik" target="humor" weight="1.0" />
+      <edge id="64" source="umjetnik" target="Tuzla" weight="1.0" />
+      <edge id="65" source="umjetnik" target="kontekst" weight="1.0" />
+      <edge id="66" source="umjetnik" target="medij" weight="1.0" />
+      <edge id="67" source="umjetnik" target="bor" weight="1.0" />
+      <edge id="68" source="umjetnik" target="zaigranost" weight="1.0" />
+      <edge id="69" source="umjetnik" target="nastavak" weight="1.0" />
+      <edge id="70" source="umjetnik" target="Emir" weight="1.0" />
+      <edge id="71" source="umjetnik" target="Os" weight="1.0" />
+      <edge id="72" source="umjetnik" target="Esh" weight="1.0" />
+      <edge id="73" source="umjetnik" target="rod" weight="1.0" />
+      <edge id="74" source="umjetnik" target="sredina" weight="1.0" />
+      <edge id="75" source="umjetnik" target="vrsta" weight="1.0" />
+      <edge id="76" source="umjetnik" target="stil" weight="1.0" />
+      <edge id="77" source="umjetnik" target="fotografija" weight="2.0" />
+      <edge id="78" source="godina" target="rad" weight="1.0" />
+      <edge id="79" source="godina" target="vid" weight="1.0" />
+      <edge id="80" source="godina" target="knjiga" weight="1.0" />
+      <edge id="81" source="razvijanje" target="stil" weight="1.0" />
+      <edge id="82" source="razvijanje" target="utjecaj" weight="1.0" />
+      <edge id="83" source="razvijanje" target="street" weight="1.0" />
+      <edge id="84" source="razvijanje" target="Os" weight="1.0" />
+      <edge id="85" source="razvijanje" target="umjetnik" weight="1.0" />
+      <edge id="86" source="tehnologija" target="obrazac" weight="1.0" />
+      <edge id="87" source="estetika" target="sloj" weight="1.0" />
+      <edge id="88" source="prostor" target="art" weight="1.0" />
+      <edge id="89" source="prostor" target="street" weight="1.0" />
+      <edge id="90" source="Bruno" target="bor" weight="1.0" />
+      <edge id="91" source="Bruno" target="Dulait" weight="1.0" />
+      <edge id="92" source="Bruno" target="umjetnik" weight="1.0" />
+      <edge id="93" source="rad" target="projekt" weight="1.0" />
+      <edge id="94" source="rad" target="dio" weight="1.0" />
+      <edge id="95" source="rad" target="umjetnost" weight="1.0" />
+      <edge id="96" source="rad" target="bor" weight="1.0" />
+      <edge id="97" source="rad" target="njegov" weight="1.0" />
+      <edge id="98" source="rad" target="portal" weight="1.0" />
+      <edge id="99" source="rad" target="uvjet" weight="1.0" />
+      <edge id="100" source="rad" target="prodaja" weight="1.0" />
+      <edge id="101" source="rad" target="muzej" weight="1.0" />
+      <edge id="102" source="rad" target="obilje" weight="1.0" />
+      <edge id="103" source="rad" target="granica" weight="1.0" />
+      <edge id="104" source="rad" target="zaigranost" weight="1.0" />
+      <edge id="105" source="rad" target="vrsta" weight="1.0" />
+      <edge id="106" source="rad" target="store" weight="1.0" />
+      <edge id="107" source="rad" target="internet" weight="1.0" />
+      <edge id="108" source="rad" target="zeitgeist" weight="1.0" />
+      <edge id="109" source="rad" target="vid" weight="1.0" />
+      <edge id="110" source="rad" target="Dulait" weight="1.0" />
+      <edge id="111" source="rad" target="Dugava" weight="1.0" />
+      <edge id="112" source="rad" target="Bruno" weight="1.0" />
+      <edge id="113" source="rad" target="blend-" weight="1.0" />
+      <edge id="114" source="rad" target="humor" weight="1.0" />
+      <edge id="115" source="rad" target="Emir" weight="1.0" />
+      <edge id="116" source="rad" target="medij" weight="1.0" />
+      <edge id="117" source="rad" target="knjiga" weight="1.0" />
+      <edge id="118" source="rad" target="nastavak" weight="1.0" />
+      <edge id="119" source="rad" target="mural" weight="1.0" />
+      <edge id="120" source="rad" target="sredina" weight="1.0" />
+      <edge id="121" source="rad" target="umjetnik" weight="4.0" />
+      <edge id="122" source="rad" target="BOOOOOOOM" weight="1.0" />
+      <edge id="123" source="rad" target="fotografija" weight="2.0" />
+      <edge id="124" source="Maur" target="Lafeda" weight="1.0" />
+      <edge id="125" source="Maur" target="Massarott" weight="1.0" />
+      <edge id="126" source="Maur" target="ideja" weight="1.0" />
+      <edge id="127" source="Maur" target="Barcelona" weight="1.0" />
+      <edge id="128" source="vrijeme" target="utjecaj" weight="1.0" />
+      <edge id="129" source="vrijeme" target="bor" weight="1.0" />
+      <edge id="130" source="vrijeme" target="Bruno" weight="1.0" />
+      <edge id="131" source="vrijeme" target="rad" weight="1.0" />
+      <edge id="132" source="vrijeme" target="Sofija" weight="1.0" />
+      <edge id="133" source="vrijeme" target="Dulait" weight="1.0" />
+      <edge id="134" source="vrijeme" target="umjetnik" weight="2.0" />
+      <edge id="135" source="rod" target="rad" weight="1.0" />
+      <edge id="136" source="rod" target="sredina" weight="1.0" />
+      <edge id="137" source="rod" target="Tuzla" weight="1.0" />
+      <edge id="138" source="rod" target="kontekst" weight="1.0" />
+      <edge id="139" source="photoshop" target="obrazac" weight="1.0" />
+      <edge id="140" source="photoshop" target="tehnologija" weight="1.0" />
+      <edge id="141" source="photoshop" target="alat" weight="1.0" />
+      <edge id="142" source="medij" target="prodaja" weight="1.0" />
+      <edge id="143" source="medij" target="store" weight="1.0" />
+      <edge id="144" source="medij" target="rad" weight="1.0" />
+      <edge id="145" source="medij" target="humor" weight="1.0" />
+      <edge id="146" source="medij" target="fotografija" weight="2.0" />
+      <edge id="147" source="medij" target="vrsta" weight="1.0" />
+      <edge id="148" source="medij" target="uvjet" weight="1.0" />
+      <edge id="149" source="medij" target="zaigranost" weight="1.0" />
+      <edge id="150" source="BOOOOOOOM" target="blend-" weight="1.0" />
+      <edge id="151" source="strana" target="Lafeda" weight="1.0" />
+      <edge id="152" source="strana" target="Massarott" weight="1.0" />
+      <edge id="153" source="strana" target="ideja" weight="1.0" />
+      <edge id="154" source="strana" target="Barcelona" weight="1.0" />
+      <edge id="155" source="strana" target="Maur" weight="1.0" />
+      <edge id="156" source="projekt" target="Lafeda" weight="1.0" />
+      <edge id="157" source="projekt" target="Massarott" weight="1.0" />
+      <edge id="158" source="projekt" target="umjetnost" weight="1.0" />
+      <edge id="159" source="projekt" target="muzej" weight="1.0" />
+      <edge id="160" source="projekt" target="MU" weight="1.0" />
+      <edge id="161" source="projekt" target="Dugava" weight="1.0" />
+      <edge id="162" source="projekt" target="Barcelona" weight="1.0" />
+      <edge id="163" source="projekt" target="ideja" weight="1.0" />
+      <edge id="164" source="projekt" target="mural" weight="1.0" />
+      <edge id="165" source="projekt" target="Maur" weight="1.0" />
+      <edge id="166" source="projekt" target="strana" weight="1.0" />
+      <edge id="167" source="uzor" target="faza" weight="1.0" />
+      <edge id="168" source="uzor" target="utjecaj" weight="1.0" />
+      <edge id="169" source="uzor" target="razvijanje" weight="1.0" />
+      <edge id="170" source="uzor" target="Os" weight="1.0" />
+      <edge id="171" source="uzor" target="moj" weight="1.0" />
+      <edge id="172" source="uzor" target="umjetnik" weight="1.0" />
+      <edge id="173" source="uzor" target="stil" weight="1.0" />
+      <edge id="174" source="uzor" target="street" weight="1.0" />
+      <edge id="175" source="rezultat" target="sloj" weight="1.0" />
+      <edge id="176" source="rezultat" target="estetika" weight="1.0" />
+      <edge id="177" source="umjetnost" target="sredina" weight="1.0" />
+      <edge id="178" source="umjetnost" target="situacija" weight="1.0" />
+      <edge id="179" source="umjetnost" target="mural" weight="1.0" />
+      <edge id="180" source="umjetnost" target="Dugava" weight="1.0" />
+      <edge id="181" source="element" target="projekt" weight="1.0" />
+      <edge id="182" source="element" target="dio" weight="1.0" />
+      <edge id="183" source="element" target="umjetnost" weight="1.0" />
+      <edge id="184" source="element" target="muzej" weight="1.0" />
+      <edge id="185" source="element" target="Dugava" weight="1.0" />
+      <edge id="186" source="element" target="rad" weight="1.0" />
+      <edge id="187" source="element" target="mural" weight="1.0" />
+      <edge id="188" source="element" target="internet" weight="1.0" />
+      <edge id="189" source="mana" target="rad" weight="1.0" />
+      <edge id="190" source="mana" target="granica" weight="1.0" />
+      <edge id="191" source="mana" target="Emir" weight="1.0" />
+      <edge id="192" source="mana" target="zeitgeist" weight="1.0" />
+      <edge id="193" source="strategija" target="prostor" weight="1.0" />
+      <edge id="194" source="strategija" target="manipuliranje" weight="1.0" />
+      <edge id="195" source="strategija" target="street" weight="1.0" />
+      <edge id="196" source="strategija" target="art" weight="1.0" />
+      <edge id="197" source="bor" target="umjetnik" weight="1.0" />
+      <edge id="198" source="portal" target="blend-" weight="1.0" />
+      <edge id="199" source="portal" target="BOOOOOOOM" weight="1.0" />
+      <edge id="200" source="stvar" target="godina" weight="1.0" />
+      <edge id="201" source="stvar" target="vid" weight="1.0" />
+      <edge id="202" source="stvar" target="blend-" weight="1.0" />
+      <edge id="203" source="stvar" target="rad" weight="2.0" />
+      <edge id="204" source="stvar" target="Emir" weight="1.0" />
+      <edge id="205" source="stvar" target="portal" weight="1.0" />
+      <edge id="206" source="stvar" target="BOOOOOOOM" weight="1.0" />
+      <edge id="207" source="stvar" target="knjiga" weight="1.0" />
+      <edge id="208" source="prodaja" target="store" weight="1.0" />
+      <edge id="209" source="Dulait" target="bor" weight="1.0" />
+      <edge id="210" source="Dulait" target="umjetnik" weight="1.0" />
+      <edge id="211" source="blog" target="potraga" weight="1.0" />
+      <edge id="212" source="moj" target="utjecaj" weight="1.0" />
+      <edge id="213" source="moj" target="razvijanje" weight="1.0" />
+      <edge id="214" source="moj" target="Os" weight="1.0" />
+      <edge id="215" source="moj" target="street" weight="1.0" />
+      <edge id="216" source="moj" target="faza" weight="1.0" />
+      <edge id="217" source="moj" target="stil" weight="1.0" />
+      <edge id="218" source="moj" target="umjetnik" weight="1.0" />
+      <edge id="219" source="manipuliranje" target="art" weight="1.0" />
+      <edge id="220" source="manipuliranje" target="prostor" weight="1.0" />
+      <edge id="221" source="manipuliranje" target="street" weight="1.0" />
+      <edge id="222" source="zaigranost" target="uvjet" weight="1.0" />
+      <edge id="223" source="zaigranost" target="fotografija" weight="1.0" />
+      <edge id="224" source="vrsta" target="humor" weight="1.0" />
+      <edge id="225" source="vrsta" target="fotografija" weight="1.0" />
+      <edge id="226" source="vrsta" target="uvjet" weight="1.0" />
+      <edge id="227" source="vrsta" target="zaigranost" weight="1.0" />
+      <edge id="228" source="stranica" target="potraga" weight="1.0" />
+      <edge id="229" source="stranica" target="blog" weight="1.0" />
+      <edge id="230" source="internet" target="projekt" weight="1.0" />
+      <edge id="231" source="internet" target="dio" weight="1.0" />
+      <edge id="232" source="internet" target="umjetnost" weight="1.0" />
+      <edge id="233" source="internet" target="muzej" weight="1.0" />
+      <edge id="234" source="internet" target="Dugava" weight="1.0" />
+      <edge id="235" source="internet" target="mural" weight="1.0" />
+      <edge id="236" source="sredina" target="prodaja" weight="1.0" />
+      <edge id="237" source="sredina" target="situacija" weight="1.0" />
+      <edge id="238" source="sredina" target="rad" weight="1.0" />
+      <edge id="239" source="sredina" target="ovjek" weight="1.0" />
+      <edge id="240" source="sredina" target="store" weight="1.0" />
+      <edge id="241" source="sredina" target="Emir" weight="1.0" />
+      <edge id="242" source="sredina" target="Tebe" weight="1.0" />
+      <edge id="243" source="sredina" target="medij" weight="1.0" />
+      <edge id="244" source="vid" target="knjiga" weight="1.0" />
+      <edge id="245" source="Dugava" target="projekt" weight="1.0" />
+      <edge id="246" source="Dugava" target="Lafeda" weight="1.0" />
+      <edge id="247" source="Dugava" target="dio" weight="1.0" />
+      <edge id="248" source="Dugava" target="Massarott" weight="1.0" />
+      <edge id="249" source="Dugava" target="strana" weight="1.0" />
+      <edge id="250" source="Dugava" target="MU" weight="1.0" />
+      <edge id="251" source="Dugava" target="ideja" weight="1.0" />
+      <edge id="252" source="Dugava" target="mural" weight="1.0" />
+      <edge id="253" source="Dugava" target="Maur" weight="1.0" />
+      <edge id="254" source="Dugava" target="Barcelona" weight="1.0" />
+      <edge id="255" source="artist" target="prostor" weight="1.0" />
+      <edge id="256" source="artist" target="manipuliranje" weight="1.0" />
+      <edge id="257" source="artist" target="street" weight="1.0" />
+      <edge id="258" source="artist" target="art" weight="1.0" />
+      <edge id="259" source="artist" target="strategija" weight="1.0" />
+      <edge id="260" source="humor" target="fotografija" weight="1.0" />
+      <edge id="261" source="humor" target="uvjet" weight="1.0" />
+      <edge id="262" source="humor" target="zaigranost" weight="1.0" />
+      <edge id="263" source="galerija" target="rad" weight="1.0" />
+      <edge id="264" source="galerija" target="njegov" weight="1.0" />
+      <edge id="265" source="galerija" target="nastavak" weight="1.0" />
+      <edge id="266" source="galerija" target="umjetnik" weight="1.0" />
+      <edge id="267" source="Emir" target="artist" weight="1.0" />
+      <edge id="268" source="Emir" target="utjecaj" weight="1.0" />
+      <edge id="269" source="Emir" target="alat" weight="1.0" />
+      <edge id="270" source="Emir" target="strategija" weight="1.0" />
+      <edge id="271" source="Emir" target="Esh" weight="1.0" />
+      <edge id="272" source="Emir" target="Os" weight="1.0" />
+      <edge id="273" source="Emir" target="prodaja" weight="1.0" />
+      <edge id="274" source="Emir" target="uzor" weight="1.0" />
+      <edge id="275" source="Emir" target="moj" weight="1.0" />
+      <edge id="276" source="Emir" target="granica" weight="1.0" />
+      <edge id="277" source="Emir" target="store" weight="1.0" />
+      <edge id="278" source="Emir" target="photoshop" weight="1.0" />
+      <edge id="279" source="Emir" target="razvijanje" weight="1.0" />
+      <edge id="280" source="Emir" target="godina" weight="1.0" />
+      <edge id="281" source="Emir" target="art" weight="1.0" />
+      <edge id="282" source="Emir" target="vid" weight="1.0" />
+      <edge id="283" source="Emir" target="tehnologija" weight="1.0" />
+      <edge id="284" source="Emir" target="manipuliranje" weight="1.0" />
+      <edge id="285" source="Emir" target="rad" weight="2.0" />
+      <edge id="286" source="Emir" target="medij" weight="1.0" />
+      <edge id="287" source="Emir" target="obrazac" weight="1.0" />
+      <edge id="288" source="Emir" target="knjiga" weight="1.0" />
+      <edge id="289" source="Emir" target="street" weight="3.0" />
+      <edge id="290" source="Emir" target="faza" weight="1.0" />
+      <edge id="291" source="Emir" target="zeitgeist" weight="1.0" />
+      <edge id="292" source="Emir" target="umjetnik" weight="1.0" />
+      <edge id="293" source="Emir" target="prostor" weight="1.0" />
+      <edge id="294" source="Emir" target="stil" weight="1.0" />
+      <edge id="295" source="stil" target="Os" weight="1.0" />
+      <edge id="296" source="Massarott" target="Lafeda" weight="1.0" />
+      <edge id="297" source="Massarott" target="ideja" weight="1.0" />
+      <edge id="298" source="Massarott" target="Barcelona" weight="1.0" />
+      <edge id="299" source="MU" target="Lafeda" weight="1.0" />
+      <edge id="300" source="MU" target="Massarott" weight="1.0" />
+      <edge id="301" source="MU" target="strana" weight="1.0" />
+      <edge id="302" source="MU" target="ideja" weight="1.0" />
+      <edge id="303" source="MU" target="Maur" weight="1.0" />
+      <edge id="304" source="MU" target="Barcelona" weight="1.0" />
+      <edge id="305" source="street" target="art" weight="2.0" />
+      <edge id="306" source="street" target="artist" weight="1.0" />
+      <edge id="307" source="street" target="manipuliranje" weight="1.0" />
+      <edge id="308" source="street" target="Os" weight="1.0" />
+      <edge id="309" source="street" target="strategija" weight="1.0" />
+      <edge id="310" source="street" target="prostor" weight="1.0" />
+      <edge id="311" source="street" target="stil" weight="1.0" />
+      <edge id="312" source="street" target="umjetnik" weight="1.0" />
+      <edge id="313" source="nastavak" target="njegov" weight="1.0" />
+      <edge id="314" source="faza" target="utjecaj" weight="1.0" />
+      <edge id="315" source="faza" target="razvijanje" weight="1.0" />
+      <edge id="316" source="faza" target="Os" weight="1.0" />
+      <edge id="317" source="faza" target="street" weight="1.0" />
+      <edge id="318" source="faza" target="stil" weight="1.0" />
+      <edge id="319" source="faza" target="umjetnik" weight="1.0" />
+      <edge id="320" source="ovjek" target="prodaja" weight="1.0" />
+      <edge id="321" source="ovjek" target="rad" weight="1.0" />
+      <edge id="322" source="ovjek" target="store" weight="1.0" />
+      <edge id="323" source="ovjek" target="Emir" weight="1.0" />
+      <edge id="324" source="ovjek" target="Tebe" weight="1.0" />
+      <edge id="325" source="ovjek" target="medij" weight="1.0" />
+      <edge id="326" source="temelj" target="potencijal" weight="1.0" />
+      <edge id="327" source="temelj" target="fotografija" weight="1.0" />
+      <edge id="328" source="Tebe" target="prodaja" weight="1.0" />
+      <edge id="329" source="Tebe" target="rad" weight="1.0" />
+      <edge id="330" source="Tebe" target="Emir" weight="1.0" />
+      <edge id="331" source="Tebe" target="medij" weight="1.0" />
+      <edge id="332" source="Tebe" target="store" weight="1.0" />
+      <edge id="333" source="fotografija" target="tehnologija" weight="1.0" />
+      <edge id="334" source="fotografija" target="obrazac" weight="1.0" />
+      <edge id="335" source="fotografija" target="alat" weight="1.0" />
+      <edge id="336" source="fotografija" target="potencijal" weight="1.0" />
+      <edge id="337" source="fotografija" target="vrsta" weight="1.0" />
+      <edge id="338" source="fotografija" target="humor" weight="1.0" />
+      <edge id="339" source="fotografija" target="zaigranost" weight="1.0" />
+      <edge id="340" source="fotografija" target="Emir" weight="1.0" />
+      <edge id="341" source="fotografija" target="uvjet" weight="1.0" />
+      <edge id="342" source="fotografija" target="photoshop" weight="1.0" />
     </edges>
   </graph>
 </gexf>
