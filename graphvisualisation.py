@@ -36,20 +36,3 @@ class GraphVisualisation:
             edgewidth -= 0.2
         
         plt.savefig("{}/{}_matplot.png".format(self._save_dir_path, plot_title))
-     
-    def visualize_images_as_subplots(self, image_paths = []):
-        if len(image_paths) == 0:
-            return
-        
-        rows = math.floor(len(image_paths) / 2)
-        cols = math.ceil(len(image_paths) / 2)
- 
-         
-#     fig, ax = plt.subplots(figsize=(15, 10))
-#    plt.bar(degrees, counts, width = 0.7, color = 'b')
-#    
-#    plt.title("Degree Histogram")
-#    plt.ylabel("Count")
-#    plt.xlabel("Degree")
-#    ax.set_xticks([d + 0.4 for d in degrees])
-#    ax.set_xticklabels(degrees)
