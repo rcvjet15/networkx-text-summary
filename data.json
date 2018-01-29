@@ -1,0 +1,39 @@
+{
+	"articles": [{
+			"id": 1,
+			"url": "http://pogledaj.to/art/magija-i-folklor-u-velegradu/",
+			"name": "Magija i folklor u velegradu",
+			"dictionary_path": "./Oznake vrsta rijeci/GRUPA1/14-oznake.txt",
+			"content-selector": {
+				"class": "main the-content"
+			}
+		},
+		{
+			"id": 2,
+			"url": "http://pogledaj.to/art/veliki-paket-zraka/",
+			"name": "Veliki paket zraka",
+			"dictionary_path": "./Oznake vrsta rijeci/GRUPA1/3-oznake.txt",
+			"content-selector": {
+				"class": "main the-content"
+			}
+		},
+		{
+			"id": 3,
+			"url": "http://pogledaj.to/arhitektura/vukovar-ceka-svoju-atrakciju/",
+			"name": "Vukovar ceka svoju atrakciju",
+			"dictionary_path": "./Oznake vrsta rijeci/GRUPA1/2-oznake.txt",
+			"content-selector": {
+				"class": "main the-content"
+			}
+		},
+		{
+			"id": 4,
+			"url": "http://pogledaj.to/art/zivot-je-cupav-i-dlakav/",
+			"name": "Zivot je cupav i dlakav",
+			"dictionary_path": "./Oznake vrsta rijeci/GRUPA1/6-oznake.txt",
+			"content-selector": {
+				"class": "main the-content"
+			}
+		}
+	]
+}
