@@ -82,30 +82,41 @@ def get_graph(article):
     write_graph(graph, article["name"])
     
     return graph
+
+def get_article(article_id):
+    main_article = None
+    
+    for article in articles:
+        if article['id'] == article_id:
+            main_article = article
+            break
+        
+    if article is None:
+        abort(404, message = "Invalid article ID.")
+            
+    return main_article
     
 class GraphResource(Resource):
     
     def get(self, article_id):
-        print(request.args)
-        print("article_id {}".format(article_id))
-        if article_id < 1 or article_id > 4:
-            abort(404, message = "Invalid text ID.")
-       
-        main_article = None
-   
-        for article in articles:
-            if article['id'] == article_id:
-                main_article = article
-                break
-   
-        graph = get_graph(main_article)
-        return json_graph.node_link_data(graph)
-       
+        
+        article = get_article(article_id)
+            
+        graph = get_graph(article)
+        return { "graph": json_graph.node_link_data(graph) }
+        
+class ArticleResource(Resource):
+    def get(self, article_id):
+        article = get_article(article_id)
+        
+        return article
+        
         
 #####
 # Resources
 #####
 api.add_resource(GraphResource, "/api/graph/<int:article_id>")
+api.add_resource(ArticleResource, "/api/article/<int:article_id>")
 
 #####
 # App config
