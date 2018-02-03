@@ -28,9 +28,10 @@ class TextProcess:
     
     # method that start text processing process
     def get_filtered_sentences(self):
-        text = self.__get_text_from_html()
+        text = self.__get_text_from_html()        
         sentences = self.__get_sentences(text)
         filtered_sentences = list(self.__get_filtered_sentence(sentence) for sentence in sentences if sentence)
+        
         return filtered_sentences
         
     def __get_text_from_html(self):

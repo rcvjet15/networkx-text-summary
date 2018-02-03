@@ -1,19 +1,17 @@
 from flask import Flask, request
-from flask_restful import Resource, Api, abort, reqparse
+from flask_restful import abort
+from flask_cors import CORS
 import json
 import networkx as nx
-from networkx.readwrite import json_graph
-from textprocess import TextProcess
-from dictionary import Dictionary
-from localgridanalysis import LocalGridAnalysis
-from graphvisualisation import GraphVisualisation
+import graph_lib as glib
 import os
+from dictionary import Dictionary
 
 #####
 # App initialization
 #####
 app = Flask(__name__)
-api = Api(app)
+CORS(app)
 articles = json.load(open('data.json'))['articles']
 GRAPH_DIR_PATH = "Graph/"
 
@@ -24,7 +22,7 @@ def get_graph_path(name):
     name = "_".join(name.split())
     return "{}/{}".format(GRAPH_DIR_PATH, name)
     
-def write_graph(graph, name):
+def save_graph(graph, name):
     if graph is None:
         return
         
@@ -33,57 +31,20 @@ def write_graph(graph, name):
     if not os.path.exists(path):
         nx.write_weighted_edgelist(graph, path, encoding="utf-8")
     
-def get_graph(article):
-    path = get_graph_path(article["name"])
+def load_graph(article, dictionary_types = [Dictionary.NOUN], fetch_from_url = False):
+    if not fetch_from_url:
+        path = get_graph_path(article["name"])
     
-    if os.path.exists(path):
-        return nx.read_weighted_edgelist(path, encoding="utf-8")
-        
-    ###
-    # Text processing
-    ###
-    # Create instance of TextProcess class that fetches text from url and filters it
-    tp = TextProcess(url=article["url"], filename=article["name"], content_selector_dict=article["content-selector"])
+        if os.path.exists(path):
+            return nx.read_weighted_edgelist(path, encoding="utf-8")        
     
-    # Get filtered senteces in list
-    filtered_sentences = tp.get_filtered_sentences()
+    graph = glib.get_graph(article, dictionary_types)
     
-    print("Got filtered sentences.")
-    
-    ###
-    # Dictionary extraction
-    ###
-    # Create instance of Dictionary class comparses filtered sentences with those in 
-    # dictionary and creates node and edge list
-    wt = Dictionary(dictionary_path=article["dictionary_path"])
-    
-    # Sets node nad edge list. First parameter is fitlered sentences, second is array
-    # of wanted word types. Words that are not connected to other are set as node list
-    # those that are connected are stored as edge list
-    wt.set_words_as_node_and_egde_list(filtered_sentences, [Dictionary.NOUN])
-    # Creates dictionary array that sets weight to amount of occurences of each pair
-    wt.set_edge_list_as_weighted_edges()
-    
-    print("Got dictionary.")
-    
-    ###
-    # Graph creation
-    ###
-    # Create directed graph
-    graph = nx.DiGraph() 
-    # Adds edges to graph. Passed parameter consists of dictionary where each element
-    # is tuple that consists of: (node1, node2, weight)
-    graph.add_weighted_edges_from(wt.edge_list)
-    # Adds nodes list. Words that are not connected are stored as nodes list
-    graph.add_nodes_from(wt.node_list)
-    
-    print("Set graph.")
-    
-    write_graph(graph, article["name"])
+    save_graph(graph, article["name"])
     
     return graph
 
-def get_article(article_id):
+def load_article(article_id):
     main_article = None
     
     for article in articles:
@@ -95,28 +56,32 @@ def get_article(article_id):
         abort(404, message = "Invalid article ID.")
             
     return main_article
-    
-class GraphResource(Resource):
-    
-    def get(self, article_id):
-        
-        article = get_article(article_id)
-            
-        graph = get_graph(article)
-        return { "graph": json_graph.node_link_data(graph) }
-        
-class ArticleResource(Resource):
-    def get(self, article_id):
-        article = get_article(article_id)
-        
-        return article
-        
-        
+
 #####
-# Resources
+# Routes
 #####
-api.add_resource(GraphResource, "/api/graph/<int:article_id>")
-api.add_resource(ArticleResource, "/api/article/<int:article_id>")
+@app.route("/api/graphs")
+def get_graph():
+    
+    article_id = int(request.args.get("article_id"))
+    dict_types = list(request.args.getlist("dictionary_types"))
+    
+    print("Request args: {}".format([article_id, dict_types]))
+    
+    article = load_article(article_id)    
+    graph = load_graph(article, dict_types, fetch_from_url = True)
+    graph_data = glib.get_sigma_graph(graph)            
+    
+    # return json.dumps({"nodes": graph.nodes(), "edges": graph.edges()})
+    return json.dumps(graph_data)
+        
+@app.route("/api/article/<int:article_id>")
+def get_article(article_id):
+    article = load_article(article_id)
+    
+    article["text"] = glib.get_filtered_sentences(article)
+    return json.dumps(article)
+        
 
 #####
 # App config
