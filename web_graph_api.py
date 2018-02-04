@@ -31,12 +31,12 @@ def save_graph(graph, name):
     if not os.path.exists(path):
         nx.write_weighted_edgelist(graph, path, encoding="utf-8")
     
-def load_graph(article, dictionary_types = [Dictionary.NOUN], fetch_from_url = False):
-    if not fetch_from_url:
-        path = get_graph_path(article["name"])
+def load_graph(article, dictionary_types):
     
-        if os.path.exists(path):
-            return nx.read_weighted_edgelist(path, encoding="utf-8")        
+    path = get_graph_path(article["name"])
+
+    if os.path.exists(path):
+        return nx.read_weighted_edgelist(path, encoding="utf-8")        
     
     graph = glib.get_graph(article, dictionary_types)
     
@@ -54,7 +54,9 @@ def load_article(article_id):
         
     if article is None:
         abort(404, message = "Invalid article ID.")
-            
+    
+    main_article["sentences"] = glib.get_filtered_sentences(article)
+    
     return main_article
 
 #####
@@ -64,22 +66,30 @@ def load_article(article_id):
 def get_graph():
     
     article_id = int(request.args.get("article_id"))
-    dict_types = list(request.args.getlist("dictionary_types"))
+    dict_types_json = request.args.get("dictionary_types")
     
-    print("Request args: {}".format([article_id, dict_types]))
+    dict_types = []
+    if dict_types_json is None:
+        dict_types.append(Dictionary.NOUN)
+    else:        
+        dict_types = [value for value in json.loads(dict_types_json).values()]    
     
     article = load_article(article_id)    
-    graph = load_graph(article, dict_types, fetch_from_url = True)
-    graph_data = glib.get_sigma_graph(graph)            
+    graph = load_graph(article, dict_types)    
+    graph_data = glib.get_sigma_graph(graph)
+    graph_data["article"] = article
     
-    # return json.dumps({"nodes": graph.nodes(), "edges": graph.edges()})
     return json.dumps(graph_data)
-        
+
+@app.route("/api/articles")
+def get_articles():        
+    return json.dumps(articles)
+      
 @app.route("/api/article/<int:article_id>")
 def get_article(article_id):
     article = load_article(article_id)
     
-    article["text"] = glib.get_filtered_sentences(article)
+    article["sentences"] = glib.get_filtered_sentences(article)
     return json.dumps(article)
         
 

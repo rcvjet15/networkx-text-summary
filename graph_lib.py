@@ -16,9 +16,6 @@ def get_filtered_sentences(article):
     return tp.get_filtered_sentences()
     
 def get_graph(article, dictionary_types):
-    
-    filtered_sentences = get_filtered_sentences(article)
-    
     ###
     # Dictionary extraction
     ###
@@ -29,7 +26,7 @@ def get_graph(article, dictionary_types):
     # Sets node nad edge list. First parameter is fitlered sentences, second is array
     # of wanted word types. Words that are not connected to other are set as node list
     # those that are connected are stored as edge list
-    wt.set_words_as_node_and_egde_list(filtered_sentences, dictionary_types)
+    wt.set_words_as_node_and_egde_list(article["sentences"], dictionary_types)
     # Creates dictionary array that sets weight to amount of occurences of each pair
     wt.set_edge_list_as_weighted_edges()
            
@@ -47,10 +44,8 @@ def get_graph(article, dictionary_types):
     return graph
     
 def get_graph_edge_list(article):
-    filtered_sentences = get_filtered_sentences(article)
-    
     wt = Dictionary(dictionary_path=article["dictionary_path"])    
-    wt.set_words_as_node_and_egde_list(filtered_sentences, [Dictionary.NOUN])    
+    wt.set_words_as_node_and_egde_list(article["sentences"], [Dictionary.NOUN])    
     wt.set_edge_list_as_weighted_edges()
     return wt.edge_list
     
@@ -61,6 +56,8 @@ def get_sigma_graph(graph):
     # Add label key to node
     for node in graph_json["nodes"]:
         node["label"] = node["id"].title()
+        node["color"] = "#000"
+        node["size"] = 30
     
     graph_json["edges"] = []
     edge_count = 0
@@ -75,8 +72,7 @@ def get_sigma_graph(graph):
             "id" : "e{}".format(edge_count),
             "source" : graph_json["nodes"][source]["id"],
             "target" : graph_json["nodes"][target]["id"],
-            # "size" : weight * 10,
-            # "color" : "red"            
+            "size" : weight / 2
         })
         
         edge_count += 1
