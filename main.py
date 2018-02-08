@@ -27,7 +27,7 @@ articles = [
       "content-selector" : { "class" : "main the-content"}},]          
 
     
-for article in articles:
+for article in articles[0:1]:
     ###
     # Text processing
     ###

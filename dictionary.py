@@ -21,6 +21,14 @@ class Dictionary:
     def edge_list(self):
         return self._edge_list
         
+    @property
+    def original_nominative_list(self):
+        return self._original_nominative_list
+    
+    @property
+    def nominative_original_list(self):
+        return self._nominative_original_list
+        
     # dictionary_path specifies relative path of file where marked words are 
     def __init__(self, dictionary_path=None):
         self._dictionary_path = dictionary_path
@@ -30,7 +38,9 @@ class Dictionary:
         self._word_type_idx = 2 # word type column index
         self._word_nominative_idx = 3 # word as nominative column index
         self._node_list = []
-        self._edge_list = []        
+        self._edge_list = []
+        self._original_nominative_list = []
+        self._nominative_original_list = []
     
     # sentences from which words will be compared in dictionary file.
     # wanted word types contains array of wanted types that will be extracted (nouns, verbs etc)
@@ -56,8 +66,12 @@ class Dictionary:
                     if len(columns) > 0:
                         # check if dictionary word has valid type and sentence contains word from dictionary
                         if self.__is_valid_type(columns, word_types) and word == columns[self._word_original_idx]:
+                            nominative = columns[self._word_nominative_idx]
                             # if word is valid, get it as nominative from dictionary
-                            valid_words.append(columns[self._word_nominative_idx])   
+                            valid_words.append(nominative) 
+                            
+                            self._original_nominative_list.append((word, nominative))
+                            self._nominative_original_list.append((nominative, word))
                             break  
                         
             # if sentence contains only one valid word, add it to node list

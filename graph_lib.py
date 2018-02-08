@@ -41,6 +41,11 @@ def get_graph(article, dictionary_types):
     # Adds nodes list. Words that are not connected are stored as nodes list
     graph.add_nodes_from(wt.node_list)
     
+    for node_value in graph.nodes():
+        for nominative, original in wt.nominative_original_list:            
+            if (node_value == nominative):                
+                graph.node[node_value]['original'] = original
+        
     return graph
     
 def get_graph_edge_list(article):
@@ -48,20 +53,42 @@ def get_graph_edge_list(article):
     wt.set_words_as_node_and_egde_list(article["sentences"], [Dictionary.NOUN])    
     wt.set_edge_list_as_weighted_edges()
     return wt.edge_list
+
+def get_centrality_node_value(centrality_dict_arr, nodeKey):
+    value = None
+    for node in centrality_dict_arr:
+        if node[0] == nodeKey:
+            value = node[1]
+            break
+    
+    return value
     
 def get_sigma_graph(graph):
     
     graph_json = json_graph.node_link_data(graph)
     
+    lga = LocalGridAnalysis(graph = graph)
+    degree_centrality_nodes = lga.get_degree_centrality_nodes()
+    betweenness_centrality_nodes = lga.get_betweenness_centrality_nodes()
+    pagerank_nodes = lga.get_pagerank_nodes()
+    
     # Add label key to node
     for node in graph_json["nodes"]:
-        node["label"] = node["id"].title()
-        node["color"] = "#000"
-        node["size"] = 30
-    
+        dCentrality = get_centrality_node_value(degree_centrality_nodes, node["id"])
+        bCentrality = get_centrality_node_value(betweenness_centrality_nodes, node["id"])
+        pagerank = get_centrality_node_value(pagerank_nodes, node["id"])
+        
+        node["label"] = node["id"]
+        node["color"] = "#E1D804"
+        node["degreeCentrality"] = dCentrality
+        node["betweennessCentrality"] = bCentrality
+        node["pagerank"] = pagerank
+        node["size"] = dCentrality * 20
+        node["original"] = graph.node[node["id"]]["original"]
+        
     graph_json["edges"] = []
     edge_count = 0
-    
+        
     for link in graph_json["links"]:
         source = link["source"]
         weight = link["weight"]
@@ -72,7 +99,7 @@ def get_sigma_graph(graph):
             "id" : "e{}".format(edge_count),
             "source" : graph_json["nodes"][source]["id"],
             "target" : graph_json["nodes"][target]["id"],
-            "size" : weight / 2
+            "size" : weight / 3
         })
         
         edge_count += 1
