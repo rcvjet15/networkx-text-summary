@@ -29,6 +29,28 @@ class Dictionary:
     def nominative_original_list(self):
         return self._nominative_original_list
         
+    @property
+    def words_types(self):
+        return self._words_types
+         
+    @property
+    def all_types(self):
+        return [
+            Dictionary.NOUN,
+            Dictionary.VERB,
+            Dictionary.ADJECTIVE,
+            Dictionary.PRONOUN,
+            Dictionary.ADVERB,
+            Dictionary.ADPOSITION,
+            Dictionary.CONJUCTION,
+            Dictionary.NUMERAL,
+            Dictionary.PARTICLE,
+            Dictionary.INTERJECTION,
+            Dictionary.ABBRECIATION,
+            Dictionary.RESIDUAL,
+            Dictionary.PUNCTUATION
+        ]
+    
     # dictionary_path specifies relative path of file where marked words are 
     def __init__(self, dictionary_path=None):
         self._dictionary_path = dictionary_path
@@ -41,6 +63,7 @@ class Dictionary:
         self._edge_list = []
         self._original_nominative_list = []
         self._nominative_original_list = []
+        self._words_types = []
     
     # sentences from which words will be compared in dictionary file.
     # wanted word types contains array of wanted types that will be extracted (nouns, verbs etc)
@@ -72,6 +95,7 @@ class Dictionary:
                             
                             self._original_nominative_list.append((word, nominative))
                             self._nominative_original_list.append((nominative, word))
+                            self._words_types.append((word, columns[self._word_type_idx][0]))
                             break  
                         
             # if sentence contains only one valid word, add it to node list

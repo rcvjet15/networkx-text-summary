@@ -54,6 +54,7 @@ def load_graph(article, dictionary_types):
         if os.path.exists(path):
             return nx.read_weighted_edgelist(path, encoding="utf-8")        
     
+    # dictionary_types = [Dictionary.NOUN, Dictionary.CONJUCTION]
     graph = glib.get_graph(article, dictionary_types)
     
     if USE_GRAPH_FILE:
@@ -77,6 +78,20 @@ def load_article(article_id):
 #####
 # Routes
 #####
+@app.route("/api/all-graphs")
+def get_all_graphs():
+    all_graphs_data = []
+    dict_types = []
+    
+    for article in articles:
+        article = load_article(article["id"])    
+        graph = load_graph(article, dict_types)    
+        graph_data = glib.get_sigma_graph(graph)
+        graph_data["articleId"] = article["id"]
+        all_graphs_data.append(graph_data)
+        
+    return json.dumps(all_graphs_data)
+    
 @app.route("/api/graphs")
 def get_graph():
     
@@ -84,11 +99,10 @@ def get_graph():
     dict_types_json = request.args.get("dictionary_types")
     
     dict_types = []
-    if dict_types_json is None:
-        dict_types.append(Dictionary.NOUN)
-    else:        
-        dict_types = [value for value in json.loads(dict_types_json).values()]    
     
+    if dict_types_json is not None:
+        dict_types = [value for value in json.loads(dict_types_json).values()]
+            
     article = load_article(article_id)    
     graph = load_graph(article, dict_types)    
     graph_data = glib.get_sigma_graph(graph)

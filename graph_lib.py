@@ -15,7 +15,7 @@ def get_filtered_sentences(article):
     # Get filtered senteces in list
     return tp.get_filtered_sentences()
     
-def get_graph(article, dictionary_types):
+def get_graph(article, dictionary_types = []):    
     ###
     # Dictionary extraction
     ###
@@ -23,6 +23,9 @@ def get_graph(article, dictionary_types):
     # dictionary and creates node and edge list
     wt = Dictionary(dictionary_path=article["dictionary_path"])
     
+    if (len(dictionary_types) == 0):
+        dictionary_types = wt.all_types
+        
     # Sets node nad edge list. First parameter is fitlered sentences, second is array
     # of wanted word types. Words that are not connected to other are set as node list
     # those that are connected are stored as edge list
@@ -45,6 +48,9 @@ def get_graph(article, dictionary_types):
         for nominative, original in wt.nominative_original_list:            
             if (node_value == nominative):                
                 graph.node[node_value]['original'] = original
+        for word, wordType in wt.words_types:
+            if graph.node[node_value]['original'] == word:
+                graph.node[node_value]['wordType'] = wordType
         
     return graph
     
@@ -84,7 +90,6 @@ def get_sigma_graph(graph):
         node["betweennessCentrality"] = bCentrality
         node["pagerank"] = pagerank
         node["size"] = dCentrality * 20
-        node["original"] = graph.node[node["id"]]["original"]
         
     graph_json["edges"] = []
     edge_count = 0
