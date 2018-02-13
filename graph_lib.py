@@ -85,11 +85,9 @@ def get_sigma_graph(graph):
         pagerank = get_centrality_node_value(pagerank_nodes, node["id"])
         
         node["label"] = node["id"]
-        node["color"] = "#E1D804"
         node["degreeCentrality"] = dCentrality
         node["betweennessCentrality"] = bCentrality
         node["pagerank"] = pagerank
-        node["size"] = dCentrality * 20
         
     graph_json["edges"] = []
     edge_count = 0
