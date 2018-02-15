@@ -102,7 +102,7 @@ def get_sigma_graph(graph):
             "id" : "e{}".format(edge_count),
             "source" : graph_json["nodes"][source]["id"],
             "target" : graph_json["nodes"][target]["id"],
-            "size" : weight / 3
+            "weight" : weight            
         })
         
         edge_count += 1
